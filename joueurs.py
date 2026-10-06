@@ -259,6 +259,59 @@ def generer_joueur(poste, calibre, rng=None, nom="", prenom="", age=25, national
     )
 
 
+# Composition d'une feuille de match de 23 joueurs :
+# 15 titulaires + 8 remplaçants (avant/remplacement couverture standard).
+COMPOSITION_23 = [
+    # Titulaires (1-15)
+    ("Loosehead Prop", "titulaire"), ("Hooker", "titulaire"), ("Tighthead Prop", "titulaire"),
+    ("Lock", "titulaire"), ("Lock", "titulaire"),
+    ("Flanker", "titulaire"), ("Flanker", "titulaire"), ("Number 8", "titulaire"),
+    ("Scrum Half", "titulaire"), ("Fly Half", "titulaire"),
+    ("Wing", "titulaire"), ("Inside Centre", "titulaire"),
+    ("Outside Centre", "titulaire"), ("Wing", "titulaire"), ("Full Back", "titulaire"),
+    # Remplaçants (16-23) : couverture classique
+    ("Hooker", "remplacant"), ("Loosehead Prop", "remplacant"),
+    ("Tighthead Prop", "remplacant"), ("Lock", "remplacant"),
+    ("Flanker", "remplacant"), ("Scrum Half", "remplacant"),
+    ("Utility Back", "remplacant"), ("Wing", "remplacant"),
+]
+
+
+def generer_effectif(nom_equipe, calibres, rng=None, ages=None, nationalites=None):
+    """Génère une feuille de match complète de 23 joueurs.
+
+    calibres : liste de 23 calibres (ou un calibre unique pour tout l'effectif).
+    Exemple de distribution réaliste pour un club :
+        ["International"] * 4 + ["National"] * 8 + ["Professional"] * 8 + ["Semi-Pro"] * 3
+    """
+    if isinstance(calibres, str):
+        calibres = [calibres] * 23
+    assert len(calibres) == 23, "Il faut exactement 23 calibres (un par maillot)."
+    rng = rng or random
+    ages = ages or [25] * 23
+    nationalites = nationalites or ["France"] * 23
+    joueurs = []
+    for i, (poste, role) in enumerate(COMPOSITION_23):
+        j = generer_joueur(poste, calibres[i], rng,
+                           nom=f"{nom_equipe}-{i+1:02d}", prenom="Joueur",
+                           age=ages[i], nationalite=nationalites[i])
+        j.role = role
+        j.numero = i + 1
+        joueurs.append(j)
+    return joueurs
+
+
+def profil_secteurs(effectif):
+    """Agrégation par secteur : moyenne des notes ajustées des titulaires,
+    séparée avant (1-8) / charnière (9-10) / lignes arrière (11-15).
+    Premier pas vers le branchement moteur (cf. notes en fin de moteur.py)."""
+    secteurs = {"avant": [], "charniere": [], "arriere": []}
+    for j in effectif:
+        if getattr(j, "role", "titulaire") == "titulaire":
+            secteurs[j.famille()].append(j.note_ajustee())
+    return {s: round(st.mean(v), 1) for s, v in secteurs.items() if v}
+
+
 if __name__ == "__main__":
     joueurs = charger_joueurs_csv()
     print(f"{len(joueurs)} joueurs chargés.")
