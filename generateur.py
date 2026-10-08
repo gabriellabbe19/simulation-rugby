@@ -184,7 +184,7 @@ def generer_joueur(poste, rating, rng=None):
     return Joueur(poste, rating, notes)
 
 
-def tirer_rating(rng, minimum=1, maximum=13, base=0.4):
+def tirer_rating(rng, minimum=1, maximum=13, base=0.7):
     """Distribution exponentielle : l'entonnoir du rugby mondial, beaucoup
     d'amateurs (1-5), quelques world class (12-13)."""
     rng = rng or random
