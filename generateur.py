@@ -185,13 +185,19 @@ def generer_joueur(poste, rating, rng=None):
 
 
 def tirer_rating(rng, minimum=1, maximum=13, base=0.7):
-    """Distribution exponentielle : l'entonnoir du rugby mondial, beaucoup
-    d'amateurs (1-5), quelques world class (12-13)."""
+    """Loi géométrique (analogue discret de l'exponentielle) tronquée par
+    rejet : on tire dans la loi non bornée et on retire si le résultat
+    dépasse le maximum. Les probabilités sur [minimum, maximum] restent
+    donc proportionnelles à la vraie loi, sans accumulation au plafond :
+    P(rating k) ∝ (1 - base) * base^(k-1).
+    """
     rng = rng or random
-    rating = 1
-    while rating < maximum and rng.random() < base:
-        rating += 1
-    return max(minimum, min(maximum, rating))
+    while True:
+        rating = 1
+        while rng.random() < base:
+            rating += 1
+        if rating <= maximum:
+            return max(minimum, rating)
 
 
 if __name__ == "__main__":
