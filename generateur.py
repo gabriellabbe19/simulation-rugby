@@ -184,7 +184,7 @@ def generer_joueur(poste, rating, rng=None):
     return Joueur(poste, rating, notes)
 
 
-def tirer_rating(rng, minimum=1, maximum=13, base=0.7):
+def tirer_rating(rng, minimum=1, maximum=13, base=0.65):
     """Loi géométrique (analogue discret de l'exponentielle) tronquée par
     rejet : on tire dans la loi non bornée et on retire si le résultat
     dépasse le maximum. Les probabilités sur [minimum, maximum] restent
