@@ -1,0 +1,816 @@
+﻿ville;pays;nb_departs;nb_arrivees;nb_total;premiere_edition;derniere_edition;editions;description
+'s-Hertogenbosch;Pays-Bas;3;2;5;1996;1996;1996;"départ étape 0 du Tour 1996; départ étape 1 du Tour 1996; départ étape 2 du Tour 1996; arrivée étape 0 du Tour 1996; arrivée étape 1 du Tour 1996"
+Abbeville;France;2;0;2;2012;2015;2012 2015;"départ étape 4 du Tour 2012; départ étape 6 du Tour 2015"
+Agen;France;5;1;6;1951;2024;1951 1980 1996 2000 2024;"départ étape 12 du Tour 1951; départ étape 12 du Tour 1980; départ étape 16 du Tour 1996; départ étape 9 du Tour 2000; départ étape 13 du Tour 2024; arrivée étape 11 du Tour 1951"
+Aigle;Suisse;1;0;1;2022;2022;2022;départ étape 9 du Tour 2022
+Aigurande;France;2;0;2;2008;2011;2008 2011;"départ étape 6 du Tour 2008; départ étape 8 du Tour 2011"
+Aime;France;2;0;2;1995;2002;1995 2002;"départ étape 10 du Tour 1995; départ étape 17 du Tour 2002"
+Aime (La Plagne);France;2;0;2;1984;1987;1984 1987;"départ étape 19 du Tour 1984; départ étape 22 du Tour 1987"
+Aix en Provence;France;5;4;9;1952;2013;1952 1956 1961 1962 2013;"départ étape 14 du Tour 1952; départ étape 16 du Tour 1956; départ étape 13 du Tour 1961; départ étape 17 du Tour 1962; départ étape 6 du Tour 2013; arrivée étape 13 du Tour 1952; arrivée étape 15 du Tour 1956; arrivée étape 12 du Tour 1961; arrivée étape 16 du Tour 1962"
+Aix-les-Bains;France;13;14;27;1948;2001;1948 1951 1954 1958 1960 1962 1965 1972 1974 1989 1991 1996 1998 2001;"départ étape 15 du Tour 1948; départ étape 22 du Tour 1951; départ étape 20 du Tour 1954; départ étape 22 du Tour 1958; départ étape 18 du Tour 1960; départ étape 18 du Tour 1965; départ étape 15 du Tour 1972; départ étape 16 du Tour 1972; départ étape 11 du Tour 1974; départ étape 20 du Tour 1989; départ étape 20 du Tour 1991; départ étape 18 du Tour 1998; départ étape 10 du Tour 2001; arrivée étape 14 du Tour 1948; arrivée étape 21 du Tour 1951; arrivée étape 19 du Tour 1954; arrivée étape 21 du Tour 1958; arrivée étape 17 du Tour 1960; arrivée étape 19 du Tour 1962; arrivée étape 17 du Tour 1965; arrivée étape 14.2 du Tour 1972; arrivée étape 10 du Tour 1974; arrivée étape 19 du Tour 1989; arrivée étape 19 du Tour 1991; arrivée étape 6 du Tour 1996; arrivée étape 17 du Tour 1998; arrivée étape 9 du Tour 2001"
+Ajaccio;France;1;1;2;2013;2013;2013;"départ étape 3 du Tour 2013; arrivée étape 2 du Tour 2013"
+Albertville;France;8;1;9;1998;2025;1998 2012 2016 2018 2019 2021 2022 2025;"départ étape 17 du Tour 1998; départ étape 11 du Tour 2012; départ étape 19 du Tour 2016; départ étape 11 du Tour 2018; départ étape 20 du Tour 2019; départ étape 10 du Tour 2021; départ étape 11 du Tour 2022; départ étape 19 du Tour 2025; arrivée étape 16 du Tour 1998"
+Albi;France;10;11;21;1953;2019;1953 1955 1959 1968 1971 1975 1991 1994 1999 2005 2007 2013 2019;"départ étape 13 du Tour 1953; départ étape 14 du Tour 1955; départ étape 13 du Tour 1959; départ étape 16 du Tour 1968; départ étape 13 du Tour 1971; départ étape 13 du Tour 1975; départ étape 15 du Tour 1991; départ étape 18 du Tour 2005; départ étape 13 du Tour 2007; départ étape 11 du Tour 2019; arrivée étape 12 du Tour 1953; arrivée étape 13 du Tour 1955; arrivée étape 12 du Tour 1959; arrivée étape 15 du Tour 1968; arrivée étape 13 du Tour 1971; arrivée étape 12 du Tour 1975; arrivée étape 13 du Tour 1994; arrivée étape 13 du Tour 1999; arrivée étape 13 du Tour 2007; arrivée étape 7 du Tour 2013; arrivée étape 10 du Tour 2019"
+Alençon;France;3;4;7;1984;2002;1984 1991 1995 2002;"départ étape 7 du Tour 1984; départ étape 9 du Tour 1991; départ étape 4 du Tour 1995; arrivée étape 6 du Tour 1984; arrivée étape 8 du Tour 1991; arrivée étape 3 du Tour 1995; arrivée étape 6 du Tour 2002"
+Alfortville;France;1;0;1;1983;1983;1983;départ étape 22 du Tour 1983
+Alpe d'Huez;France;2;33;35;1952;2026;1952 1976 1977 1978 1979 1981 1982 1983 1984 1986 1987 1988 1989 1990 1991 1992 1994 1995 1997 1999 2001 2003 2004 2006 2008 2011 2013 2015 2018 2022 2026;"départ étape 18 du Tour 1979; départ étape 18 du Tour 1981; arrivée étape 10 du Tour 1952; arrivée étape 9 du Tour 1976; arrivée étape 17 du Tour 1977; arrivée étape 16 du Tour 1978; arrivée étape 17 du Tour 1979; arrivée étape 18 du Tour 1979; arrivée étape 17 du Tour 1981; arrivée étape 16 du Tour 1982; arrivée étape 17 du Tour 1983; arrivée étape 17 du Tour 1984; arrivée étape 18 du Tour 1986; arrivée étape 20 du Tour 1987; arrivée étape 12 du Tour 1988; arrivée étape 17 du Tour 1989; arrivée étape 11 du Tour 1990; arrivée étape 17 du Tour 1991; arrivée étape 14 du Tour 1992; arrivée étape 16 du Tour 1994; arrivée étape 10 du Tour 1995; arrivée étape 13 du Tour 1997; arrivée étape 10 du Tour 1999; arrivée étape 10 du Tour 2001; arrivée étape 8 du Tour 2003; arrivée étape 16 du Tour 2004; arrivée étape 15 du Tour 2006; arrivée étape 17 du Tour 2008; arrivée étape 19 du Tour 2011; arrivée étape 18 du Tour 2013; arrivée étape 20 du Tour 2015; arrivée étape 12 du Tour 2018; arrivée étape 12 du Tour 2022; arrivée étape 19 du Tour 2026; arrivée étape 20 du Tour 2026"
+Altkirch;France;1;0;1;1977;1977;1977;départ étape 13.2 du Tour 1977
+Alès;France;2;2;4;1957;1991;1957 1991;"départ étape 14 du Tour 1957; départ étape 16 du Tour 1991; arrivée étape 13 du Tour 1957; arrivée étape 15 du Tour 1991"
+Amiens;France;9;10;19;1962;2018;1962 1964 1967 1970 1971 1975 1979 1993 1999 2004 2015 2018;"départ étape 4 du Tour 1962; départ étape 3.1 du Tour 1964; départ étape 4 du Tour 1967; départ étape 6 du Tour 1970; départ étape 6.2 du Tour 1971; départ étape 3 du Tour 1975; départ étape 9 du Tour 1979; départ étape 6 du Tour 1999; départ étape 5 du Tour 2004; arrivée étape 3 du Tour 1962; arrivée étape 2 du Tour 1964; arrivée étape 3 du Tour 1967; arrivée étape 5.2 du Tour 1970; arrivée étape 6.1 du Tour 1971; arrivée étape 2 du Tour 1975; arrivée étape 6 du Tour 1993; arrivée étape 5 du Tour 1999; arrivée étape 5 du Tour 2015; arrivée étape 8 du Tour 2018"
+Amiens Métropole;France;1;0;1;2025;2025;2025;départ étape 4 du Tour 2025
+Amorebieta-Etxano;Espagne;1;0;1;2023;2023;2023;départ étape 3 du Tour 2023
+Amsterdam;Pays-Bas;1;0;1;1954;1954;1954;départ étape 1 du Tour 1954
+Ancenis;France;0;1;1;1988;1988;1988;arrivée étape 2 du Tour 1988
+Andorre;Andorre;3;5;8;1964;2016;1964 1993 1997 2009 2016;"départ étape 14 du Tour 1964; départ étape 16 du Tour 1993; départ étape 11 du Tour 1997; arrivée étape 13 du Tour 1964; arrivée étape 15 du Tour 1993; arrivée étape 10 du Tour 1997; arrivée étape 7 du Tour 2009; arrivée étape 9 du Tour 2016"
+Andorre-la-Vieille;Andorre;1;1;2;2009;2021;2009 2021;"départ étape 8 du Tour 2009; arrivée étape 15 du Tour 2021"
+Angers;France;18;18;36;1950;2016;1950 1951 1954 1956 1960 1963 1966 1967 1970 1972 1976 1977 1979 2004 2016;"départ étape 8 du Tour 1950; départ étape 8 du Tour 1951; départ étape 9 du Tour 1954; départ étape 8 du Tour 1956; départ étape 8 du Tour 1960; départ étape 6.2 du Tour 1963; départ étape 7 du Tour 1963; départ étape 7 du Tour 1966; départ étape 0 du Tour 1967; départ étape 1 du Tour 1967; départ étape 3.1 du Tour 1970; départ étape 3.2 du Tour 1970; départ étape 0 du Tour 1972; départ étape 1 du Tour 1972; départ étape 2 du Tour 1976; départ étape 7.2 du Tour 1977; départ étape 8 du Tour 1977; départ étape 6 du Tour 1979; arrivée étape 7 du Tour 1950; arrivée étape 7 du Tour 1951; arrivée étape 8 du Tour 1954; arrivée étape 7 du Tour 1956; arrivée étape 7 du Tour 1960; arrivée étape 6.1 du Tour 1963; arrivée étape 6.2 du Tour 1963; arrivée étape 6 du Tour 1966; arrivée étape 0 du Tour 1967; arrivée étape 2 du Tour 1970; arrivée étape 3.1 du Tour 1970; arrivée étape 0 du Tour 1972; arrivée étape 1 du Tour 1976; arrivée étape 7.1 du Tour 1977; arrivée étape 7.2 du Tour 1977; arrivée étape 5 du Tour 1979; arrivée étape 6 du Tour 2004; arrivée étape 3 du Tour 2016"
+Angoulême;France;1;3;4;1975;2007;1975 2007;"départ étape 8 du Tour 1975; arrivée étape 7 du Tour 1975; arrivée étape 18 du Tour 2007; arrivée étape 19 du Tour 2007"
+Annecy;France;4;2;6;1959;2018;1959 2009 2013 2018;"départ étape 20 du Tour 1959; départ étape 18 du Tour 2009; départ étape 20 du Tour 2013; départ étape 10 du Tour 2018; arrivée étape 19 du Tour 1959; arrivée étape 18 du Tour 2009"
+Annecy-Semnoz;France;0;1;1;2013;2013;2013;arrivée étape 20 du Tour 2013
+Annemasse;France;2;0;2;2004;2023;2004 2023;"départ étape 18 du Tour 2004; départ étape 14 du Tour 2023"
+Annonay Davézieux;France;0;1;1;2012;2012;2012;arrivée étape 12 du Tour 2012
+Antibes;France;2;3;5;1961;1981;1961 1962 1981;"départ étape 12 du Tour 1961; départ étape 18 du Tour 1962; arrivée étape 11 du Tour 1961; arrivée étape 17 du Tour 1962; arrivée étape 1.2 du Tour 1981"
+Anvers;Belgique;2;1;3;2001;2015;2001 2015;"départ étape 3 du Tour 2001; départ étape 3 du Tour 2015; arrivée étape 2 du Tour 2001"
+Anvers Brasschaat;Belgique;1;1;2;1954;1954;1954;"départ étape 2 du Tour 1954; arrivée étape 1 du Tour 1954"
+Aoste;Italie;1;1;2;1949;1949;1949;"départ étape 18 du Tour 1949; arrivée étape 17 du Tour 1949"
+Arbois;France;1;0;1;1963;1963;1963;départ étape 19 du Tour 1963
+Arc-et-Senans;France;2;0;2;1996;2012;1996 2012;"départ étape 6 du Tour 1996; départ étape 9 du Tour 2012"
+Arenberg Porte du Hainaut;France;0;3;3;2010;2022;2010 2014 2022;"arrivée étape 3 du Tour 2010; arrivée étape 5 du Tour 2014; arrivée étape 5 du Tour 2022"
+Argelès;France;0;1;1;1973;1973;1973;arrivée étape 11 du Tour 1973
+Argelès-Gazost;France;1;0;1;1996;1996;1996;départ étape 17 du Tour 1996
+Argentan;France;1;1;2;1991;1991;1991;"départ étape 8 du Tour 1991; arrivée étape 7 du Tour 1991"
+Arlon;Belgique;1;0;1;1968;1968;1968;départ étape 2 du Tour 1968
+Armentieres;France;0;1;1;1994;1994;1994;arrivée étape 1 du Tour 1994
+Arpajon;France;1;0;1;1999;1999;1999;départ étape 20 du Tour 1999
+Arpajon-sur-Cère;France;1;0;1;2016;2016;2016;départ étape 6 du Tour 2016
+Arras Citadelle;France;3;1;4;1991;2018;1991 2004 2014 2018;"départ étape 6 du Tour 1991; départ étape 6 du Tour 2014; départ étape 9 du Tour 2018; arrivée étape 4 du Tour 2004"
+Arras Communauté Urbaine;France;1;0;1;2015;2015;2015;départ étape 5 du Tour 2015
+Aubagne;France;1;2;3;1969;1973;1969 1973;"départ étape 13 du Tour 1969; arrivée étape 12 du Tour 1969; arrivée étape 10 du Tour 1973"
+Aubenas;France;1;2;3;1966;2009;1966 2009;"départ étape 14.2 du Tour 1966; arrivée étape 14.1 du Tour 1966; arrivée étape 19 du Tour 2009"
+Auch;France;4;3;7;1975;2025;1975 1976 1977 2025;"départ étape 10 du Tour 1975; départ étape 18.1 du Tour 1976; départ étape 2 du Tour 1977; départ étape 12 du Tour 2025; arrivée étape 9.2 du Tour 1975; arrivée étape 17 du Tour 1976; arrivée étape 1 du Tour 1977"
+Aulnay-sous-Bois;France;0;2;2;1981;1982;1981 1982;"arrivée étape 10 du Tour 1981; arrivée étape 20 du Tour 1982"
+Auray;France;1;0;1;2008;2008;2008;départ étape 2 du Tour 2008
+Aurillac;France;9;6;15;1959;2026;1959 1963 1968 1975 1983 1985 2008 2011 2024 2026;"départ étape 14 du Tour 1959; départ étape 14 du Tour 1963; départ étape 17 du Tour 1968; départ étape 14 du Tour 1975; départ étape 14 du Tour 1983; départ étape 16 du Tour 1985; départ étape 10 du Tour 2011; départ étape 12 du Tour 2024; départ étape 10 du Tour 2026; arrivée étape 13 du Tour 1959; arrivée étape 13 du Tour 1963; arrivée étape 16 du Tour 1968; arrivée étape 13 du Tour 1983; arrivée étape 15 du Tour 1985; arrivée étape 7 du Tour 2008"
+Autrans;France;1;0;1;1985;1985;1985;départ étape 14 du Tour 1985
+Autun;France;0;2;2;1998;2007;1998 2007;"arrivée étape 19 du Tour 1998; arrivée étape 5 du Tour 2007"
+Auxerre;France;6;4;10;1965;1981;1965 1968 1972 1979 1980 1981;"départ étape 21 du Tour 1965; départ étape 22.1 du Tour 1968; départ étape 19 du Tour 1972; départ étape 23 du Tour 1979; départ étape 21 du Tour 1980; départ étape 21 du Tour 1981; arrivée étape 20 du Tour 1965; arrivée étape 21 du Tour 1968; arrivée étape 18 du Tour 1972; arrivée étape 22 du Tour 1979"
+Avesnes-sur-Helpe;France;1;0;1;1999;1999;1999;départ étape 7 du Tour 1999
+Avignon;France;6;5;11;1951;2000;1951 1952 1955 1960 1974 1987 2000;"départ étape 18 du Tour 1951; départ étape 15 du Tour 1952; départ étape 12 du Tour 1955; départ étape 15 du Tour 1960; départ étape 13 du Tour 1974; départ étape 13 du Tour 2000; arrivée étape 17 du Tour 1951; arrivée étape 14 du Tour 1952; arrivée étape 11 du Tour 1955; arrivée étape 14 du Tour 1960; arrivée étape 17 du Tour 1987"
+Avoriaz;France;0;6;6;1975;1994;1975 1977 1979 1983 1985 1994;"arrivée étape 17 du Tour 1975; arrivée étape 15.2 du Tour 1977; arrivée étape 15 du Tour 1979; arrivée étape 19 du Tour 1983; arrivée étape 11 du Tour 1985; arrivée étape 19 du Tour 1994"
+Avranches;France;3;2;5;1990;2013;1990 1993 2002 2013;"départ étape 5 du Tour 1990; départ étape 5 du Tour 1993; départ étape 11 du Tour 2013; arrivée étape 4 du Tour 1993; arrivée étape 7 du Tour 2002"
+Ax 3 Domaines;France;0;4;4;2003;2013;2003 2005 2010 2013;"arrivée étape 13 du Tour 2003; arrivée étape 14 du Tour 2005; arrivée étape 14 du Tour 2010; arrivée étape 8 du Tour 2013"
+Ax-les-Thermes;France;3;4;7;1955;2001;1955 1957 1965 2001;"départ étape 16 du Tour 1955; départ étape 17 du Tour 1957; départ étape 11 du Tour 1965; arrivée étape 15 du Tour 1955; arrivée étape 16 du Tour 1957; arrivée étape 10 du Tour 1965; arrivée étape 12 du Tour 2001"
+Bagnoles-de-l'Orne;France;3;1;4;1968;2002;1968 1977 2002;"départ étape 5.2 du Tour 1968; départ étape 10 du Tour 1977; départ étape 7 du Tour 2002; arrivée étape 5.1 du Tour 1968"
+Bagnères-de-Bigorre;France;9;7;16;1952;2019;1952 1959 1963 1965 1970 1974 1994 2000 2003 2008 2013 2019;"départ étape 18 du Tour 1952; départ étape 11 du Tour 1959; départ étape 11 du Tour 1963; départ étape 10 du Tour 1965; départ étape 19 du Tour 1970; départ étape 18 du Tour 1974; départ étape 13 du Tour 1994; départ étape 11 du Tour 2000; départ étape 15 du Tour 2003; arrivée étape 17 du Tour 1952; arrivée étape 10 du Tour 1959; arrivée étape 10 du Tour 1963; arrivée étape 9 du Tour 1965; arrivée étape 9 du Tour 2008; arrivée étape 9 du Tour 2013; arrivée étape 12 du Tour 2019"
+Bagnères-de-Luchon;France;3;5;8;2010;2018;2010 2012 2014 2016 2018;"départ étape 16 du Tour 2010; départ étape 17 du Tour 2012; départ étape 17 du Tour 2018; arrivée étape 15 du Tour 2010; arrivée étape 16 du Tour 2012; arrivée étape 16 du Tour 2014; arrivée étape 8 du Tour 2016; arrivée étape 16 du Tour 2018"
+Ballon d'Alsace;France;0;4;4;1967;1979;1967 1969 1972 1979;"arrivée étape 8 du Tour 1967; arrivée étape 6 du Tour 1969; arrivée étape 17 du Tour 1972; arrivée étape 13 du Tour 1979"
+Bar-Le-Duc;France;0;1;1;2001;2001;2001;arrivée étape 5 du Tour 2001
+Barcelone;Espagne;5;6;11;1957;2026;1957 1965 2009 2026;"départ étape 15.2 du Tour 1957; départ étape 16 du Tour 1957; départ étape 12 du Tour 1965; départ étape 7 du Tour 2009; départ étape 1 du Tour 2026; arrivée étape 15.1 du Tour 1957; arrivée étape 15.2 du Tour 1957; arrivée étape 11 du Tour 1965; arrivée étape 6 du Tour 2009; arrivée étape 1 du Tour 2026; arrivée étape 2 du Tour 2026"
+Barcelonnette;France;1;1;2;1975;2024;1975 2024;"départ étape 16 du Tour 1975; arrivée étape 18 du Tour 2024"
+Bastia;France;1;1;2;2013;2013;2013;"départ étape 2 du Tour 2013; arrivée étape 1 du Tour 2013"
+Bastogne;Belgique;1;0;1;1976;1976;1976;départ étape 6 du Tour 1976
+Bayeux;France;1;0;1;2025;2025;2025;départ étape 6 du Tour 2025
+Bayonne;France;10;10;20;1954;2023;1954 1956 1959 1962 1964 1966 1968 1972 1986 1987 2003 2023;"départ étape 11 du Tour 1954; départ étape 11 du Tour 1956; départ étape 10 du Tour 1959; départ étape 11 du Tour 1962; départ étape 18 du Tour 1964; départ étape 10 du Tour 1966; départ étape 11 du Tour 1968; départ étape 7 du Tour 1972; départ étape 12 du Tour 1986; départ étape 13 du Tour 1987; arrivée étape 10 du Tour 1954; arrivée étape 10 du Tour 1956; arrivée étape 9 du Tour 1959; arrivée étape 10 du Tour 1962; arrivée étape 17 du Tour 1964; arrivée étape 9 du Tour 1966; arrivée étape 10 du Tour 1968; arrivée étape 6 du Tour 1972; arrivée étape 16 du Tour 2003; arrivée étape 3 du Tour 2023"
+Bazas;France;1;0;1;2002;2002;2002;départ étape 10 du Tour 2002
+Beaulieu;France;1;0;1;1976;1976;1976;départ étape 8 du Tour 1976
+Beauraing;Belgique;1;0;1;1982;1982;1982;départ étape 4 du Tour 1982
+Beauvais;France;2;1;3;1980;2006;1980 2006;"départ étape 7.2 du Tour 1980; départ étape 5 du Tour 2006; arrivée étape 7.1 du Tour 1980"
+Belfort;France;11;3;14;1961;2026;1961 1967 1969 1970 1973 1978 1979 1988 2000 2012 2019 2023 2026;"départ étape 7 du Tour 1961; départ étape 9 du Tour 1967; départ étape 7 du Tour 1969; départ étape 10 du Tour 1970; départ étape 6 du Tour 1973; départ étape 14 du Tour 1979; départ étape 10 du Tour 1988; départ étape 20 du Tour 2000; départ étape 8 du Tour 2012; départ étape 7 du Tour 2019; départ étape 20 du Tour 2023; arrivée étape 6 du Tour 1961; arrivée étape 19 du Tour 1978; arrivée étape 13 du Tour 2026"
+Bellegarde-sur-Valserine;France;0;1;1;2012;2012;2012;arrivée étape 10 du Tour 2012
+Belleville-en-Beaujolais;France;0;1;1;2023;2023;2023;arrivée étape 12 du Tour 2023
+Bergerac;France;3;4;7;1961;2026;1961 1994 2014 2017 2026;"départ étape 19 du Tour 1961; départ étape 10 du Tour 1994; départ étape 20 du Tour 2014; arrivée étape 9 du Tour 1994; arrivée étape 19 du Tour 2014; arrivée étape 10 du Tour 2017; arrivée étape 8 du Tour 2026"
+Beringen;Belgique;1;0;1;1981;1981;1981;départ étape 13 du Tour 1981
+Berlin;Allemagne;3;3;6;1987;1987;1987;"départ étape 0 du Tour 1987; départ étape 1 du Tour 1987; départ étape 2 du Tour 1987; arrivée étape 0 du Tour 1987; arrivée étape 1 du Tour 1987; arrivée étape 2 du Tour 1987"
+Berne;Suisse;1;1;2;2016;2016;2016;"départ étape 17 du Tour 2016; arrivée étape 16 du Tour 2016"
+Besançon;France;14;16;30;1947;2014;1947 1954 1957 1958 1960 1963 1964 1968 1974 1977 1981 1988 1990 1996 2004 2009 2012 2014;"départ étape 6 du Tour 1947; départ étape 21.1 du Tour 1954; départ étape 9 du Tour 1957; départ étape 23 du Tour 1958; départ étape 20 du Tour 1960; départ étape 20 du Tour 1963; départ étape 21 du Tour 1968; départ étape 9 du Tour 1974; départ étape 14 du Tour 1977; départ étape 15 du Tour 1981; départ étape 11 du Tour 1988; départ étape 9 du Tour 1990; départ étape 19 du Tour 2004; départ étape 11 du Tour 2014; arrivée étape 5 du Tour 1947; arrivée étape 20 du Tour 1954; arrivée étape 8 du Tour 1957; arrivée étape 22 du Tour 1958; arrivée étape 19 du Tour 1960; arrivée étape 19 du Tour 1963; arrivée étape 6 du Tour 1964; arrivée étape 20 du Tour 1968; arrivée étape 8.2 du Tour 1974; arrivée étape 13.2 du Tour 1977; arrivée étape 10 du Tour 1988; arrivée étape 8 du Tour 1990; arrivée étape 5 du Tour 1996; arrivée étape 19 du Tour 2004; arrivée étape 14 du Tour 2009; arrivée étape 9 du Tour 2012"
+Besse;France;1;0;1;1996;1996;1996;départ étape 14 du Tour 1996
+Besse-en-Ch.;France;1;0;1;1978;1978;1978;départ étape 14 du Tour 1978
+Biarritz;France;2;2;4;1948;1978;1948 1978;"départ étape 7 du Tour 1948; départ étape 10 du Tour 1978; arrivée étape 6 du Tour 1948; arrivée étape 9 du Tour 1978"
+Bilbao;Espagne;1;1;2;2023;2023;2023;"départ étape 1 du Tour 2023; arrivée étape 1 du Tour 2023"
+Binche;Belgique;2;0;2;2019;2022;2019 2022;"départ étape 3 du Tour 2019; départ étape 6 du Tour 2022"
+Blagnac;France;6;4;10;1984;2017;1984 1986 1987 1988 1989 1990 2012 2017;"départ étape 13 du Tour 1984; départ étape 16 du Tour 1987; départ étape 14 du Tour 1988; départ étape 16 du Tour 1990; départ étape 18 du Tour 2012; départ étape 14 du Tour 2017; arrivée étape 12 du Tour 1984; arrivée étape 14 du Tour 1986; arrivée étape 15 du Tour 1987; arrivée étape 11 du Tour 1989"
+Blain;France;1;0;1;1959;1959;1959;départ étape 6 du Tour 1959
+Blaye-les-Mines;France;1;0;1;2011;2011;2011;départ étape 11 du Tour 2011
+Blois;France;2;3;5;1971;2005;1971 1992 1999 2005;"départ étape 19 du Tour 1971; départ étape 20 du Tour 1992; arrivée étape 19 du Tour 1992; arrivée étape 4 du Tour 1999; arrivée étape 4 du Tour 2005"
+Bobigny;France;1;0;1;1984;1984;1984;départ étape 2 du Tour 1984
+Bollène;France;1;0;1;2025;2025;2025;départ étape 17 du Tour 2025
+Bologne;Italie;0;1;1;2024;2024;2024;arrivée étape 2 du Tour 2024
+Bondy;France;1;0;1;1984;1984;1984;départ étape 1 du Tour 1984
+Bonneval;France;3;0;3;1999;2012;1999 2004 2012;"départ étape 5 du Tour 1999; départ étape 6 du Tour 2004; départ étape 19 du Tour 2012"
+Bordeaux;France;33;58;91;1947;2026;1947 1948 1949 1950 1952 1953 1954 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964 1965 1966 1967 1968 1969 1970 1971 1972 1973 1974 1975 1976 1977 1978 1979 1980 1981 1982 1983 1984 1985 1986 1987 1988 1989 1990 1992 1993 1995 1996 1997 1999 2003 2006 2010 2023 2026;"départ étape 17 du Tour 1947; départ étape 6 du Tour 1948; départ étape 9 du Tour 1949; départ étape 10 du Tour 1950; départ étape 20 du Tour 1952; départ étape 9 du Tour 1953; départ étape 10 du Tour 1954; départ étape 20 du Tour 1955; départ étape 10 du Tour 1956; départ étape 20 du Tour 1957; départ étape 12 du Tour 1958; départ étape 9 du Tour 1959; départ étape 10 du Tour 1962; départ étape 9 du Tour 1963; départ étape 19 du Tour 1964; départ étape 9 du Tour 1966; départ étape 19 du Tour 1967; départ étape 10 du Tour 1968; départ étape 20.2 du Tour 1970; départ étape 18 du Tour 1971; départ étape 5.2 du Tour 1972; départ étape 6 du Tour 1972; départ étape 16.2 du Tour 1973; départ étape 19.2 du Tour 1974; départ étape 5.2 du Tour 1977; départ étape 6 du Tour 1977; départ étape 9 du Tour 1978; départ étape 11 du Tour 1982; départ étape 9 du Tour 1983; départ étape 20 du Tour 1996; départ étape 18 du Tour 2003; départ étape 9 du Tour 2006; départ étape 19 du Tour 2010; arrivée étape 16 du Tour 1947; arrivée étape 5 du Tour 1948; arrivée étape 8 du Tour 1949; arrivée étape 9 du Tour 1950; arrivée étape 19 du Tour 1952; arrivée étape 8 du Tour 1953; arrivée étape 9 du Tour 1954; arrivée étape 19 du Tour 1955; arrivée étape 9 du Tour 1956; arrivée étape 19 du Tour 1957; arrivée étape 11 du Tour 1958; arrivée étape 8 du Tour 1959; arrivée étape 9 du Tour 1960; arrivée étape 18 du Tour 1961; arrivée étape 9 du Tour 1962; arrivée étape 8 du Tour 1963; arrivée étape 18 du Tour 1964; arrivée étape 8 du Tour 1965; arrivée étape 8 du Tour 1966; arrivée étape 18 du Tour 1967; arrivée étape 9 du Tour 1968; arrivée étape 18 du Tour 1969; arrivée étape 20.1 du Tour 1970; arrivée étape 20.2 du Tour 1970; arrivée étape 17 du Tour 1971; arrivée étape 5.1 du Tour 1972; arrivée étape 5.2 du Tour 1972; arrivée étape 16.1 du Tour 1973; arrivée étape 16.2 du Tour 1973; arrivée étape 19.1 du Tour 1974; arrivée étape 19.2 du Tour 1974; arrivée étape 8 du Tour 1975; arrivée étape 18.3 du Tour 1976; arrivée étape 5.1 du Tour 1977; arrivée étape 5.2 du Tour 1977; arrivée étape 7 du Tour 1978; arrivée étape 4 du Tour 1979; arrivée étape 10 du Tour 1980; arrivée étape 7 du Tour 1981; arrivée étape 10 du Tour 1982; arrivée étape 8 du Tour 1983; arrivée étape 9 du Tour 1984; arrivée étape 19 du Tour 1985; arrivée étape 11 du Tour 1986; arrivée étape 12 du Tour 1987; arrivée étape 17 du Tour 1988; arrivée étape 7 du Tour 1989; arrivée étape 18 du Tour 1990; arrivée étape 3 du Tour 1992; arrivée étape 18 du Tour 1993; arrivée étape 17 du Tour 1995; arrivée étape 19 du Tour 1996; arrivée étape 7 du Tour 1997; arrivée étape 17 du Tour 1999; arrivée étape 17 du Tour 2003; arrivée étape 18 du Tour 2010; arrivée étape 7 du Tour 2023; arrivée étape 7 du Tour 2026"
+Bornem;Belgique;0;1;1;1976;1976;1976;arrivée étape 4 du Tour 1976
+Boulogne-Billancourt;France;1;1;2;1986;1986;1986;"départ étape 0 du Tour 1986; arrivée étape 0 du Tour 1986"
+Boulogne-sur-Mer;France;1;5;6;1949;2025;1949 1994 2001 2012 2025;"départ étape 4 du Tour 1949; arrivée étape 3 du Tour 1949; arrivée étape 2 du Tour 1994; arrivée étape 1 du Tour 2001; arrivée étape 3 du Tour 2012; arrivée étape 2 du Tour 2025"
+Bourg Saint Maurice;France;2;1;3;1996;2009;1996 2009;"départ étape 8 du Tour 1996; départ étape 17 du Tour 2009; arrivée étape 16 du Tour 2009"
+Bourg-Madame;France;1;0;1;1973;1973;1973;départ étape 13 du Tour 1973
+Bourg-Saint-Andéol;France;1;0;1;2016;2016;2016;départ étape 13 du Tour 2016
+Bourg-Saint-Maurice Les Arcs;France;1;0;1;2018;2018;2018;départ étape 12 du Tour 2018
+Bourg-d'Oisans;France;24;1;25;1952;2026;1952 1966 1976 1979 1982 1983 1984 1987 1989 1991 1992 1994 1995 1997 1999 2003 2004 2006 2008 2013 2018 2022 2026;"départ étape 11 du Tour 1952; départ étape 16 du Tour 1966; départ étape 10 du Tour 1976; départ étape 19 du Tour 1979; départ étape 17 du Tour 1982; départ étape 18 du Tour 1983; départ étape 18 du Tour 1984; départ étape 21 du Tour 1987; départ étape 18 du Tour 1989; départ étape 18 du Tour 1991; départ étape 15 du Tour 1992; départ étape 17 du Tour 1994; départ étape 11 du Tour 1995; départ étape 14 du Tour 1997; départ étape 11 du Tour 1999; départ étape 9 du Tour 2003; départ étape 16 du Tour 2004; départ étape 17 du Tour 2004; départ étape 16 du Tour 2006; départ étape 18 du Tour 2008; départ étape 19 du Tour 2013; départ étape 13 du Tour 2018; départ étape 13 du Tour 2022; départ étape 20 du Tour 2026; arrivée étape 15 du Tour 1966"
+Bourg-de-Péage;France;2;0;2;2010;2015;2010 2015;"départ étape 12 du Tour 2010; départ étape 16 du Tour 2015"
+Bourg-en-Bresse;France;4;3;7;2002;2023;2002 2007 2014 2016 2020 2023;"départ étape 7 du Tour 2007; départ étape 12 du Tour 2014; départ étape 15 du Tour 2016; départ étape 19 du Tour 2020; arrivée étape 18 du Tour 2002; arrivée étape 6 du Tour 2007; arrivée étape 18 du Tour 2023"
+Bourg-lès-Valence;France;0;1;1;2010;2010;2010;arrivée étape 11 du Tour 2010
+Bourges;France;1;0;1;1973;1973;1973;départ étape 19 du Tour 1973
+Bourgoin;France;1;0;1;1962;1962;1962;départ étape 20 du Tour 1962
+Bourgoin-Jallieu;France;1;0;1;2009;2009;2009;départ étape 19 du Tour 2009
+Brest;France;7;4;11;1952;2021;1952 1954 1958 1962 1974 2008 2018 2021;"départ étape 1 du Tour 1952; départ étape 7 du Tour 1954; départ étape 0 du Tour 1974; départ étape 1 du Tour 1974; départ étape 1 du Tour 2008; départ étape 6 du Tour 2018; départ étape 1 du Tour 2021; arrivée étape 6 du Tour 1954; arrivée étape 7 du Tour 1958; arrivée étape 6 du Tour 1962; arrivée étape 0 du Tour 1974"
+Briançon;France;24;22;46;1947;2022;1947 1948 1949 1950 1951 1953 1954 1955 1957 1958 1960 1962 1964 1965 1966 1967 1969 1972 1986 1989 2000 2005 2007 2017 2022;"départ étape 9 du Tour 1947; départ étape 14 du Tour 1948; départ étape 17 du Tour 1949; départ étape 19 du Tour 1950; départ étape 21 du Tour 1951; départ étape 19 du Tour 1953; départ étape 19 du Tour 1954; départ étape 9 du Tour 1955; départ étape 11 du Tour 1957; départ étape 21 du Tour 1958; départ étape 17 du Tour 1960; départ étape 19 du Tour 1962; départ étape 9 du Tour 1964; départ étape 17 du Tour 1965; départ étape 17 du Tour 1966; départ étape 11 du Tour 1967; départ étape 11 du Tour 1969; départ étape 14.1 du Tour 1972; départ étape 18 du Tour 1986; départ étape 17 du Tour 1989; départ étape 15 du Tour 2000; départ étape 12 du Tour 2005; départ étape 18 du Tour 2017; départ étape 12 du Tour 2022; arrivée étape 8 du Tour 1947; arrivée étape 13 du Tour 1948; arrivée étape 16 du Tour 1949; arrivée étape 18 du Tour 1950; arrivée étape 20 du Tour 1951; arrivée étape 18 du Tour 1953; arrivée étape 18 du Tour 1954; arrivée étape 8 du Tour 1955; arrivée étape 10 du Tour 1957; arrivée étape 20 du Tour 1958; arrivée étape 16 du Tour 1960; arrivée étape 18 du Tour 1962; arrivée étape 8 du Tour 1964; arrivée étape 16 du Tour 1965; arrivée étape 16 du Tour 1966; arrivée étape 10 du Tour 1967; arrivée étape 10 du Tour 1969; arrivée étape 13 du Tour 1972; arrivée étape 16 du Tour 1989; arrivée étape 14 du Tour 2000; arrivée étape 11 du Tour 2005; arrivée étape 9 du Tour 2007"
+Brighton;Royaume-Uni;0;1;1;1994;1994;1994;arrivée étape 4 du Tour 1994
+Brignoles;France;0;1;1;2009;2009;2009;arrivée étape 2 du Tour 2009
+Brioude;France;1;1;2;2008;2019;2008 2019;"départ étape 7 du Tour 2008; arrivée étape 9 du Tour 2019"
+Brive-la-Gaillarde;France;8;6;14;1951;2012;1951 1964 1969 1973 1987 1996 1998 2001 2012;"départ étape 11 du Tour 1951; départ étape 20 du Tour 1964; départ étape 20 du Tour 1969; départ étape 18 du Tour 1973; départ étape 12 du Tour 1987; départ étape 15 du Tour 1996; départ étape 8 du Tour 1998; départ étape 17 du Tour 2001; arrivée étape 10 du Tour 1951; arrivée étape 19 du Tour 1964; arrivée étape 19 du Tour 1969; arrivée étape 17 du Tour 1973; arrivée étape 6 du Tour 1998; arrivée étape 18 du Tour 2012"
+Bron;France;1;0;1;1991;1991;1991;départ étape 2 du Tour 1991
+Brussel;Belgique;0;1;1;2019;2019;2019;arrivée étape 1 du Tour 2019
+Brussel Atomium;Belgique;0;1;1;2019;2019;2019;arrivée étape 2 du Tour 2019
+Bruxelles;Belgique;12;10;22;1947;2019;1947 1949 1958 1960 1962 1978 1979 1981 1992 2010 2019;"départ étape 3 du Tour 1947; départ étape 3 du Tour 1949; départ étape 1 du Tour 1958; départ étape 1.2 du Tour 1960; départ étape 2 du Tour 1960; départ étape 3 du Tour 1962; départ étape 2 du Tour 1978; départ étape 11 du Tour 1979; départ étape 12.2 du Tour 1981; départ étape 7 du Tour 1992; départ étape 2 du Tour 2010; départ étape 1 du Tour 2019; arrivée étape 2 du Tour 1947; arrivée étape 2 du Tour 1949; arrivée étape 1.1 du Tour 1960; arrivée étape 1.2 du Tour 1960; arrivée étape 1.2 du Tour 1978; arrivée étape 10 du Tour 1979; arrivée étape 11 du Tour 1979; arrivée étape 12.1 du Tour 1981; arrivée étape 6 du Tour 1992; arrivée étape 1 du Tour 2010"
+Bruxelles Palais Royal;Belgique;1;0;1;2019;2019;2019;départ étape 2 du Tour 2019
+Brétigny-sur-Orge;France;2;0;2;1990;1993;1990 1993;"départ étape 21 du Tour 1990; départ étape 19 du Tour 1993"
+Bâle;Suisse;3;2;5;1971;1982;1971 1982;"départ étape 1.2 du Tour 1971; départ étape 0 du Tour 1982; départ étape 2 du Tour 1982; arrivée étape 1.1 du Tour 1971; arrivée étape 0 du Tour 1982"
+Béthune;France;1;1;2;1984;1984;1984;"départ étape 5 du Tour 1984; arrivée étape 4 du Tour 1984"
+Béziers;France;3;3;6;1953;2006;1953 1958 2002 2006;"départ étape 14 du Tour 1953; départ étape 17 du Tour 1958; départ étape 13 du Tour 2006; arrivée étape 13 du Tour 1953; arrivée étape 16 du Tour 1958; arrivée étape 13 du Tour 2002"
+Caen;France;15;16;31;1947;2025;1947 1951 1953 1954 1956 1957 1958 1960 1965 1966 1967 1974 1976 1978 2006 2025;"départ étape 21 du Tour 1947; départ étape 6 du Tour 1951; départ étape 6 du Tour 1953; départ étape 5 du Tour 1954; départ étape 5 du Tour 1956; départ étape 3.1 du Tour 1957; départ étape 3.2 du Tour 1957; départ étape 6 du Tour 1958; départ étape 5 du Tour 1960; départ étape 4 du Tour 1965; départ étape 6 du Tour 1966; départ étape 3 du Tour 1967; départ étape 5 du Tour 1974; départ étape 5 du Tour 1978; départ étape 5 du Tour 2025; arrivée étape 20 du Tour 1947; arrivée étape 5 du Tour 1951; arrivée étape 5 du Tour 1953; arrivée étape 4.2 du Tour 1954; arrivée étape 4 du Tour 1956; arrivée étape 2 du Tour 1957; arrivée étape 3.1 du Tour 1957; arrivée étape 5 du Tour 1958; arrivée étape 4 du Tour 1960; arrivée étape 5 du Tour 1966; arrivée étape 2 du Tour 1967; arrivée étape 4 du Tour 1974; arrivée étape 2 du Tour 1976; arrivée étape 4 du Tour 1978; arrivée étape 5 du Tour 2006; arrivée étape 5 du Tour 2025"
+Cagnes-sur-Mer;France;1;0;1;2013;2013;2013;départ étape 5 du Tour 2013
+Cahors;France;2;2;4;1994;2022;1994 2007 2022;"départ étape 11 du Tour 1994; départ étape 18 du Tour 2007; arrivée étape 10 du Tour 1994; arrivée étape 19 du Tour 2022"
+Calais;France;2;1;3;1994;2022;1994 2001 2022;"départ étape 3 du Tour 1994; départ étape 2 du Tour 2001; arrivée étape 4 du Tour 2022"
+Calvi;France;0;1;1;2013;2013;2013;arrivée étape 3 du Tour 2013
+Cambo-les-Bains;France;1;0;1;2006;2006;2006;départ étape 10 du Tour 2006
+Cambrai;France;2;1;3;2004;2015;2004 2010 2015;"départ étape 4 du Tour 2004; départ étape 4 du Tour 2010; arrivée étape 4 du Tour 2015"
+Cambridge;Royaume-Uni;1;0;1;2014;2014;2014;départ étape 3 du Tour 2014
+Cancale;France;1;0;1;1982;1982;1982;départ étape 7 du Tour 1982
+Canet-Plage;France;0;1;1;1968;1968;1968;arrivée étape 14 du Tour 1968
+Cannes;France;3;3;6;1948;1957;1948 1949 1957;"départ étape 13 du Tour 1948; départ étape 16 du Tour 1949; départ étape 12 du Tour 1957; arrivée étape 12 du Tour 1948; arrivée étape 15 du Tour 1949; arrivée étape 11 du Tour 1957"
+Canterbury;Royaume-Uni;0;1;1;2007;2007;2007;arrivée étape 1 du Tour 2007
+Cap Découverte;Luxembourg;0;1;1;2003;2003;2003;arrivée étape 12 du Tour 2003
+Cap Fréhel;Luxembourg;0;1;1;2011;2011;2011;arrivée étape 5 du Tour 2011
+Cap d'Agde;Luxembourg;0;1;1;1998;1998;1998;arrivée étape 12 du Tour 1998
+Captieux;France;1;0;1;1979;1979;1979;départ étape 4 du Tour 1979
+Carcassonne;France;11;9;20;1947;2026;1947 1951 1962 1981 1986 2004 2006 2014 2016 2018 2021 2022 2025 2026;"départ étape 14 du Tour 1947; départ étape 16 du Tour 1951; départ étape 15 du Tour 1962; départ étape 15 du Tour 1986; départ étape 14 du Tour 2004; départ étape 16 du Tour 2014; départ étape 11 du Tour 2016; départ étape 16 du Tour 2018; départ étape 14 du Tour 2021; départ étape 16 du Tour 2022; départ étape 4 du Tour 2026; arrivée étape 13 du Tour 1947; arrivée étape 15 du Tour 1951; arrivée étape 14 du Tour 1962; arrivée étape 4 du Tour 1981; arrivée étape 12 du Tour 2006; arrivée étape 15 du Tour 2018; arrivée étape 13 du Tour 2021; arrivée étape 15 du Tour 2022; arrivée étape 15 du Tour 2025"
+Carhaix;France;1;0;1;2011;2011;2011;départ étape 5 du Tour 2011
+Carmaux;France;0;1;1;2011;2011;2011;arrivée étape 10 du Tour 2011
+Carnon;France;1;0;1;1972;1972;1972;départ étape 11 du Tour 1972
+Carpentras;France;7;3;10;1958;2000;1958 1965 1967 1970 1972 1987 1994 1998 2000;"départ étape 19 du Tour 1958; départ étape 15 du Tour 1965; départ étape 14 du Tour 1967; départ étape 15 du Tour 1970; départ étape 12 du Tour 1972; départ étape 18 du Tour 1987; départ étape 12 du Tour 2000; arrivée étape 13 du Tour 1967; arrivée étape 15 du Tour 1994; arrivée étape 13 du Tour 1998"
+Castelnau-Magnoac;France;1;0;1;2022;2022;2022;départ étape 19 du Tour 2022
+Castelnaudary;France;1;0;1;1969;1969;1969;départ étape 16 du Tour 1969
+Castelsarrasin;France;2;1;3;2001;2007;2001 2004 2007;"départ étape 16 du Tour 2001; départ étape 12 du Tour 2004; arrivée étape 17 du Tour 2007"
+Castillon-la-Bataille;France;1;0;1;1990;1990;1990;départ étape 19 du Tour 1990
+Castres;France;4;2;6;1972;2013;1972 1991 1994 1999 2007 2013;"départ étape 10 du Tour 1972; départ étape 14 du Tour 1994; départ étape 14 du Tour 1999; départ étape 8 du Tour 2013; arrivée étape 14 du Tour 1991; arrivée étape 12 du Tour 2007"
+Cauterets;France;2;4;6;1953;2015;1953 1989 1995 2015;"départ étape 11 du Tour 1953; départ étape 10 du Tour 1989; arrivée étape 10 du Tour 1953; arrivée étape 9 du Tour 1989; arrivée étape 15 du Tour 1995; arrivée étape 11 du Tour 2015"
+Cauterets-Cambasque;France;0;1;1;2023;2023;2023;arrivée étape 6 du Tour 2023
+Cazères-sur-Garonne;France;1;0;1;2020;2020;2020;départ étape 8 du Tour 2020
+Cergy-Pontoise;France;1;1;2;1984;1984;1984;"départ étape 6 du Tour 1984; arrivée étape 5 du Tour 1984"
+Cesenatico;Italie;1;0;1;2024;2024;2024;départ étape 2 du Tour 2024
+Chablis;France;1;0;1;2007;2007;2007;départ étape 5 du Tour 2007
+Challans;France;2;1;3;1999;2005;1999 2005;"départ étape 2 du Tour 1999; départ étape 2 du Tour 2005; arrivée étape 1 du Tour 1999"
+Chalon-sur-Saône;France;1;6;7;1959;2026;1959 1961 1975 1988 2019 2026;"départ étape 8 du Tour 1961; arrivée étape 20 du Tour 1959; arrivée étape 7 du Tour 1961; arrivée étape 19 du Tour 1975; arrivée étape 20 du Tour 1988; arrivée étape 7 du Tour 2019; arrivée étape 12 du Tour 2026"
+Chalons-sur-Marne;France;2;2;4;1974;1993;1974 1993;"départ étape 8.1 du Tour 1974; départ étape 8 du Tour 1993; arrivée étape 7 du Tour 1974; arrivée étape 7 du Tour 1993"
+Chambery;France;1;0;1;2026;2026;2026;départ étape 17 du Tour 2026
+Chambord;France;1;0;1;2005;2005;2005;départ étape 5 du Tour 2005
+Chambéry;France;2;1;3;1996;2017;1996 2010 2017;"départ étape 7 du Tour 1996; départ étape 10 du Tour 2010; arrivée étape 9 du Tour 2017"
+Chamonix;France;4;4;8;1963;1977;1963 1966 1969 1977;"départ étape 18 du Tour 1963; départ étape 19 du Tour 1966; départ étape 10 du Tour 1969; départ étape 17 du Tour 1977; arrivée étape 17 du Tour 1963; arrivée étape 18 du Tour 1966; arrivée étape 9 du Tour 1969; arrivée étape 16 du Tour 1977"
+Champagnole;France;2;1;3;1964;2026;1964 2020 2026;"départ étape 7 du Tour 1964; départ étape 15 du Tour 2026; arrivée étape 19 du Tour 2020"
+Champs-Elysées;France;0;1;1;2000;2000;2000;arrivée étape 21 du Tour 2000
+Chamrousse;France;0;2;2;2001;2014;2001 2014;"arrivée étape 11 du Tour 2001; arrivée étape 13 du Tour 2014"
+Changé;France;1;0;1;2021;2021;2021;départ étape 5 du Tour 2021
+Chantilly;France;1;0;1;2016;2016;2016;départ étape 21 du Tour 2016
+Chantonnay;France;1;0;1;1997;1997;1997;départ étape 5 du Tour 1997
+Charleroi;Belgique;7;6;13;1957;2004;1957 1961 1975 1977 1995 2004;"départ étape 6 du Tour 1957; départ étape 4 du Tour 1961; départ étape 0 du Tour 1975; départ étape 1.1 du Tour 1975; départ étape 13.1 du Tour 1977; départ étape 7 du Tour 1995; départ étape 2 du Tour 2004; arrivée étape 5 du Tour 1957; arrivée étape 3 du Tour 1961; arrivée étape 0 du Tour 1975; arrivée étape 12 du Tour 1977; arrivée étape 6 du Tour 1995; arrivée étape 1 du Tour 2004"
+Charleville-Mézières;France;3;2;5;1966;2003;1966 1969 2003;"départ étape 2 du Tour 1966; départ étape 4 du Tour 1969; départ étape 3 du Tour 2003; arrivée étape 1 du Tour 1966; arrivée étape 3 du Tour 1969"
+Chartres;France;0;3;3;2004;2018;2004 2012 2018;"arrivée étape 5 du Tour 2004; arrivée étape 19 du Tour 2012; arrivée étape 7 du Tour 2018"
+Chassieu;France;0;1;1;1991;1991;1991;arrivée étape 2 du Tour 1991
+Chateaulin;France;2;4;6;1958;1982;1958 1965 1982;"départ étape 8 du Tour 1958; départ étape 5.2 du Tour 1965; arrivée étape 8 du Tour 1958; arrivée étape 5.1 du Tour 1965; arrivée étape 5.2 du Tour 1965; arrivée étape 8 du Tour 1982"
+Chateauroux;France;0;3;3;1998;2011;1998 2008 2011;"arrivée étape 5 du Tour 1998; arrivée étape 5 du Tour 2008; arrivée étape 7 du Tour 2011"
+Chatou;France;1;0;1;2021;2021;2021;départ étape 21 du Tour 2021
+Chaumeil;France;0;1;1;1987;1987;1987;arrivée étape 11 du Tour 1987
+Chaumont;France;1;1;2;1974;1974;1974;"départ étape 8.2 du Tour 1974; arrivée étape 8.1 du Tour 1974"
+Chauvigny;France;1;0;1;2020;2020;2020;départ étape 12 du Tour 2020
+Cherbourg-en-Cotentin;France;2;2;4;1986;2016;1986 1994 2016;"départ étape 7 du Tour 1986; départ étape 6 du Tour 1994; arrivée étape 6 du Tour 1986; arrivée étape 2 du Tour 2016"
+Chinon;France;1;0;1;2025;2025;2025;départ étape 9 du Tour 2025
+Cholet;France;4;3;7;1998;2018;1998 2008 2018;"départ étape 5 du Tour 1998; départ étape 4 du Tour 2008; départ étape 5 du Tour 2008; départ étape 3 du Tour 2018; arrivée étape 4 du Tour 1998; arrivée étape 4 du Tour 2008; arrivée étape 3 du Tour 2018"
+Chorges;France;0;1;1;2013;2013;2013;arrivée étape 17 du Tour 2013
+Château-Thierry;France;0;1;1;2002;2002;2002;arrivée étape 4 du Tour 2002
+Châteaubriant;France;2;0;2;1983;2004;1983 2004;"départ étape 6 du Tour 1983; départ étape 7 du Tour 2004"
+Châteauroux;France;0;2;2;2021;2025;2021 2025;"arrivée étape 6 du Tour 2021; arrivée étape 9 du Tour 2025"
+Châtel;France;0;1;1;1975;1975;1975;arrivée étape 18 du Tour 1975
+Châtel Les Portes du Soleil;France;0;1;1;2022;2022;2022;arrivée étape 9 du Tour 2022
+Châtel-Guyon;France;1;0;1;2020;2020;2020;départ étape 13 du Tour 2020
+Châtelaillon-Plage;France;1;0;1;2020;2020;2020;départ étape 11 du Tour 2020
+Châtellerault;France;1;0;1;1955;1955;1955;départ étape 21 du Tour 1955
+Châtillon-sur-Chalaronne;France;1;0;1;2023;2023;2023;départ étape 13 du Tour 2023
+Ciney;Belgique;1;0;1;1970;1970;1970;départ étape 8 du Tour 1970
+Circuit Nevers Magny-Cours;France;1;0;1;2026;2026;2026;départ étape 12 du Tour 2026
+Clermont-Ferrand;France;12;2;14;1951;2023;1951 1959 1964 1967 1969 1971 1983 1986 1988 2020 2023;"départ étape 10 du Tour 1951; départ étape 15 du Tour 1959; départ étape 16 du Tour 1959; départ étape 21 du Tour 1964; départ étape 21 du Tour 1967; départ étape 21 du Tour 1969; départ étape 9 du Tour 1971; départ étape 15 du Tour 1983; départ étape 22 du Tour 1986; départ étape 20 du Tour 1988; départ étape 14 du Tour 2020; départ étape 11 du Tour 2023; arrivée étape 9 du Tour 1951; arrivée étape 14 du Tour 1959"
+Cluses;France;3;2;5;1994;2021;1994 2002 2021;"départ étape 19 du Tour 1994; départ étape 18 du Tour 2002; départ étape 9 du Tour 2021; arrivée étape 18 du Tour 1994; arrivée étape 17 du Tour 2002"
+Coblence;Allemagne;0;1;1;1992;1992;1992;arrivée étape 8 du Tour 1992
+Cognac;France;1;0;1;2007;2007;2007;départ étape 19 du Tour 2007
+Col d'Aubisque;Italie;0;1;1;1985;1985;1985;arrivée étape 18.1 du Tour 1985
+Col de la Couillole;Italie;0;1;1;2024;2024;2024;arrivée étape 20 du Tour 2024
+Col du Granon Serre Chevalier;Italie;0;1;1;2022;2022;2022;arrivée étape 11 du Tour 2022
+Col du Tourmalet;Italie;0;2;2;1974;2010;1974 2010;"arrivée étape 17 du Tour 1974; arrivée étape 17 du Tour 2010"
+Colmar;France;6;7;13;1949;2019;1949 1955 1957 1997 2001 2009 2019;"départ étape 20 du Tour 1949; départ étape 6 du Tour 1955; départ étape 8 du Tour 1957; départ étape 18 du Tour 1997; départ étape 8 du Tour 2001; départ étape 14 du Tour 2009; arrivée étape 19 du Tour 1949; arrivée étape 5 du Tour 1955; arrivée étape 7 du Tour 1957; arrivée étape 17 du Tour 1997; arrivée étape 7 du Tour 2001; arrivée étape 13 du Tour 2009; arrivée étape 5 du Tour 2019"
+Cologne;Allemagne;1;0;1;1965;1965;1965;départ étape 1.1 du Tour 1965
+Colombey-les-deux-Eglises;France;0;1;1;2024;2024;2024;arrivée étape 8 du Tour 2024
+Colomiers;France;1;2;3;1972;1974;1972 1974;"départ étape 15 du Tour 1974; arrivée étape 9 du Tour 1972; arrivée étape 14 du Tour 1974"
+Combloux;France;0;1;1;2023;2023;2023;arrivée étape 16 du Tour 2023
+Commercy;France;1;0;1;2001;2001;2001;départ étape 6 du Tour 2001
+Compiègne;France;2;2;4;1980;2007;1980 1981 2007;"départ étape 7.1 du Tour 1980; départ étape 11 du Tour 1981; arrivée étape 6 du Tour 1980; arrivée étape 3 du Tour 2007"
+Concarneau;France;1;1;2;1982;1982;1982;"départ étape 8 du Tour 1982; arrivée étape 7 du Tour 1982"
+Copenhague;Danemark;1;1;2;2022;2022;2022;"départ étape 1 du Tour 2022; arrivée étape 1 du Tour 2022"
+Corbeil-Essonnes;France;2;0;2;2001;2005;2001 2005;"départ étape 20 du Tour 2001; départ étape 21 du Tour 2005"
+Cork;Irlande;0;1;1;1998;1998;1998;arrivée étape 2 du Tour 1998
+Corrèze;France;0;1;1;1998;1998;1998;arrivée étape 7 du Tour 1998
+Cosne;France;1;0;1;1986;1986;1986;départ étape 23 du Tour 1986
+Courchevel;France;3;4;7;1997;2023;1997 2000 2005 2023;"départ étape 15 du Tour 1997; départ étape 16 du Tour 2000; départ étape 11 du Tour 2005; arrivée étape 14 du Tour 1997; arrivée étape 15 du Tour 2000; arrivée étape 10 du Tour 2005; arrivée étape 17 du Tour 2023"
+Courchevel Col de la Loze;France;0;1;1;2025;2025;2025;arrivée étape 18 du Tour 2025
+Crans-Montana;Suisse;1;1;2;1984;1984;1984;"départ étape 21 du Tour 1984; arrivée étape 20 du Tour 1984"
+Créteil;France;3;2;5;1969;2011;1969 1983 1987 2011;"départ étape 22.2 du Tour 1969; départ étape 25 du Tour 1987; départ étape 21 du Tour 2011; arrivée étape 22.1 du Tour 1969; arrivée étape 1 du Tour 1983"
+Cugnaux;France;1;0;1;2011;2011;2011;départ étape 12 du Tour 2011
+Culoz;France;0;1;1;2016;2016;2016;arrivée étape 15 du Tour 2016
+Cuneo;Italie;1;0;1;2008;2008;2008;départ étape 16 du Tour 2008
+Céret;France;1;0;1;2021;2021;2021;départ étape 15 du Tour 2021
+Cérilly;France;1;0;1;2008;2008;2008;départ étape 20 du Tour 2008
+Damazan;France;1;0;1;1980;1980;1980;départ étape 11 du Tour 1980
+Dax;France;6;4;10;1951;2023;1951 1958 1965 2000 2003 2006 2023;"départ étape 13 du Tour 1951; départ étape 13 du Tour 1958; départ étape 9 du Tour 1965; départ étape 10 du Tour 2000; départ étape 17 du Tour 2003; départ étape 4 du Tour 2023; arrivée étape 12 du Tour 1951; arrivée étape 12 du Tour 1958; arrivée étape 9 du Tour 2000; arrivée étape 9 du Tour 2006"
+Deauville;France;1;1;2;1979;1979;1979;"départ étape 8 du Tour 1979; arrivée étape 7 du Tour 1979"
+Dieppe;France;6;6;12;1953;1974;1953 1955 1960 1966 1974;"départ étape 5 du Tour 1953; départ étape 1.2 du Tour 1955; départ étape 2 du Tour 1955; départ étape 4 du Tour 1960; départ étape 5 du Tour 1966; départ étape 6.1 du Tour 1974; arrivée étape 4 du Tour 1953; arrivée étape 1.1 du Tour 1955; arrivée étape 1.2 du Tour 1955; arrivée étape 3 du Tour 1960; arrivée étape 4 du Tour 1966; arrivée étape 5 du Tour 1974"
+Digne-les-Bains;France;4;5;9;1947;2015;1947 1967 1969 2005 2008 2015;"départ étape 10 du Tour 1947; départ étape 12 du Tour 1967; départ étape 12 du Tour 1969; départ étape 17 du Tour 2015; arrivée étape 9 du Tour 1947; arrivée étape 11 du Tour 1967; arrivée étape 11 du Tour 1969; arrivée étape 12 du Tour 2005; arrivée étape 14 du Tour 2008"
+Dijon;France;10;15;25;1950;2024;1950 1951 1958 1959 1977 1979 1983 1987 1991 1997 2024;"départ étape 22 du Tour 1950; départ étape 24 du Tour 1951; départ étape 24 du Tour 1958; départ étape 22 du Tour 1959; départ étape 20 du Tour 1977; départ étape 21 du Tour 1979; départ étape 22 du Tour 1979; départ étape 21 du Tour 1983; départ étape 24 du Tour 1987; départ étape 4 du Tour 1991; arrivée étape 21 du Tour 1950; arrivée étape 23 du Tour 1951; arrivée étape 23 du Tour 1958; arrivée étape 21 du Tour 1959; arrivée étape 19 du Tour 1977; arrivée étape 20 du Tour 1977; arrivée étape 20 du Tour 1979; arrivée étape 21 du Tour 1979; arrivée étape 20 du Tour 1983; arrivée étape 21 du Tour 1983; arrivée étape 23 du Tour 1987; arrivée étape 24 du Tour 1987; arrivée étape 3 du Tour 1991; arrivée étape 19 du Tour 1997; arrivée étape 6 du Tour 2024"
+Dinan;France;2;0;2;1995;2011;1995 2011;"départ étape 1 du Tour 1995; départ étape 6 du Tour 2011"
+Dinant;Belgique;1;0;1;1971;1971;1971;départ étape 5 du Tour 1971
+Dinard;France;6;4;10;1948;1993;1948 1950 1962 1968 1989 1993;"départ étape 3 du Tour 1948; départ étape 6 du Tour 1950; départ étape 6 du Tour 1962; départ étape 6 du Tour 1968; départ étape 5 du Tour 1989; départ étape 4 du Tour 1993; arrivée étape 2 du Tour 1948; arrivée étape 5 du Tour 1950; arrivée étape 5.2 du Tour 1968; arrivée étape 3 du Tour 1993"
+Disneyland-Paris;France;3;1;4;1994;1997;1994 1997;"départ étape 21 du Tour 1994; départ étape 20 du Tour 1997; départ étape 21 du Tour 1997; arrivée étape 20 du Tour 1997"
+Divonne;France;7;7;14;1967;1976;1967 1969 1970 1973 1976;"départ étape 10 du Tour 1967; départ étape 8.1 du Tour 1969; départ étape 8.2 du Tour 1969; départ étape 11.1 du Tour 1970; départ étape 11.2 du Tour 1970; départ étape 7.1 du Tour 1973; départ étape 9 du Tour 1976; arrivée étape 9 du Tour 1967; arrivée étape 7 du Tour 1969; arrivée étape 8.1 du Tour 1969; arrivée étape 10 du Tour 1970; arrivée étape 11.1 du Tour 1970; arrivée étape 6 du Tour 1973; arrivée étape 8 du Tour 1976"
+Dole;France;4;0;4;1992;2026;1992 2017 2022 2026;"départ étape 12 du Tour 1992; départ étape 8 du Tour 2017; départ étape 8 du Tour 2022; départ étape 13 du Tour 2026"
+Domaine du Rouret;France;1;1;2;1984;1984;1984;"départ étape 15 du Tour 1984; arrivée étape 14 du Tour 1984"
+Douvres;France;1;0;1;1994;1994;1994;départ étape 4 du Tour 1994
+Draguignan;France;1;1;2;2000;2000;2000;"départ étape 14 du Tour 2000; arrivée étape 13 du Tour 2000"
+Dreux;France;1;0;1;2018;2018;2018;départ étape 8 du Tour 2018
+Dublin;Irlande;2;2;4;1998;1998;1998;"départ étape 0 du Tour 1998; départ étape 1 du Tour 1998; arrivée étape 0 du Tour 1998; arrivée étape 1 du Tour 1998"
+Dunkerque;France;7;6;13;1958;2025;1958 1960 1966 1995 2001 2007 2022 2025;"départ étape 3 du Tour 1958; départ étape 3 du Tour 1960; départ étape 4 du Tour 1966; départ étape 6 du Tour 1995; départ étape 0 du Tour 2001; départ étape 2 du Tour 2007; départ étape 4 du Tour 2022; arrivée étape 2 du Tour 1958; arrivée étape 2 du Tour 1960; arrivée étape 3.2 du Tour 1966; arrivée étape 5 du Tour 1995; arrivée étape 0 du Tour 2001; arrivée étape 3 du Tour 2025"
+Düsseldorf;Allemagne;2;1;3;2017;2017;2017;"départ étape 1 du Tour 2017; départ étape 2 du Tour 2017; arrivée étape 1 du Tour 2017"
+Embrun;France;7;0;7;1973;2024;1973 2008 2013 2017 2019 2024;"départ étape 9 du Tour 1973; départ étape 15 du Tour 2008; départ étape 17 du Tour 2008; départ étape 17 du Tour 2013; départ étape 19 du Tour 2017; départ étape 18 du Tour 2019; départ étape 19 du Tour 2024"
+Ennezat;France;1;0;1;2025;2025;2025;départ étape 10 du Tour 2025
+Enniscothy;Royaume-Uni;1;0;1;1998;1998;1998;départ étape 2 du Tour 1998
+Epernay;France;5;2;7;1963;2019;1963 1978 2002 2010 2012 2014 2019;"départ étape 21 du Tour 1978; départ étape 4 du Tour 2002; départ étape 5 du Tour 2010; départ étape 6 du Tour 2012; départ étape 7 du Tour 2014; arrivée étape 1 du Tour 1963; arrivée étape 3 du Tour 2019"
+Epinal;France;4;4;8;1954;1990;1954 1985 1987 1990;"départ étape 21.2 du Tour 1954; départ étape 10 du Tour 1985; départ étape 7 du Tour 1987; départ étape 8 du Tour 1990; arrivée étape 21.1 du Tour 1954; arrivée étape 9 du Tour 1985; arrivée étape 6 du Tour 1987; arrivée étape 7 du Tour 1990"
+Epinay-sous-Sénart;France;0;1;1;1987;1987;1987;arrivée étape 8 du Tour 1987
+Escaldes-Engordany;Andorre;1;0;1;2016;2016;2016;départ étape 10 du Tour 2016
+Esch-sur-Alzette;Luxembourg;1;2;3;1968;2006;1968 2006;"départ étape 3 du Tour 2006; arrivée étape 1 du Tour 1968; arrivée étape 2 du Tour 2006"
+Espelette;France;0;1;1;2018;2018;2018;arrivée étape 20 du Tour 2018
+Etampes;France;1;0;1;2008;2008;2008;départ étape 21 du Tour 2008
+Eurotunnel;France;0;1;1;1994;1994;1994;arrivée étape 3 du Tour 1994
+Evaux-les-Bains;France;1;0;1;2024;2024;2024;départ étape 11 du Tour 2024
+Evian-les-Bains;France;3;1;4;1979;2026;1979 2000 2026;"départ étape 15 du Tour 1979; départ étape 17 du Tour 2000; départ étape 16 du Tour 2026; arrivée étape 14 du Tour 1979"
+Evreux;France;3;3;6;1978;1993;1978 1986 1988 1993;"départ étape 4 du Tour 1978; départ étape 5 du Tour 1986; départ étape 6 du Tour 1993; arrivée étape 4 du Tour 1986; arrivée étape 4 du Tour 1988; arrivée étape 5 du Tour 1993"
+Evry;France;1;1;2;2001;2014;2001 2014;"départ étape 21 du Tour 2014; arrivée étape 19 du Tour 2001"
+Eymet;France;1;0;1;2017;2017;2017;départ étape 11 du Tour 2017
+Fecamp;France;1;0;1;1995;1995;1995;départ étape 5 du Tour 1995
+Feldsberg;Allemagne;0;1;1;1970;1970;1970;arrivée étape 8 du Tour 1970
+Figeac;France;2;1;3;1978;2008;1978 2004 2008;"départ étape 13 du Tour 1978; départ étape 8 du Tour 2008; arrivée étape 11 du Tour 2004"
+Finhaut-Emosson;Suisse;0;1;1;2016;2016;2016;arrivée étape 17 du Tour 2016
+Flers;France;1;0;1;1980;1980;1980;départ étape 8 du Tour 1980
+Fleurance;France;9;6;15;1973;1983;1973 1975 1976 1977 1979 1982 1983;"départ étape 16.1 du Tour 1973; départ étape 9.2 du Tour 1975; départ étape 17 du Tour 1976; départ étape 0 du Tour 1977; départ étape 1 du Tour 1977; départ étape 0 du Tour 1979; départ étape 1 du Tour 1979; départ étape 12 du Tour 1982; départ étape 12 du Tour 1983; arrivée étape 15 du Tour 1973; arrivée étape 9.1 du Tour 1975; arrivée étape 16 du Tour 1976; arrivée étape 0 du Tour 1977; arrivée étape 0 du Tour 1979; arrivée étape 11 du Tour 1983"
+Florence;Italie;1;0;1;2024;2024;2024;départ étape 1 du Tour 2024
+Foix;France;2;5;7;2001;2026;2001 2007 2008 2012 2017 2022 2026;"départ étape 13 du Tour 2001; départ étape 15 du Tour 2007; arrivée étape 11 du Tour 2008; arrivée étape 14 du Tour 2012; arrivée étape 13 du Tour 2017; arrivée étape 16 du Tour 2022; arrivée étape 4 du Tour 2026"
+Foix Prat d'Albis;France;0;1;1;2019;2019;2019;arrivée étape 15 du Tour 2019
+Font Romeu;France;2;0;2;1968;1976;1968 1976;"départ étape 15 du Tour 1968; départ étape 13 du Tour 1976"
+Fontaine;France;1;0;1;1990;1990;1990;départ étape 12 du Tour 1990
+Fontaine-au-Pire;France;0;2;2;1982;1983;1982 1983;"arrivée étape 5 du Tour 1982; arrivée étape 2 du Tour 1983"
+Fontainebleau;France;1;1;2;1967;1967;1967;"départ étape 22.1 du Tour 1967; arrivée étape 21 du Tour 1967"
+Fontenay-le-Comte;France;0;1;1;2018;2018;2018;arrivée étape 1 du Tour 2018
+Fontenay-sous-Bois;France;4;3;7;1980;1983;1980 1981 1982 1983;"départ étape 22 du Tour 1980; départ étape 22 du Tour 1981; départ étape 21 du Tour 1982; départ étape 0 du Tour 1983; arrivée étape 21 du Tour 1980; arrivée étape 21 du Tour 1981; arrivée étape 0 du Tour 1983"
+Forest;France;5;6;11;1964;1970;1964 1968 1970;"départ étape 3.2 du Tour 1964; départ étape 4 du Tour 1964; départ étape 3.1 du Tour 1968; départ étape 3.2 du Tour 1968; départ étape 7.2 du Tour 1970; arrivée étape 3.1 du Tour 1964; arrivée étape 3.2 du Tour 1964; arrivée étape 2 du Tour 1968; arrivée étape 3.1 du Tour 1968; arrivée étape 7.1 du Tour 1970; arrivée étape 7.2 du Tour 1970"
+Forges-les-Eaux;France;1;1;2;1997;2002;1997 2002;"départ étape 6 du Tour 2002; arrivée étape 1 du Tour 1997"
+Fougères;France;3;3;6;1985;2021;1985 2013 2015 2018 2021;"départ étape 4 du Tour 1985; départ étape 12 du Tour 2013; départ étape 7 du Tour 2018; arrivée étape 3 du Tour 1985; arrivée étape 7 du Tour 2015; arrivée étape 4 du Tour 2021"
+Francfort;Allemagne;3;2;5;1980;1980;1980;"départ étape 0 du Tour 1980; départ étape 1.1 du Tour 1980; départ étape 2 du Tour 1980; arrivée étape 0 du Tour 1980; arrivée étape 1.2 du Tour 1980"
+Fribourg;France;3;4;7;1964;1997;1964 1971 1977 1997;"départ étape 6 du Tour 1964; départ étape 1.3 du Tour 1971; départ étape 17 du Tour 1997; arrivée étape 5 du Tour 1964; arrivée étape 1.2 du Tour 1971; arrivée étape 13.1 du Tour 1977; arrivée étape 16 du Tour 1997"
+Fribourg-en-Brisgau;Allemagne;1;1;2;2000;2000;2000;"départ étape 19 du Tour 2000; arrivée étape 18 du Tour 2000"
+Fromentine;France;1;0;1;2005;2005;2005;départ étape 1 du Tour 2005
+Frontignan-La-Peyrade;France;1;0;1;1998;1998;1998;départ étape 13 du Tour 1998
+Futuroscope;France;8;10;18;1986;2000;1986 1987 1989 1990 1994 1999 2000;"départ étape 11 du Tour 1986; départ étape 7 du Tour 1989; départ étape 0 du Tour 1990; départ étape 1 du Tour 1990; départ étape 2 du Tour 1990; départ étape 19 du Tour 1999; départ étape 1 du Tour 2000; départ étape 2 du Tour 2000; arrivée étape 10 du Tour 1986; arrivée étape 10 du Tour 1987; arrivée étape 6 du Tour 1989; arrivée étape 0 du Tour 1990; arrivée étape 1 du Tour 1990; arrivée étape 2 du Tour 1990; arrivée étape 7 du Tour 1994; arrivée étape 18 du Tour 1999; arrivée étape 19 du Tour 1999; arrivée étape 1 du Tour 2000"
+Gaillac;France;1;0;1;2003;2003;2003;départ étape 12 du Tour 2003
+Gaillard;France;2;2;4;1973;1974;1973 1974;"départ étape 7.2 du Tour 1973; départ étape 10 du Tour 1974; arrivée étape 7.1 du Tour 1973; arrivée étape 9 du Tour 1974"
+Galibier Serre-Chevalier;France;0;1;1;2011;2011;2011;arrivée étape 18 du Tour 2011
+Gand;Belgique;2;3;5;1951;2007;1951 1958 2007;"départ étape 3 du Tour 1951; départ étape 2 du Tour 1958; arrivée étape 2 du Tour 1951; arrivée étape 1 du Tour 1958; arrivée étape 2 du Tour 2007"
+Gap;France;21;19;40;1950;2026;1950 1951 1953 1956 1958 1960 1965 1970 1986 1989 1991 1996 2003 2006 2010 2011 2013 2015 2019 2020 2024 2026;"départ étape 18 du Tour 1950; départ étape 20 du Tour 1951; départ étape 18 du Tour 1953; départ étape 17 du Tour 1956; départ étape 20 du Tour 1958; départ étape 16 du Tour 1960; départ étape 16 du Tour 1965; départ étape 14 du Tour 1970; départ étape 17 du Tour 1986; départ étape 15 du Tour 1989; départ étape 16 du Tour 1989; départ étape 17 du Tour 1991; départ étape 11 du Tour 1996; départ étape 10 du Tour 2003; départ étape 15 du Tour 2006; départ étape 17 du Tour 2011; départ étape 18 du Tour 2013; départ étape 18 du Tour 2015; départ étape 5 du Tour 2020; départ étape 18 du Tour 2024; départ étape 19 du Tour 2026; arrivée étape 17 du Tour 1950; arrivée étape 19 du Tour 1951; arrivée étape 17 du Tour 1953; arrivée étape 16 du Tour 1956; arrivée étape 19 du Tour 1958; arrivée étape 15 du Tour 1960; arrivée étape 15 du Tour 1965; arrivée étape 13 du Tour 1970; arrivée étape 16 du Tour 1986; arrivée étape 14 du Tour 1989; arrivée étape 16 du Tour 1991; arrivée étape 10 du Tour 1996; arrivée étape 9 du Tour 2003; arrivée étape 14 du Tour 2006; arrivée étape 10 du Tour 2010; arrivée étape 16 du Tour 2011; arrivée étape 16 du Tour 2013; arrivée étape 16 du Tour 2015; arrivée étape 17 du Tour 2019"
+Gavarnie-Gèdre;France;0;1;1;2026;2026;2026;arrivée étape 6 du Tour 2026
+Genève;Suisse;2;2;4;1951;1990;1951 1990;"départ étape 23 du Tour 1951; départ étape 10 du Tour 1990; arrivée étape 22 du Tour 1951; arrivée étape 9 du Tour 1990"
+Gevrey-Chambertin;France;0;1;1;2024;2024;2024;arrivée étape 7 du Tour 2024
+Givors;France;1;0;1;2013;2013;2013;départ étape 15 du Tour 2013
+Gourette;France;1;1;2;1971;1971;1971;"départ étape 16.2 du Tour 1971; arrivée étape 16.1 du Tour 1971"
+Grand Colombier;France;0;2;2;2020;2023;2020 2023;"arrivée étape 15 du Tour 2020; arrivée étape 13 du Tour 2023"
+Granollers;Espagne;1;0;1;2026;2026;2026;départ étape 3 du Tour 2026
+Granville;France;2;1;3;1957;2016;1957 2016;"départ étape 2 du Tour 1957; départ étape 3 du Tour 2016; arrivée étape 1 du Tour 1957"
+Grenoble;France;18;12;30;1947;2020;1947 1954 1956 1959 1961 1963 1968 1970 1971 1978 1984 1988 1998 2001 2005 2011 2014 2020;"départ étape 8 du Tour 1947; départ étape 18 du Tour 1954; départ étape 19 du Tour 1956; départ étape 18 du Tour 1959; départ étape 10 du Tour 1961; départ étape 16 du Tour 1963; départ étape 19 du Tour 1968; départ étape 13 du Tour 1970; départ étape 11 du Tour 1971; départ étape 17 du Tour 1978; départ étape 17 du Tour 1984; départ étape 13 du Tour 1988; départ étape 15 du Tour 1998; départ étape 11 du Tour 2001; départ étape 10 du Tour 2005; départ étape 20 du Tour 2011; départ étape 14 du Tour 2014; départ étape 17 du Tour 2020; arrivée étape 7 du Tour 1947; arrivée étape 17 du Tour 1954; arrivée étape 18 du Tour 1956; arrivée étape 17 du Tour 1959; arrivée étape 9 du Tour 1961; arrivée étape 15 du Tour 1963; arrivée étape 18 du Tour 1968; arrivée étape 12 du Tour 1970; arrivée étape 10 du Tour 1971; arrivée étape 15 du Tour 1984; arrivée étape 14 du Tour 1998; arrivée étape 20 du Tour 2011"
+Gruissan;France;1;0;1;2024;2024;2024;départ étape 16 du Tour 2024
+Gueugnon;France;0;1;1;2010;2010;2010;arrivée étape 6 du Tour 2010
+Guzet-Neige;France;0;3;3;1984;1995;1984 1988 1995;"arrivée étape 11 du Tour 1984; arrivée étape 14 du Tour 1988; arrivée étape 14 du Tour 1995"
+Guéret;France;0;1;1;2004;2004;2004;arrivée étape 9 du Tour 2004
+Gérardmer;France;2;2;4;2005;2014;2005 2014;"départ étape 9 du Tour 2005; départ étape 9 du Tour 2014; arrivée étape 8 du Tour 2005; arrivée étape 8 du Tour 2014"
+Gérone;Espagne;1;0;1;2009;2009;2009;départ étape 6 du Tour 2009
+Hagetmau;France;1;0;1;2026;2026;2026;départ étape 7 du Tour 2026
+Harelbeke;Belgique;1;2;3;1974;1974;1974;"départ étape 6.2 du Tour 1974; arrivée étape 6.1 du Tour 1974; arrivée étape 6.2 du Tour 1974"
+Harrogate;Royaume-Uni;0;1;1;2014;2014;2014;arrivée étape 1 du Tour 2014
+Hasselt;Belgique;1;1;2;1981;1981;1981;"départ étape 14 du Tour 1981; arrivée étape 13 du Tour 1981"
+Hautacam;France;1;7;8;1994;2025;1994 1996 2000 2008 2014 2022 2025;"départ étape 12 du Tour 1994; arrivée étape 11 du Tour 1994; arrivée étape 16 du Tour 1996; arrivée étape 10 du Tour 2000; arrivée étape 10 du Tour 2008; arrivée étape 18 du Tour 2014; arrivée étape 18 du Tour 2022; arrivée étape 12 du Tour 2025"
+Hendaye;France;1;1;2;1996;1996;1996;"départ étape 19 du Tour 1996; arrivée étape 18 du Tour 1996"
+Herenthals;Belgique;1;2;3;1962;1962;1962;"départ étape 2.2 du Tour 1962; arrivée étape 2.1 du Tour 1962; arrivée étape 2.2 du Tour 1962"
+Houilles;France;1;0;1;2018;2018;2018;départ étape 21 du Tour 2018
+Huy;Belgique;3;1;4;1995;2015;1995 2001 2006 2015;"départ étape 8 du Tour 1995; départ étape 4 du Tour 2001; départ étape 4 du Tour 2006; arrivée étape 3 du Tour 2015"
+Hyères;France;1;1;2;1964;1964;1964;"départ étape 10.2 du Tour 1964; arrivée étape 10.1 du Tour 1964"
+Ile d'Oléron;France;0;1;1;1983;1983;1983;arrivée étape 7 du Tour 1983
+Isola 2000;France;1;2;3;1993;2024;1993 2024;"départ étape 12 du Tour 1993; arrivée étape 11 du Tour 1993; arrivée étape 19 du Tour 2024"
+Issoire;France;3;2;5;1983;2023;1983 2005 2011 2023;"départ étape 16 du Tour 1983; départ étape 19 du Tour 2005; départ étape 9 du Tour 2011; arrivée étape 14 du Tour 1983; arrivée étape 10 du Tour 2023"
+Issoudun;France;0;1;1;2009;2009;2009;arrivée étape 10 du Tour 2009
+Ivrea;Italie;1;0;1;1966;1966;1966;départ étape 18 du Tour 1966
+Izoard;France;0;1;1;2017;2017;2017;arrivée étape 18 du Tour 2017
+Jaca;Espagne;1;1;2;1991;1991;1991;"départ étape 13 du Tour 1991; arrivée étape 12 du Tour 1991"
+Jambes;Belgique;4;4;8;1963;1967;1963 1967;"départ étape 2.2 du Tour 1963; départ étape 3 du Tour 1963; départ étape 5.2 du Tour 1967; départ étape 6 du Tour 1967; arrivée étape 2.1 du Tour 1963; arrivée étape 2.2 du Tour 1963; arrivée étape 5.1 du Tour 1967; arrivée étape 5.2 du Tour 1967"
+Jaunay-Clan;France;1;0;1;1977;1977;1977;départ étape 7.1 du Tour 1977
+Jausiers;France;0;1;1;2008;2008;2008;arrivée étape 16 du Tour 2008
+Joigny;France;0;1;1;2007;2007;2007;arrivée étape 4 du Tour 2007
+Joinville;France;1;0;1;2003;2003;2003;départ étape 4 du Tour 2003
+Jonzac;France;1;0;1;1999;1999;1999;départ étape 18 du Tour 1999
+Karlsruhe;Allemagne;1;1;2;1987;2005;1987 2005;"départ étape 3 du Tour 1987; arrivée étape 7 du Tour 2005"
+L'Isle d'Abeau;France;0;1;1;1989;1989;1989;arrivée étape 20 du Tour 1989
+L'Isle-Jourdain;France;1;0;1;2016;2016;2016;départ étape 7 du Tour 2016
+La Bastide d'Armagnac;France;1;0;1;1989;1989;1989;départ étape 8 du Tour 1989
+La Baule;France;3;3;6;1965;2018;1965 1972 1988 2018;"départ étape 7 du Tour 1965; départ étape 0 du Tour 1988; départ étape 4 du Tour 2018; arrivée étape 6 du Tour 1965; arrivée étape 2 du Tour 1972; arrivée étape 0 du Tour 1988"
+La Bourboule;France;1;1;2;1992;1992;1992;"départ étape 17 du Tour 1992; arrivée étape 16 du Tour 1992"
+La Caverne du Pont-d'Arc;France;0;1;1;2016;2016;2016;arrivée étape 13 du Tour 2016
+La Chaux-de-Fonds;Suisse;1;0;1;1998;1998;1998;départ étape 19 du Tour 1998
+La Châtaigneraie;France;1;0;1;2005;2005;2005;départ étape 3 du Tour 2005
+La Châtre;France;1;1;2;1997;1998;1997 1998;"départ étape 6 du Tour 1998; arrivée étape 5 du Tour 1997"
+La Défense;France;1;0;1;1992;1992;1992;départ étape 21 du Tour 1992
+La Ferté-sous-Jouarre;France;1;0;1;2003;2003;2003;départ étape 2 du Tour 2003
+La Grande-Motte;France;1;3;4;1969;2009;1969 1972 2009;"départ étape 14 du Tour 1969; arrivée étape 13 du Tour 1969; arrivée étape 10 du Tour 1972; arrivée étape 3 du Tour 2009"
+La Guerche;France;1;0;1;1951;1951;1951;départ étape 7 du Tour 1951
+La Haye Fouassière;France;1;0;1;1988;1988;1988;départ étape 2 du Tour 1988
+La Mongie;France;0;3;3;1970;2004;1970 2002 2004;"arrivée étape 18 du Tour 1970; arrivée étape 11 du Tour 2002; arrivée étape 12 du Tour 2004"
+La Mure;France;1;0;1;2017;2017;2017;départ étape 17 du Tour 2017
+La Pierre-Saint-Martin;France;0;1;1;2015;2015;2015;arrivée étape 10 du Tour 2015
+La Plagne;France;0;5;5;1984;2025;1984 1987 1995 2002 2025;"arrivée étape 18 du Tour 1984; arrivée étape 21 du Tour 1987; arrivée étape 9 du Tour 1995; arrivée étape 16 du Tour 2002; arrivée étape 19 du Tour 2025"
+La Planche des Belles Filles;France;0;5;5;2012;2020;2012 2014 2017 2019 2020;"arrivée étape 7 du Tour 2012; arrivée étape 10 du Tour 2014; arrivée étape 5 du Tour 2017; arrivée étape 6 du Tour 2019; arrivée étape 20 du Tour 2020"
+La Roche-sur-Foron;France;0;1;1;2020;2020;2020;arrivée étape 18 du Tour 2020
+La Roche-sur-Yon;France;0;1;1;2018;2018;2018;arrivée étape 2 du Tour 2018
+La Rochelle;France;8;7;15;1948;1983;1948 1949 1956 1959 1962 1965 1970 1983;"départ étape 5 du Tour 1948; départ étape 8 du Tour 1949; départ étape 9 du Tour 1956; départ étape 8 du Tour 1959; départ étape 9 du Tour 1962; départ étape 8 du Tour 1965; départ étape 2 du Tour 1970; départ étape 8 du Tour 1983; arrivée étape 4 du Tour 1948; arrivée étape 7 du Tour 1949; arrivée étape 8 du Tour 1956; arrivée étape 7 du Tour 1959; arrivée étape 8.2 du Tour 1962; arrivée étape 7 du Tour 1965; arrivée étape 1 du Tour 1970"
+La Rosière Espace San Bernardo;France;0;1;1;2018;2018;2018;arrivée étape 11 du Tour 2018
+La Ruchère;France;0;1;1;1984;1984;1984;arrivée étape 16 du Tour 1984
+La Super Planche des Belles Filles;France;0;1;1;2022;2022;2022;arrivée étape 7 du Tour 2022
+La Tour-du-Pin;France;2;0;2;1983;2020;1983 2020;"départ étape 17 du Tour 1983; départ étape 16 du Tour 2020"
+La Toussuire;France;0;3;3;2006;2015;2006 2012 2015;"arrivée étape 16 du Tour 2006; arrivée étape 11 du Tour 2012; arrivée étape 19 du Tour 2015"
+Lac Saint Point-Malbuisson;France;0;1;1;1994;1994;1994;arrivée étape 20 du Tour 1994
+Lac de Madine;France;2;2;4;1993;1996;1993 1996;"départ étape 9 du Tour 1993; départ étape 5 du Tour 1996; arrivée étape 9 du Tour 1993; arrivée étape 4 du Tour 1996"
+Lac de Payolle;France;0;1;1;2016;2016;2016;arrivée étape 7 du Tour 2016
+Lac de Vassivière;France;2;3;5;1985;1995;1985 1990 1995;"départ étape 20 du Tour 1990; départ étape 19 du Tour 1995; arrivée étape 21 du Tour 1985; arrivée étape 20 du Tour 1990; arrivée étape 19 du Tour 1995"
+Lacanau;France;1;1;2;1976;1976;1976;"départ étape 18.3 du Tour 1976; arrivée étape 18.2 du Tour 1976"
+Lacapelle-Marival;France;1;0;1;2022;2022;2022;départ étape 20 du Tour 2022
+Laissac-Sévérac l'Eglise;France;1;0;1;2017;2017;2017;départ étape 15 du Tour 2017
+Lamballe;France;1;0;1;2004;2004;2004;départ étape 8 du Tour 2004
+Landerneau;France;0;1;1;2021;2021;2021;arrivée étape 1 du Tour 2021
+Lanester;France;1;1;2;1985;2002;1985 2002;"départ étape 9 du Tour 2002; arrivée étape 1 du Tour 1985"
+Langon;France;3;1;4;1975;1984;1975 1976 1984;"départ étape 9.1 du Tour 1975; départ étape 18.2 du Tour 1976; départ étape 10 du Tour 1984; arrivée étape 18.1 du Tour 1976"
+Lannemezan;France;6;0;6;1999;2026;1999 2002 2004 2008 2015 2026;"départ étape 16 du Tour 1999; départ étape 12 du Tour 2002; départ étape 13 du Tour 2004; départ étape 11 du Tour 2008; départ étape 12 du Tour 2015; départ étape 5 du Tour 2026"
+Lannion;France;0;1;1;1995;1995;1995;arrivée étape 1 du Tour 1995
+Lans-en-Vercors;France;1;1;2;1985;1985;1985;"départ étape 13 du Tour 1985; arrivée étape 12 du Tour 1985"
+Laplume;France;0;1;1;1980;1980;1980;arrivée étape 11 du Tour 1980
+Laruns;France;1;3;4;1985;2023;1985 2018 2020 2023;"départ étape 18.2 du Tour 1985; arrivée étape 19 du Tour 2018; arrivée étape 9 du Tour 2020; arrivée étape 5 du Tour 2023"
+Lausanne;Suisse;5;6;11;1948;2022;1948 1949 1952 1978 2000 2022;"départ étape 16 du Tour 1948; départ étape 19 du Tour 1949; départ étape 10 du Tour 1952; départ étape 19 du Tour 1978; départ étape 18 du Tour 2000; arrivée étape 15 du Tour 1948; arrivée étape 18 du Tour 1949; arrivée étape 9 du Tour 1952; arrivée étape 18 du Tour 1978; arrivée étape 17 du Tour 2000; arrivée étape 8 du Tour 2022"
+Lauwin-Planque;France;1;0;1;2025;2025;2025;départ étape 2 du Tour 2025
+Laval;France;1;1;2;1999;1999;1999;"départ étape 4 du Tour 1999; arrivée étape 3 du Tour 1999"
+Laval Espace Mayenne;France;0;2;2;2021;2025;2021 2025;"arrivée étape 5 du Tour 2021; arrivée étape 8 du Tour 2025"
+Lavaur;France;0;3;3;2001;2020;2001 2011 2020;"arrivée étape 15 du Tour 2001; arrivée étape 11 du Tour 2011; arrivée étape 7 du Tour 2020"
+Lavelanet;France;2;0;2;2002;2008;2002 2008;"départ étape 13 du Tour 2002; départ étape 12 du Tour 2008"
+Le Blanc;France;1;0;1;1997;1997;1997;départ étape 6 du Tour 1997
+Le Cap d'Agde;France;2;1;3;2005;2012;2005 2009 2012;"départ étape 14 du Tour 2005; départ étape 5 du Tour 2009; arrivée étape 13 du Tour 2012"
+Le Creusot;France;1;2;3;1998;2021;1998 2006 2021;"départ étape 19 du Tour 2006; arrivée étape 20 du Tour 1998; arrivée étape 7 du Tour 2021"
+Le Grand-Bornand;France;0;2;2;2018;2021;2018 2021;"arrivée étape 10 du Tour 2018; arrivée étape 8 du Tour 2021"
+Le Havre;France;3;6;9;1955;2015;1955 1962 1979 1983 1991 1995 2015;"départ étape 1.1 du Tour 1955; départ étape 5 du Tour 1983; départ étape 7 du Tour 1991; arrivée étape 4 du Tour 1962; arrivée étape 8 du Tour 1979; arrivée étape 4 du Tour 1983; arrivée étape 6 du Tour 1991; arrivée étape 4 du Tour 1995; arrivée étape 6 du Tour 2015"
+Le Lioran;France;0;3;3;2016;2026;2016 2024 2026;"arrivée étape 5 du Tour 2016; arrivée étape 11 du Tour 2024; arrivée étape 10 du Tour 2026"
+Le Mans;France;6;7;13;1952;2011;1952 1953 1975 1981 1983 1984 1988 2011;"départ étape 3 du Tour 1952; départ étape 7 du Tour 1953; départ étape 10 du Tour 1981; départ étape 8 du Tour 1984; départ étape 4 du Tour 1988; départ étape 7 du Tour 2011; arrivée étape 2 du Tour 1952; arrivée étape 6 du Tour 1953; arrivée étape 4 du Tour 1975; arrivée étape 9 du Tour 1981; arrivée étape 5 du Tour 1983; arrivée étape 7 du Tour 1984; arrivée étape 3 du Tour 1988"
+Le Markstein Fellering;France;0;2;2;2023;2026;2023 2026;"arrivée étape 20 du Tour 2023; arrivée étape 14 du Tour 2026"
+Le Mont-Dore Puy de Sancy;France;0;1;1;2025;2025;2025;arrivée étape 10 du Tour 2025
+Le Perreux;France;1;0;1;1979;1979;1979;départ étape 24 du Tour 1979
+Le Pleynet;Pays-Bas;0;1;1;1981;1981;1981;arrivée étape 18 du Tour 1981
+Le Puy-en-Velay;France;4;4;8;1954;2017;1954 1990 1996 2005 2017;"départ étape 16 du Tour 1954; départ étape 14 du Tour 1990; départ étape 13 du Tour 1996; départ étape 16 du Tour 2017; arrivée étape 15 du Tour 1954; arrivée étape 12 du Tour 1996; arrivée étape 19 du Tour 2005; arrivée étape 15 du Tour 2017"
+Le Teil;France;1;0;1;2020;2020;2020;départ étape 6 du Tour 2020
+Le Touquet-Paris-Plage;France;3;2;5;1971;2014;1971 1976 2014;"départ étape 3 du Tour 1976; départ étape 4 du Tour 1976; départ étape 4 du Tour 2014; arrivée étape 6.2 du Tour 1971; arrivée étape 3 du Tour 1976"
+Le Tréport;France;2;2;4;1951;1958;1951 1958;"départ étape 4 du Tour 1951; départ étape 4 du Tour 1958; arrivée étape 3 du Tour 1951; arrivée étape 3 du Tour 1958"
+Leeds;Royaume-Uni;1;0;1;2014;2014;2014;départ étape 1 du Tour 2014
+Leiden;Pays-Bas;2;1;3;1978;1978;1978;"départ étape 0 du Tour 1978; départ étape 1.1 du Tour 1978; arrivée étape 0 du Tour 1978"
+Les Angles;France;0;1;1;2026;2026;2026;arrivée étape 3 du Tour 2026
+Les Arcs;France;0;1;1;1996;1996;1996;arrivée étape 7 du Tour 1996
+Les Deux Alpes;France;1;2;3;1998;2002;1998 2002;"départ étape 16 du Tour 2002; arrivée étape 15 du Tour 1998; arrivée étape 15 du Tour 2002"
+Les Echelles;France;1;0;1;1984;1984;1984;départ étape 16 du Tour 1984
+Les Essarts;France;3;4;7;1954;2011;1954 1956 2005 2011;"départ étape 4.2 du Tour 1954; départ étape 3.2 du Tour 1956; départ étape 2 du Tour 2011; arrivée étape 4.1 du Tour 1954; arrivée étape 3.2 du Tour 1956; arrivée étape 2 du Tour 2005; arrivée étape 2 du Tour 2011"
+Les Gets les portes du soleil;France;1;0;1;2023;2023;2023;départ étape 15 du Tour 2023
+Les Menuires;France;1;1;2;1979;1979;1979;"départ étape 17 du Tour 1979; arrivée étape 16 du Tour 1979"
+Les Orres;France;0;1;1;1973;1973;1973;arrivée étape 8 du Tour 1973
+Les Sables;France;3;3;6;1947;1993;1947 1949 1993;"départ étape 18 du Tour 1947; départ étape 7 du Tour 1949; départ étape 2 du Tour 1993; arrivée étape 17 du Tour 1947; arrivée étape 6 du Tour 1949; arrivée étape 1 du Tour 1993"
+Levallois-Perret;France;1;0;1;1986;1986;1986;départ étape 3 du Tour 1986
+Libourne;France;5;3;8;1957;2023;1957 1969 1992 2021 2023;"départ étape 21 du Tour 1957; départ étape 19 du Tour 1969; départ étape 4 du Tour 1992; départ étape 20 du Tour 2021; départ étape 8 du Tour 2023; arrivée étape 20 du Tour 1957; arrivée étape 4 du Tour 1992; arrivée étape 19 du Tour 2021"
+Lille;France;10;9;19;1947;2014;1947 1950 1953 1954 1956 1960 1980 1982 1994 2014;"départ étape 2 du Tour 1947; départ étape 4 du Tour 1950; départ étape 4 du Tour 1953; départ étape 3 du Tour 1954; départ étape 3.1 du Tour 1956; départ étape 1.1 du Tour 1960; départ étape 6 du Tour 1980; départ étape 6 du Tour 1982; départ étape 0 du Tour 1994; départ étape 1 du Tour 1994; arrivée étape 1 du Tour 1947; arrivée étape 3 du Tour 1950; arrivée étape 3 du Tour 1953; arrivée étape 2 du Tour 1954; arrivée étape 2 du Tour 1956; arrivée étape 5 du Tour 1980; arrivée étape 6 du Tour 1982; arrivée étape 0 du Tour 1994; arrivée étape 4 du Tour 2014"
+Lille Métropole;France;2;1;3;2022;2025;2022 2025;"départ étape 5 du Tour 2022; départ étape 1 du Tour 2025; arrivée étape 1 du Tour 2025"
+Limoges;France;13;14;27;1951;2023;1951 1952 1960 1963 1967 1970 1977 1985 1988 1990 1995 2000 2004 2009 2016 2023;"départ étape 9 du Tour 1951; départ étape 21 du Tour 1952; départ étape 9 du Tour 1960; départ étape 8 du Tour 1963; départ étape 20 du Tour 1967; départ étape 0 du Tour 1970; départ étape 1 du Tour 1970; départ étape 21 du Tour 1985; départ étape 19 du Tour 1988; départ étape 8 du Tour 2000; départ étape 10 du Tour 2004; départ étape 10 du Tour 2009; départ étape 5 du Tour 2016; arrivée étape 8 du Tour 1951; arrivée étape 20 du Tour 1952; arrivée étape 8 du Tour 1960; arrivée étape 7 du Tour 1963; arrivée étape 19 du Tour 1967; arrivée étape 0 du Tour 1970; arrivée étape 6 du Tour 1977; arrivée étape 20 du Tour 1985; arrivée étape 18 du Tour 1988; arrivée étape 19 du Tour 1990; arrivée étape 18 du Tour 1995; arrivée étape 7 du Tour 2000; arrivée étape 4 du Tour 2016; arrivée étape 8 du Tour 2023"
+Limoux;France;3;0;3;2011;2019;2011 2012 2019;"départ étape 15 du Tour 2011; départ étape 14 du Tour 2012; départ étape 15 du Tour 2019"
+Lisieux;France;3;3;6;1964;2011;1964 1970 2006 2011;"départ étape 2 du Tour 1964; départ étape 5.1 du Tour 1970; départ étape 6 du Tour 2006; arrivée étape 1 du Tour 1964; arrivée étape 4 du Tour 1970; arrivée étape 6 du Tour 2011"
+Livarot;France;1;0;1;2015;2015;2015;départ étape 7 du Tour 2015
+Liège;Belgique;13;11;24;1948;2017;1948 1950 1953 1956 1965 1980 1989 1995 2004 2012 2017;"départ étape 20 du Tour 1948; départ étape 3 du Tour 1950; départ étape 3 du Tour 1953; départ étape 2 du Tour 1956; départ étape 1.2 du Tour 1965; départ étape 2 du Tour 1965; départ étape 4 du Tour 1980; départ étape 5 du Tour 1980; départ étape 4 du Tour 1989; départ étape 0 du Tour 2004; départ étape 1 du Tour 2004; départ étape 0 du Tour 2012; départ étape 1 du Tour 2012; arrivée étape 19 du Tour 1948; arrivée étape 2 du Tour 1950; arrivée étape 2 du Tour 1953; arrivée étape 1 du Tour 1956; arrivée étape 1.1 du Tour 1965; arrivée étape 1.2 du Tour 1965; arrivée étape 3 du Tour 1980; arrivée étape 7 du Tour 1995; arrivée étape 0 du Tour 2004; arrivée étape 0 du Tour 2012; arrivée étape 2 du Tour 2017"
+Liévin;France;2;2;4;1986;1988;1986 1988;"départ étape 4 du Tour 1986; départ étape 6 du Tour 1988; arrivée étape 3 du Tour 1986; arrivée étape 5 du Tour 1988"
+Lodève;France;2;0;2;1974;2002;1974 2002;"départ étape 14 du Tour 1974; départ étape 14 du Tour 2002"
+Londres;Royaume-Uni;2;2;4;2007;2014;2007 2014;"départ étape 0 du Tour 2007; départ étape 1 du Tour 2007; arrivée étape 0 du Tour 2007; arrivée étape 3 du Tour 2014"
+Longjumeau;France;1;0;1;2010;2010;2010;départ étape 20 du Tour 2010
+Longwy;France;0;3;3;1982;2022;1982 2017 2022;"arrivée étape 3 du Tour 1982; arrivée étape 3 du Tour 2017; arrivée étape 6 du Tour 2022"
+Lons-le-Saunier;France;0;2;2;1963;2004;1963 2004;"arrivée étape 18 du Tour 1963; arrivée étape 18 du Tour 2004"
+Lorient;France;9;7;16;1956;2021;1956 1960 1968 1977 1982 1985 1998 2002 2006 2011 2018 2021;"départ étape 7 du Tour 1956; départ étape 7 du Tour 1960; départ étape 7 du Tour 1968; départ étape 9 du Tour 1977; départ étape 9.1 du Tour 1982; départ étape 2 du Tour 1985; départ étape 4 du Tour 2011; départ étape 5 du Tour 2018; départ étape 3 du Tour 2021; arrivée étape 6 du Tour 1956; arrivée étape 6 du Tour 1960; arrivée étape 6 du Tour 1968; arrivée étape 8 du Tour 1977; arrivée étape 3 du Tour 1998; arrivée étape 9 du Tour 2002; arrivée étape 8 du Tour 2006"
+Loudenvielle;France;2;2;4;1997;2025;1997 2020 2024 2025;"départ étape 15 du Tour 2024; départ étape 13 du Tour 2025; arrivée étape 9 du Tour 1997; arrivée étape 8 du Tour 2020"
+Loudun;France;1;1;2;2000;2000;2000;"départ étape 3 du Tour 2000; arrivée étape 2 du Tour 2000"
+Lourdes;France;4;2;6;1948;2022;1948 1990 2011 2018 2022;"départ étape 8 du Tour 1948; départ étape 17 du Tour 1990; départ étape 19 du Tour 2018; départ étape 18 du Tour 2022; arrivée étape 7 du Tour 1948; arrivée étape 13 du Tour 2011"
+Louvain;Belgique;2;1;3;1976;1976;1976;"départ étape 5.1 du Tour 1976; départ étape 5.2 du Tour 1976; arrivée étape 5.1 du Tour 1976"
+Louvroil;Belgique;1;1;2;1984;1984;1984;"départ étape 3 du Tour 1984; arrivée étape 2 du Tour 1984"
+Luchon;France;27;20;47;1947;2006;1947 1949 1951 1953 1954 1956 1958 1960 1961 1962 1963 1964 1966 1967 1969 1971 1972 1973 1979 1980 1983 1989 1997 1998 2006;"départ étape 15 du Tour 1947; départ étape 12 du Tour 1949; départ étape 15 du Tour 1951; départ étape 12 du Tour 1953; départ étape 13 du Tour 1954; départ étape 13 du Tour 1956; départ étape 15 du Tour 1958; départ étape 12 du Tour 1960; départ étape 17 du Tour 1961; départ étape 13 du Tour 1962; départ étape 14 du Tour 1962; départ étape 12 du Tour 1963; départ étape 16 du Tour 1964; départ étape 12 du Tour 1966; départ étape 17 du Tour 1967; départ étape 17 du Tour 1969; départ étape 15 du Tour 1971; départ étape 16.1 du Tour 1971; départ étape 9 du Tour 1972; départ étape 14 du Tour 1973; départ étape 2 du Tour 1979; départ étape 3 du Tour 1979; départ étape 11 du Tour 1983; départ étape 11 du Tour 1989; départ étape 10 du Tour 1997; départ étape 11 du Tour 1998; départ étape 12 du Tour 2006; arrivée étape 14 du Tour 1947; arrivée étape 11 du Tour 1949; arrivée étape 14 du Tour 1951; arrivée étape 11 du Tour 1953; arrivée étape 12 du Tour 1954; arrivée étape 12 du Tour 1956; arrivée étape 14 du Tour 1958; arrivée étape 11 du Tour 1960; arrivée étape 11 du Tour 1963; arrivée étape 15 du Tour 1964; arrivée étape 11 du Tour 1966; arrivée étape 16 du Tour 1967; arrivée étape 16 du Tour 1969; arrivée étape 14 du Tour 1971; arrivée étape 8 du Tour 1972; arrivée étape 13 du Tour 1973; arrivée étape 1 du Tour 1979; arrivée étape 13 du Tour 1980; arrivée étape 10 du Tour 1983; arrivée étape 10 du Tour 1998"
+Luchon-Superbagnères;France;0;1;1;2025;2025;2025;arrivée étape 14 du Tour 2025
+Lugny;France;1;0;1;1991;1991;1991;départ étape 21 du Tour 1991
+Lunéville;France;2;0;2;1964;2005;1964 2005;"départ étape 5 du Tour 1964; départ étape 7 du Tour 2005"
+Lure;France;1;0;1;2020;2020;2020;départ étape 20 du Tour 2020
+Luxembourg;Luxembourg;10;7;17;1947;2002;1947 1989 1992 2002;"départ étape 4 du Tour 1947; départ étape 0 du Tour 1989; départ étape 1 du Tour 1989; départ étape 2 du Tour 1989; départ étape 3 du Tour 1989; départ étape 9 du Tour 1992; départ étape 10 du Tour 1992; départ étape 0 du Tour 2002; départ étape 1 du Tour 2002; départ étape 2 du Tour 2002; arrivée étape 3 du Tour 1947; arrivée étape 0 du Tour 1989; arrivée étape 1 du Tour 1989; arrivée étape 2 du Tour 1989; arrivée étape 9 du Tour 1992; arrivée étape 0 du Tour 2002; arrivée étape 1 du Tour 2002"
+Luz-Ardiden;France;0;9;9;1985;2021;1985 1987 1988 1990 1994 2001 2003 2011 2021;"arrivée étape 17 du Tour 1985; arrivée étape 14 du Tour 1987; arrivée étape 15 du Tour 1988; arrivée étape 16 du Tour 1990; arrivée étape 12 du Tour 1994; arrivée étape 14 du Tour 2001; arrivée étape 15 du Tour 2003; arrivée étape 12 du Tour 2011; arrivée étape 18 du Tour 2021"
+Luz-Saint-Sauveur;France;1;0;1;1985;1985;1985;départ étape 18.1 du Tour 1985
+Luçon;France;2;1;3;1962;1993;1962 1993;"départ étape 8.2 du Tour 1962; départ étape 1 du Tour 1993; arrivée étape 8.1 du Tour 1962"
+Lyon;France;11;12;23;1947;2020;1947 1950 1953 1954 1956 1962 1965 1991 2003 2013 2020;"départ étape 7 du Tour 1947; départ étape 21 du Tour 1950; départ étape 20 du Tour 1953; départ étape 17 du Tour 1954; départ étape 21 du Tour 1956; départ étape 21 du Tour 1962; départ étape 20 du Tour 1965; départ étape 0 du Tour 1991; départ étape 1 du Tour 1991; départ étape 7 du Tour 2003; départ étape 15 du Tour 2020; arrivée étape 6 du Tour 1947; arrivée étape 20 du Tour 1950; arrivée étape 19 du Tour 1953; arrivée étape 16 du Tour 1954; arrivée étape 20 du Tour 1956; arrivée étape 20 du Tour 1962; arrivée étape 19 du Tour 1965; arrivée étape 0 du Tour 1991; arrivée étape 1 du Tour 1991; arrivée étape 6 du Tour 2003; arrivée étape 14 du Tour 2013; arrivée étape 14 du Tour 2020"
+Lézat-sur-Leze;France;1;0;1;2005;2005;2005;départ étape 15 du Tour 2005
+Lézignan-Corbières;France;1;0;1;1980;1980;1980;départ étape 14 du Tour 1980
+Maastricht;Pays-Bas;1;1;2;1969;1969;1969;"départ étape 3 du Tour 1969; arrivée étape 2 du Tour 1969"
+Machecoul;France;0;1;1;1988;1988;1988;arrivée étape 1 du Tour 1988
+Macon;France;1;4;5;1991;2012;1991 2002 2006 2012;"départ étape 10 du Tour 2012; arrivée étape 20 du Tour 1991; arrivée étape 21 du Tour 1991; arrivée étape 19 du Tour 2002; arrivée étape 18 du Tour 2006"
+Malaucène;France;0;1;1;2021;2021;2021;arrivée étape 11 du Tour 2021
+Malemort;France;1;0;1;2026;2026;2026;départ étape 9 du Tour 2026
+Manosque;France;1;1;2;1976;1982;1976 1982;"départ étape 15 du Tour 1982; arrivée étape 11 du Tour 1976"
+Mantes-la-Jolie;France;1;0;1;2020;2020;2020;départ étape 21 du Tour 2020
+Mantes-la-Ville;France;1;0;1;2025;2025;2025;départ étape 21 du Tour 2025
+Marche en Famenne;Belgique;0;1;1;1971;1971;1971;arrivée étape 4 du Tour 1971
+Marcoussis;France;1;0;1;2007;2007;2007;départ étape 20 du Tour 2007
+Marennes;France;1;1;2;1997;1997;1997;"départ étape 7 du Tour 1997; arrivée étape 6 du Tour 1997"
+Marseille;France;13;15;28;1947;2017;1947 1948 1949 1951 1953 1955 1957 1967 1971 1989 1993 2003 2007 2009 2013 2017;"départ étape 12 du Tour 1947; départ étape 11 du Tour 1948; départ étape 15 du Tour 1949; départ étape 19 du Tour 1951; départ étape 16 du Tour 1953; départ étape 11 du Tour 1955; départ étape 13 du Tour 1957; départ étape 13 du Tour 1967; départ étape 14 du Tour 1989; départ étape 13 du Tour 1993; départ étape 11 du Tour 2007; départ étape 3 du Tour 2009; départ étape 20 du Tour 2017; arrivée étape 11 du Tour 1947; arrivée étape 10 du Tour 1948; arrivée étape 14 du Tour 1949; arrivée étape 18 du Tour 1951; arrivée étape 15 du Tour 1953; arrivée étape 10 du Tour 1955; arrivée étape 12 du Tour 1957; arrivée étape 12 du Tour 1967; arrivée étape 12 du Tour 1971; arrivée étape 13 du Tour 1989; arrivée étape 12 du Tour 1993; arrivée étape 10 du Tour 2003; arrivée étape 10 du Tour 2007; arrivée étape 5 du Tour 2013; arrivée étape 20 du Tour 2017"
+Martigny;Suisse;1;0;1;2009;2009;2009;départ étape 16 du Tour 2009
+Martigues;France;2;3;5;1980;1982;1980 1981 1982;"départ étape 3 du Tour 1981; départ étape 14 du Tour 1982; arrivée étape 15 du Tour 1980; arrivée étape 2 du Tour 1981; arrivée étape 14 du Tour 1982"
+Maubeuge;France;0;1;1;1999;1999;1999;arrivée étape 6 du Tour 1999
+Maubourguet Pays du Val d'Adour;France;1;0;1;2014;2014;2014;départ étape 19 du Tour 2014
+Mayenne;France;1;0;1;1995;1995;1995;départ étape 3 du Tour 1995
+Mazamet;France;1;0;1;2007;2007;2007;départ étape 14 du Tour 2007
+Mazé-Montgeoffroy;France;1;1;2;1978;1978;1978;"départ étape 6 du Tour 1978; arrivée étape 5 du Tour 1978"
+Meaux;France;0;1;1;2003;2003;2003;arrivée étape 1 du Tour 2003
+Megève;France;1;2;3;2016;2022;2016 2022;"départ étape 20 du Tour 2016; arrivée étape 18 du Tour 2016; arrivée étape 10 du Tour 2022"
+Melun;France;5;2;7;1968;2002;1968 1975 1991 1998 2002;"départ étape 22.2 du Tour 1968; départ étape 21 du Tour 1975; départ étape 22 du Tour 1991; départ étape 21 du Tour 1998; départ étape 20 du Tour 2002; arrivée étape 22.1 du Tour 1968; arrivée étape 20 du Tour 1975"
+Mende;France;2;6;8;1995;2022;1995 2005 2010 2015 2018 2022;"départ étape 13 du Tour 1995; départ étape 15 du Tour 2015; arrivée étape 12 du Tour 1995; arrivée étape 18 du Tour 2005; arrivée étape 12 du Tour 2010; arrivée étape 14 du Tour 2015; arrivée étape 14 du Tour 2018; arrivée étape 14 du Tour 2022"
+Menton;France;1;1;2;1950;1950;1950;"départ étape 16 du Tour 1950; arrivée étape 15 du Tour 1950"
+Merlin-Plage;France;5;3;8;1972;1976;1972 1975 1976;"départ étape 3.2 du Tour 1972; départ étape 4 du Tour 1972; départ étape 6 du Tour 1975; départ étape 0 du Tour 1976; départ étape 1 du Tour 1976; arrivée étape 3.2 du Tour 1972; arrivée étape 5 du Tour 1975; arrivée étape 6 du Tour 1975"
+Metz;France;15;14;29;1948;2012;1948 1950 1951 1952 1953 1955 1957 1959 1961 1964 1967 1978 1979 1980 1999 2002 2012;"départ étape 19 du Tour 1948; départ étape 2 du Tour 1950; départ étape 1 du Tour 1951; départ étape 7 du Tour 1952; départ étape 2 du Tour 1953; départ étape 5 du Tour 1955; départ étape 7 du Tour 1957; départ étape 2 du Tour 1959; départ étape 5 du Tour 1961; départ étape 7 du Tour 1967; départ étape 20 du Tour 1978; départ étape 13 du Tour 1979; départ étape 3 du Tour 1980; départ étape 8 du Tour 1999; départ étape 3 du Tour 2002; arrivée étape 18 du Tour 1948; arrivée étape 1 du Tour 1950; arrivée étape 6 du Tour 1952; arrivée étape 1 du Tour 1953; arrivée étape 4 du Tour 1955; arrivée étape 6 du Tour 1957; arrivée étape 1 du Tour 1959; arrivée étape 4 du Tour 1961; arrivée étape 4 du Tour 1964; arrivée étape 6 du Tour 1967; arrivée étape 12 du Tour 1979; arrivée étape 2 du Tour 1980; arrivée étape 8 du Tour 1999; arrivée étape 6 du Tour 2012"
+Meudon;France;1;0;1;1986;1986;1986;départ étape 2 du Tour 1986
+Meyrignac l'Eglise;France;1;0;1;1998;1998;1998;départ étape 7 du Tour 1998
+Millau;France;7;5;12;1954;2020;1954 1955 1960 1987 1990 2018 2020;"départ étape 15 du Tour 1954; départ étape 13 du Tour 1955; départ étape 14 du Tour 1960; départ étape 17 du Tour 1987; départ étape 15 du Tour 1990; départ étape 15 du Tour 2018; départ étape 7 du Tour 2020; arrivée étape 14 du Tour 1954; arrivée étape 12 du Tour 1955; arrivée étape 13 du Tour 1960; arrivée étape 16 du Tour 1987; arrivée étape 14 du Tour 1990"
+Miramas;France;1;0;1;2005;2005;2005;départ étape 13 du Tour 2005
+Modane Valfréjus;France;2;0;2;2011;2015;2011 2015;"départ étape 19 du Tour 2011; départ étape 20 du Tour 2015"
+Mohlin;Suisse;1;1;2;1982;1982;1982;"départ étape 1 du Tour 1982; arrivée étape 1 du Tour 1982"
+Moirans-en-Montagne;France;2;0;2;2016;2023;2016 2023;"départ étape 16 du Tour 2016; départ étape 19 du Tour 2023"
+Molenbeek;Belgique;1;1;2;1975;1975;1975;"départ étape 1.2 du Tour 1975; arrivée étape 1.1 du Tour 1975"
+Monaco;Monaco;7;5;12;1952;2024;1952 1953 1955 1964 2009 2024;"départ étape 13 du Tour 1952; départ étape 17 du Tour 1953; départ étape 10 du Tour 1955; départ étape 10.1 du Tour 1964; départ étape 1 du Tour 2009; départ étape 2 du Tour 2009; départ étape 21 du Tour 2024; arrivée étape 12 du Tour 1952; arrivée étape 16 du Tour 1953; arrivée étape 9 du Tour 1955; arrivée étape 9 du Tour 1964; arrivée étape 1 du Tour 2009"
+Mondorf-les-Bains;Luxembourg;1;0;1;2017;2017;2017;départ étape 4 du Tour 2017
+Monetier les Bains;France;1;0;1;1996;1996;1996;départ étape 9 du Tour 1996
+Mons;France;1;0;1;1974;1974;1974;départ étape 7 du Tour 1974
+Mont Aigoual;France;0;1;1;2020;2020;2020;arrivée étape 6 du Tour 2020
+Mont Revard;France;1;2;3;1965;1972;1965 1972;"départ étape 19 du Tour 1965; arrivée étape 18 du Tour 1965; arrivée étape 15 du Tour 1972"
+Mont Ventoux;France;1;11;12;1958;2025;1958 1965 1970 1972 1987 2000 2002 2009 2013 2016 2025;"départ étape 18 du Tour 1958; arrivée étape 18 du Tour 1958; arrivée étape 14 du Tour 1965; arrivée étape 14 du Tour 1970; arrivée étape 11 du Tour 1972; arrivée étape 18 du Tour 1987; arrivée étape 12 du Tour 2000; arrivée étape 14 du Tour 2002; arrivée étape 20 du Tour 2009; arrivée étape 15 du Tour 2013; arrivée étape 12 du Tour 2016; arrivée étape 16 du Tour 2025"
+Mont des Alouettes;France;0;1;1;2011;2011;2011;arrivée étape 1 du Tour 2011
+Mont-Saint-Michel;France;1;2;3;1990;2016;1990 2013 2016;"départ étape 1 du Tour 2016; arrivée étape 4 du Tour 1990; arrivée étape 11 du Tour 2013"
+Mont-de-Marsan;France;3;0;3;1960;2023;1960 1971 2023;"départ étape 10 du Tour 1960; départ étape 17 du Tour 1971; départ étape 7 du Tour 2023"
+Montaigu;France;1;0;1;1999;1999;1999;départ étape 1 du Tour 1999
+Montargis;France;3;3;6;1969;2010;1969 1976 2005 2010;"départ étape 22.1 du Tour 1969; départ étape 21 du Tour 1976; départ étape 6 du Tour 2010; arrivée étape 21 du Tour 1969; arrivée étape 5 du Tour 2005; arrivée étape 5 du Tour 2010"
+Montauban;France;1;2;3;1998;2016;1998 2016;"départ étape 9 du Tour 1998; arrivée étape 8 du Tour 1998; arrivée étape 6 du Tour 2016"
+Montbéliard;France;1;1;2;1997;1997;1997;"départ étape 19 du Tour 1997; arrivée étape 18 du Tour 1997"
+Montceau-les-Mines;France;1;1;2;1998;2006;1998 2006;"départ étape 20 du Tour 1998; arrivée étape 19 du Tour 2006"
+Montereau;France;2;0;2;1977;2004;1977 2004;"départ étape 21 du Tour 1977; départ étape 20 du Tour 2004"
+Montereau-Fault-Yonne;France;1;0;1;2009;2009;2009;départ étape 21 du Tour 2009
+Montgenèvre;France;1;1;2;1976;1976;1976;"départ étape 11 du Tour 1976; arrivée étape 10 du Tour 1976"
+Montgeron;France;2;0;2;2003;2017;2003 2017;"départ étape 1 du Tour 2003; départ étape 21 du Tour 2017"
+Montlhéry;France;0;1;1;1993;1993;1993;arrivée étape 19 du Tour 1993
+Montluçon;France;5;6;11;1953;2008;1953 1956 1966 1992 2001 2008;"départ étape 22 du Tour 1953; départ étape 22 du Tour 1956; départ étape 21 du Tour 1966; départ étape 18 du Tour 1992; départ étape 18 du Tour 2001; arrivée étape 21 du Tour 1953; arrivée étape 21 du Tour 1956; arrivée étape 20 du Tour 1966; arrivée étape 17 du Tour 1992; arrivée étape 17 du Tour 2001; arrivée étape 19 du Tour 2008"
+Montpellier;France;20;20;40;1947;2025;1947 1948 1951 1956 1961 1962 1964 1965 1966 1970 1973 1974 1980 1989 1993 1994 2005 2007 2009 2011 2013 2016 2025;"départ étape 13 du Tour 1947; départ étape 10 du Tour 1948; départ étape 17 du Tour 1951; départ étape 15 du Tour 1956; départ étape 14 du Tour 1961; départ étape 16 du Tour 1962; départ étape 12 du Tour 1964; départ étape 14 du Tour 1965; départ étape 14.1 du Tour 1966; départ étape 16 du Tour 1970; départ étape 11 du Tour 1973; départ étape 15 du Tour 1980; départ étape 13 du Tour 1989; départ étape 14 du Tour 1993; départ étape 15 du Tour 1994; départ étape 12 du Tour 2007; départ étape 4 du Tour 2009; départ étape 7 du Tour 2013; départ étape 12 du Tour 2016; départ étape 16 du Tour 2025; arrivée étape 12 du Tour 1947; arrivée étape 9 du Tour 1948; arrivée étape 16 du Tour 1951; arrivée étape 14 du Tour 1956; arrivée étape 13 du Tour 1961; arrivée étape 15 du Tour 1962; arrivée étape 11 du Tour 1964; arrivée étape 13 du Tour 1965; arrivée étape 15 du Tour 1970; arrivée étape 13 du Tour 1974; arrivée étape 14 du Tour 1980; arrivée étape 12 du Tour 1989; arrivée étape 13 du Tour 1993; arrivée étape 14 du Tour 1994; arrivée étape 13 du Tour 2005; arrivée étape 11 du Tour 2007; arrivée étape 4 du Tour 2009; arrivée étape 15 du Tour 2011; arrivée étape 6 du Tour 2013; arrivée étape 11 du Tour 2016"
+Montpon-Monesterol;France;2;0;2;1985;1995;1985 1995;"départ étape 20 du Tour 1985; départ étape 18 du Tour 1995"
+Montreuil;France;1;0;1;1984;1984;1984;départ étape 0 du Tour 1984
+Montélimar;France;3;1;4;2006;2016;2006 2009 2016;"départ étape 14 du Tour 2006; départ étape 20 du Tour 2009; départ étape 14 du Tour 2016; arrivée étape 13 du Tour 2006"
+Morcenx;France;1;0;1;1977;1977;1977;départ étape 5.1 du Tour 1977
+Morlaix;France;1;0;1;1974;1974;1974;départ étape 3 du Tour 1974
+Morzine;France;18;16;34;1975;2016;1975 1977 1978 1979 1980 1981 1982 1983 1984 1985 1987 1988 1991 1994 1997 2000 2003 2006 2010 2016;"départ étape 18 du Tour 1975; départ étape 15.2 du Tour 1977; départ étape 16 du Tour 1977; départ étape 18 du Tour 1978; départ étape 16 du Tour 1979; départ étape 18 du Tour 1980; départ étape 17 du Tour 1981; départ étape 18 du Tour 1982; départ étape 19 du Tour 1983; départ étape 20 du Tour 1983; départ étape 20 du Tour 1984; départ étape 12 du Tour 1985; départ étape 12 du Tour 1988; départ étape 19 du Tour 1991; départ étape 20 du Tour 1994; départ étape 16 du Tour 1997; départ étape 18 du Tour 2006; départ étape 9 du Tour 2010; arrivée étape 15.1 du Tour 1977; arrivée étape 17 du Tour 1978; arrivée étape 17 du Tour 1980; arrivée étape 16 du Tour 1981; arrivée étape 17 du Tour 1982; arrivée étape 18 du Tour 1983; arrivée étape 19 du Tour 1984; arrivée étape 22 du Tour 1987; arrivée étape 11 du Tour 1988; arrivée étape 18 du Tour 1991; arrivée étape 15 du Tour 1997; arrivée étape 16 du Tour 2000; arrivée étape 7 du Tour 2003; arrivée étape 17 du Tour 2006; arrivée étape 8 du Tour 2010; arrivée étape 20 du Tour 2016"
+Morzine Les Portes du Soleil;France;1;1;2;2022;2023;2022 2023;"départ étape 10 du Tour 2022; arrivée étape 14 du Tour 2023"
+Mouilleron-Saint-Germain;France;1;0;1;2018;2018;2018;départ étape 2 du Tour 2018
+Moulins;France;0;1;1;2023;2023;2023;arrivée étape 11 du Tour 2023
+Mourenx;France;5;2;7;1969;2021;1969 1970 1999 2005 2021;"départ étape 18 du Tour 1969; départ étape 20.1 du Tour 1970; départ étape 17 du Tour 1999; départ étape 16 du Tour 2005; départ étape 19 du Tour 2021; arrivée étape 17 du Tour 1969; arrivée étape 19 du Tour 1970"
+Mouscron;Belgique;0;1;1;1982;1982;1982;arrivée étape 4 du Tour 1982
+Moûtiers;France;3;0;3;1973;2023;1973 1994 2023;"départ étape 8 du Tour 1973; départ étape 18 du Tour 1994; départ étape 18 du Tour 2023"
+Mulhouse;France;10;13;23;1948;2026;1948 1952 1959 1969 1970 1971 1973 1976 1981 1992 2000 2005 2014 2019 2026;"départ étape 17 du Tour 1948; départ étape 9 du Tour 1952; départ étape 1 du Tour 1959; départ étape 6 du Tour 1969; départ étape 0 du Tour 1971; départ étape 1.1 du Tour 1971; départ étape 2 du Tour 1971; départ étape 10 du Tour 2014; départ étape 6 du Tour 2019; départ étape 14 du Tour 2026; arrivée étape 16 du Tour 1948; arrivée étape 8 du Tour 1952; arrivée étape 5 du Tour 1969; arrivée étape 9 du Tour 1970; arrivée étape 0 du Tour 1971; arrivée étape 1.3 du Tour 1971; arrivée étape 5 du Tour 1973; arrivée étape 7 du Tour 1976; arrivée étape 14 du Tour 1981; arrivée étape 11 du Tour 1992; arrivée étape 19 du Tour 2000; arrivée étape 9 du Tour 2005; arrivée étape 9 du Tour 2014"
+Muret;France;3;0;3;2015;2025;2015 2021 2025;"départ étape 13 du Tour 2015; départ étape 17 du Tour 2021; départ étape 15 du Tour 2025"
+Mâcon;France;2;0;2;2019;2024;2019 2024;"départ étape 8 du Tour 2019; départ étape 6 du Tour 2024"
+Méribel;France;1;1;2;1973;2020;1973 2020;"départ étape 18 du Tour 2020; arrivée étape 7.2 du Tour 1973"
+Méribel Col de la Loze;France;0;1;1;2020;2020;2020;arrivée étape 17 du Tour 2020
+Mûr-de-Bretagne Guerlédan;France;0;5;5;2011;2025;2011 2015 2018 2021 2025;"arrivée étape 4 du Tour 2011; arrivée étape 8 du Tour 2015; arrivée étape 6 du Tour 2018; arrivée étape 2 du Tour 2021; arrivée étape 7 du Tour 2025"
+Namur;Belgique;3;4;7;1952;2004;1952 1955 1959 2004;"départ étape 6 du Tour 1952; départ étape 4 du Tour 1955; départ étape 3 du Tour 1959; arrivée étape 5 du Tour 1952; arrivée étape 3 du Tour 1955; arrivée étape 2 du Tour 1959; arrivée étape 2 du Tour 2004"
+Nancy;France;11;14;25;1949;2019;1949 1952 1954 1962 1966 1969 1971 1973 1976 1978 1982 1985 1988 2005 2014 2019;"départ étape 21 du Tour 1949; départ étape 8 du Tour 1952; départ étape 22 du Tour 1954; départ étape 1 du Tour 1962; départ étape 1 du Tour 1966; départ étape 5 du Tour 1969; départ étape 4 du Tour 1971; départ étape 5 du Tour 1973; départ étape 7 du Tour 1976; départ étape 3 du Tour 1982; départ étape 9 du Tour 1988; arrivée étape 20 du Tour 1949; arrivée étape 7 du Tour 1952; arrivée étape 21.2 du Tour 1954; arrivée étape 4 du Tour 1969; arrivée étape 3 du Tour 1971; arrivée étape 4 du Tour 1973; arrivée étape 6 du Tour 1976; arrivée étape 20 du Tour 1978; arrivée étape 2 du Tour 1982; arrivée étape 7 du Tour 1985; arrivée étape 8 du Tour 1988; arrivée étape 6 du Tour 2005; arrivée étape 7 du Tour 2014; arrivée étape 4 du Tour 2019"
+Nanterre;France;1;1;2;1986;1992;1986 1992;"départ étape 1 du Tour 1986; arrivée étape 20 du Tour 1992"
+Nantes;France;14;17;31;1947;2008;1947 1948 1953 1957 1959 1968 1974 1980 1981 1982 1983 1984 1986 1988 1990 1999 2000 2003 2008;"départ étape 4 du Tour 1948; départ étape 8 du Tour 1953; départ étape 1 du Tour 1957; départ étape 7 du Tour 1959; départ étape 8 du Tour 1968; départ étape 9 du Tour 1981; départ étape 7 du Tour 1983; départ étape 9 du Tour 1984; départ étape 9 du Tour 1986; départ étape 10 du Tour 1986; départ étape 3 du Tour 1988; départ étape 4 du Tour 1990; départ étape 3 du Tour 1999; départ étape 4 du Tour 2000; arrivée étape 18 du Tour 1947; arrivée étape 3 du Tour 1948; arrivée étape 7 du Tour 1953; arrivée étape 6 du Tour 1959; arrivée étape 7 du Tour 1968; arrivée étape 20 du Tour 1974; arrivée étape 9 du Tour 1980; arrivée étape 8 du Tour 1981; arrivée étape 9.2 du Tour 1982; arrivée étape 6 du Tour 1983; arrivée étape 8 du Tour 1984; arrivée étape 8 du Tour 1986; arrivée étape 9 du Tour 1986; arrivée étape 3 du Tour 1990; arrivée étape 3 du Tour 2000; arrivée étape 19 du Tour 2003; arrivée étape 3 du Tour 2008"
+Nantua;France;2;0;2;2017;2025;2017 2025;"départ étape 9 du Tour 2017; départ étape 20 du Tour 2025"
+Narbonne;France;4;3;7;1955;2008;1955 1981 2003 2008;"départ étape 15 du Tour 1955; départ étape 4 du Tour 1981; départ étape 11 du Tour 2003; départ étape 13 du Tour 2008; arrivée étape 14 du Tour 1955; arrivée étape 3 du Tour 1981; arrivée étape 12 du Tour 2008"
+Nay;France;1;0;1;1981;1981;1981;départ étape 6 du Tour 1981
+Nemours;France;1;0;1;1988;1988;1988;départ étape 22 du Tour 1988
+Neuchâtel;France;0;1;1;1998;1998;1998;arrivée étape 18 du Tour 1998
+Neufchatel-en-Bray;France;2;0;2;1985;1988;1985 1988;"départ étape 5 du Tour 1985; départ étape 5 du Tour 1988"
+Neuville-de-Poitou;France;1;0;1;1979;1979;1979;départ étape 5 du Tour 1979
+Nevers;France;3;5;8;1962;2026;1962 1971 1986 2003 2026;"départ étape 22 du Tour 1962; départ étape 8 du Tour 1971; départ étape 6 du Tour 2003; arrivée étape 21 du Tour 1962; arrivée étape 7 du Tour 1971; arrivée étape 22 du Tour 1986; arrivée étape 5 du Tour 2003; arrivée étape 11 du Tour 2026"
+Nice;France;11;9;20;1947;2024;1947 1950 1973 1975 1981 2013 2020 2024;"départ étape 11 du Tour 1947; départ étape 17 du Tour 1950; départ étape 10 du Tour 1973; départ étape 15 du Tour 1975; départ étape 0 du Tour 1981; départ étape 1.1 du Tour 1981; départ étape 1.2 du Tour 1981; départ étape 2 du Tour 1981; départ étape 4 du Tour 2013; départ étape 3 du Tour 2020; départ étape 20 du Tour 2024; arrivée étape 10 du Tour 1947; arrivée étape 16 du Tour 1950; arrivée étape 9 du Tour 1973; arrivée étape 0 du Tour 1981; arrivée étape 1.1 du Tour 1981; arrivée étape 4 du Tour 2013; arrivée étape 1 du Tour 2020; arrivée étape 2 du Tour 2020; arrivée étape 21 du Tour 2024"
+Nice Haut Pays;France;1;0;1;2020;2020;2020;départ étape 2 du Tour 2020
+Nice Moyen Pays;France;1;0;1;2020;2020;2020;départ étape 1 du Tour 2020
+Niort;France;1;1;2;1950;1950;1950;"départ étape 9 du Tour 1950; arrivée étape 8 du Tour 1950"
+Nogaro;France;0;1;1;2023;2023;2023;arrivée étape 4 du Tour 2023
+Nogent-sur-Marne;France;1;1;2;1979;1983;1979 1983;"départ étape 1 du Tour 1983; arrivée étape 23 du Tour 1979"
+Nogent-sur-Oise;France;1;1;2;1992;1996;1992 1996;"départ étape 5 du Tour 1992; arrivée étape 3 du Tour 1996"
+Noirmoutier-en-l'Île;France;1;1;2;2005;2018;2005 2018;"départ étape 1 du Tour 2018; arrivée étape 1 du Tour 2005"
+Noisy-le-Sec;France;0;1;1;1984;1984;1984;arrivée étape 0 du Tour 1984
+Nuits-Saint-Georges;France;1;1;2;2017;2024;2017 2024;"départ étape 7 du Tour 2024; arrivée étape 7 du Tour 2017"
+Nyborg;Danemark;0;1;1;2022;2022;2022;arrivée étape 2 du Tour 2022
+Nîmes;France;7;11;18;1949;2024;1949 1950 1953 1958 1986 2004 2008 2014 2019 2021 2024;"départ étape 14 du Tour 1949; départ étape 14 du Tour 1950; départ étape 15 du Tour 1953; départ étape 16 du Tour 1986; départ étape 14 du Tour 2008; départ étape 16 du Tour 2019; départ étape 13 du Tour 2021; arrivée étape 13 du Tour 1949; arrivée étape 13 du Tour 1950; arrivée étape 14 du Tour 1953; arrivée étape 17 du Tour 1958; arrivée étape 15 du Tour 1986; arrivée étape 14 du Tour 2004; arrivée étape 13 du Tour 2008; arrivée étape 15 du Tour 2014; arrivée étape 16 du Tour 2019; arrivée étape 12 du Tour 2021; arrivée étape 16 du Tour 2024"
+Obernai;France;1;0;1;2006;2006;2006;départ étape 2 du Tour 2006
+Olonne-sur-Mer;France;1;0;1;2011;2011;2011;départ étape 3 du Tour 2011
+Oloron;France;1;0;1;1977;1977;1977;départ étape 3 du Tour 1977
+Orange;France;0;1;1;1974;1974;1974;arrivée étape 12 du Tour 1974
+Orchies;France;2;0;2;1982;2012;1982 2012;"départ étape 5 du Tour 1982; départ étape 3 du Tour 2012"
+Orcières-Merlette;France;3;6;9;1971;2026;1971 1972 1982 1989 2020 2026;"départ étape 12 du Tour 1971; départ étape 13 du Tour 1972; départ étape 16 du Tour 1982; arrivée étape 11 du Tour 1971; arrivée étape 12 du Tour 1972; arrivée étape 15 du Tour 1982; arrivée étape 15 du Tour 1989; arrivée étape 4 du Tour 2020; arrivée étape 18 du Tour 2026"
+Orléans;France;8;4;12;1964;2024;1964 1966 1974 1985 1987 2001 2024;"départ étape 22.1 du Tour 1964; départ étape 22.1 du Tour 1966; départ étape 21.2 du Tour 1974; départ étape 22 du Tour 1974; départ étape 22 du Tour 1985; départ étape 9 du Tour 1987; départ étape 19 du Tour 2001; départ étape 10 du Tour 2024; arrivée étape 21 du Tour 1964; arrivée étape 21 du Tour 1966; arrivée étape 21.1 du Tour 1974; arrivée étape 21.2 du Tour 1974"
+Orthez;France;2;0;2;1993;2007;1993 2007;"départ étape 18 du Tour 1993; départ étape 16 du Tour 2007"
+Oyonnax;France;1;1;2;2014;2021;2014 2021;"départ étape 8 du Tour 2021; arrivée étape 11 du Tour 2014"
+Palaiseau;France;1;0;1;1996;1996;1996;départ étape 21 du Tour 1996
+Pamiers;France;1;0;1;2010;2010;2010;départ étape 15 du Tour 2010
+Pampelune;Espagne;1;1;2;1996;1996;1996;"départ étape 18 du Tour 1996; arrivée étape 17 du Tour 1996"
+Pantin;France;1;0;1;1984;1984;1984;départ étape 23 du Tour 1984
+Paris;France;11;62;73;1947;2005;1947 1948 1949 1950 1951 1952 1953 1954 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964 1965 1966 1967 1968 1969 1970 1971 1972 1973 1974 1975 1976 1977 1978 1979 1980 1981 1982 1983 1984 1985 1986 1987 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005;"départ étape 1 du Tour 1947; départ étape 1 du Tour 1948; départ étape 1 du Tour 1949; départ étape 1 du Tour 1950; départ étape 5 du Tour 1951; départ étape 1 du Tour 1963; départ étape 22 du Tour 1975; départ étape 22.2 du Tour 1976; départ étape 22.2 du Tour 1977; départ étape 21 du Tour 2000; départ étape 0 du Tour 2003; arrivée étape 21 du Tour 1947; arrivée étape 21 du Tour 1948; arrivée étape 21 du Tour 1949; arrivée étape 22 du Tour 1950; arrivée étape 4 du Tour 1951; arrivée étape 24 du Tour 1951; arrivée étape 23 du Tour 1952; arrivée étape 22 du Tour 1953; arrivée étape 23 du Tour 1954; arrivée étape 22 du Tour 1955; arrivée étape 22 du Tour 1956; arrivée étape 22 du Tour 1957; arrivée étape 24 du Tour 1958; arrivée étape 22 du Tour 1959; arrivée étape 21 du Tour 1960; arrivée étape 21 du Tour 1961; arrivée étape 22 du Tour 1962; arrivée étape 21 du Tour 1963; arrivée étape 22.2 du Tour 1964; arrivée étape 22 du Tour 1965; arrivée étape 22.2 du Tour 1966; arrivée étape 22.2 du Tour 1967; arrivée étape 22.2 du Tour 1968; arrivée étape 22.2 du Tour 1969; arrivée étape 23 du Tour 1970; arrivée étape 20 du Tour 1971; arrivée étape 20.2 du Tour 1972; arrivée étape 20.2 du Tour 1973; arrivée étape 22 du Tour 1974; arrivée étape 22 du Tour 1975; arrivée étape 22.1 du Tour 1976; arrivée étape 22.2 du Tour 1976; arrivée étape 22.1 du Tour 1977; arrivée étape 22.2 du Tour 1977; arrivée étape 22 du Tour 1978; arrivée étape 24 du Tour 1979; arrivée étape 22 du Tour 1980; arrivée étape 22 du Tour 1981; arrivée étape 21 du Tour 1982; arrivée étape 22 du Tour 1983; arrivée étape 23 du Tour 1984; arrivée étape 22 du Tour 1985; arrivée étape 23 du Tour 1986; arrivée étape 25 du Tour 1987; arrivée étape 22 du Tour 1988; arrivée étape 21 du Tour 1989; arrivée étape 21 du Tour 1990; arrivée étape 22 du Tour 1991; arrivée étape 21 du Tour 1992; arrivée étape 20 du Tour 1993; arrivée étape 21 du Tour 1994; arrivée étape 20 du Tour 1995; arrivée étape 21 du Tour 1996; arrivée étape 21 du Tour 1997; arrivée étape 21 du Tour 1998; arrivée étape 20 du Tour 1999; arrivée étape 20 du Tour 2001; arrivée étape 20 du Tour 2002; arrivée étape 0 du Tour 2003; arrivée étape 20 du Tour 2003; arrivée étape 20 du Tour 2004; arrivée étape 21 du Tour 2005"
+Paris Champs-Elysées;France;0;20;20;2006;2026;2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2025 2026;"arrivée étape 20 du Tour 2006; arrivée étape 20 du Tour 2007; arrivée étape 21 du Tour 2008; arrivée étape 21 du Tour 2009; arrivée étape 20 du Tour 2010; arrivée étape 21 du Tour 2011; arrivée étape 20 du Tour 2012; arrivée étape 21 du Tour 2013; arrivée étape 21 du Tour 2014; arrivée étape 21 du Tour 2015; arrivée étape 21 du Tour 2016; arrivée étape 21 du Tour 2017; arrivée étape 21 du Tour 2018; arrivée étape 21 du Tour 2019; arrivée étape 21 du Tour 2020; arrivée étape 21 du Tour 2021; arrivée étape 21 du Tour 2022; arrivée étape 21 du Tour 2023; arrivée étape 21 du Tour 2025; arrivée étape 21 du Tour 2026"
+Paris La Défense Arena;France;1;0;1;2022;2022;2022;départ étape 21 du Tour 2022
+Pas de la Case;Andorre;1;0;1;2021;2021;2021;départ étape 16 du Tour 2021
+Passage du Gois;France;1;0;1;2011;2011;2011;départ étape 1 du Tour 2011
+Passy;France;1;0;1;2023;2023;2023;départ étape 16 du Tour 2023
+Pau;France;59;54;113;1947;2026;1947 1949 1950 1952 1953 1954 1955 1956 1957 1958 1960 1961 1962 1963 1964 1966 1967 1968 1971 1972 1973 1974 1975 1976 1977 1978 1979 1980 1981 1982 1983 1984 1985 1986 1987 1988 1989 1990 1991 1992 1993 1995 1997 1998 1999 2001 2002 2003 2005 2006 2007 2008 2010 2011 2012 2014 2015 2016 2017 2018 2019 2020 2021 2023 2024 2025 2026;"départ étape 16 du Tour 1947; départ étape 11 du Tour 1949; départ étape 11 du Tour 1950; départ étape 19 du Tour 1952; départ étape 10 du Tour 1953; départ étape 12 du Tour 1954; départ étape 19 du Tour 1955; départ étape 12 du Tour 1956; départ étape 19 du Tour 1957; départ étape 14 du Tour 1958; départ étape 11 du Tour 1960; départ étape 18 du Tour 1961; départ étape 12 du Tour 1962; départ étape 10 du Tour 1963; départ étape 11 du Tour 1966; départ étape 18 du Tour 1967; départ étape 12 du Tour 1968; départ étape 8 du Tour 1972; départ étape 15 du Tour 1973; départ étape 19.1 du Tour 1974; départ étape 11 du Tour 1975; départ étape 16 du Tour 1976; départ étape 11 du Tour 1978; départ étape 13 du Tour 1980; départ étape 7 du Tour 1981; départ étape 13 du Tour 1982; départ étape 10 du Tour 1983; départ étape 11 du Tour 1984; départ étape 19 du Tour 1985; départ étape 13 du Tour 1986; départ étape 14 du Tour 1987; départ étape 17 du Tour 1988; départ étape 9 du Tour 1989; départ étape 18 du Tour 1990; départ étape 12 du Tour 1991; départ étape 3 du Tour 1992; départ étape 17 du Tour 1995; départ étape 9 du Tour 1997; départ étape 10 du Tour 1998; départ étape 15 du Tour 2001; départ étape 11 du Tour 2002; départ étape 16 du Tour 2003; départ étape 17 du Tour 2005; départ étape 17 du Tour 2007; départ étape 10 du Tour 2008; départ étape 17 du Tour 2010; départ étape 13 du Tour 2011; départ étape 16 du Tour 2012; départ étape 18 du Tour 2014; départ étape 11 du Tour 2015; départ étape 8 du Tour 2016; départ étape 12 du Tour 2017; départ étape 13 du Tour 2019; départ étape 9 du Tour 2020; départ étape 18 du Tour 2021; départ étape 5 du Tour 2023; départ étape 14 du Tour 2024; départ étape 14 du Tour 2025; départ étape 6 du Tour 2026; arrivée étape 15 du Tour 1947; arrivée étape 10 du Tour 1949; arrivée étape 10 du Tour 1950; arrivée étape 18 du Tour 1952; arrivée étape 9 du Tour 1953; arrivée étape 11 du Tour 1954; arrivée étape 18 du Tour 1955; arrivée étape 11 du Tour 1956; arrivée étape 18 du Tour 1957; arrivée étape 13 du Tour 1958; arrivée étape 10 du Tour 1960; arrivée étape 17 du Tour 1961; arrivée étape 11 du Tour 1962; arrivée étape 9 du Tour 1963; arrivée étape 16 du Tour 1964; arrivée étape 10 du Tour 1966; arrivée étape 17 du Tour 1967; arrivée étape 11 du Tour 1968; arrivée étape 16.2 du Tour 1971; arrivée étape 7 du Tour 1972; arrivée étape 14 du Tour 1973; arrivée étape 18 du Tour 1974; arrivée étape 10 du Tour 1975; arrivée étape 15 du Tour 1976; arrivée étape 2 du Tour 1977; arrivée étape 10 du Tour 1978; arrivée étape 3 du Tour 1979; arrivée étape 12 du Tour 1980; arrivée étape 6 du Tour 1981; arrivée étape 12 du Tour 1982; arrivée étape 9 du Tour 1983; arrivée étape 10 du Tour 1984; arrivée étape 18.2 du Tour 1985; arrivée étape 12 du Tour 1986; arrivée étape 13 du Tour 1987; arrivée étape 16 du Tour 1988; arrivée étape 8 du Tour 1989; arrivée étape 17 du Tour 1990; arrivée étape 2 du Tour 1992; arrivée étape 17 du Tour 1993; arrivée étape 16 du Tour 1995; arrivée étape 8 du Tour 1997; arrivée étape 9 du Tour 1998; arrivée étape 16 du Tour 1999; arrivée étape 10 du Tour 2002; arrivée étape 16 du Tour 2005; arrivée étape 10 du Tour 2006; arrivée étape 16 du Tour 2010; arrivée étape 15 du Tour 2012; arrivée étape 11 du Tour 2017; arrivée étape 18 du Tour 2018; arrivée étape 13 du Tour 2019; arrivée étape 13 du Tour 2024; arrivée étape 5 du Tour 2026"
+Pauillac;France;0;1;1;2010;2010;2010;arrivée étape 19 du Tour 2010
+Perpignan;France;9;9;18;1950;2009;1950 1952 1957 1961 1964 1965 1973 1993 1997 2001 2009;"départ étape 13 du Tour 1950; départ étape 16 du Tour 1952; départ étape 15.1 du Tour 1957; départ étape 15 du Tour 1961; départ étape 13 du Tour 1964; départ étape 13 du Tour 1965; départ étape 12.1 du Tour 1973; départ étape 15 du Tour 1993; départ étape 12 du Tour 2001; arrivée étape 12 du Tour 1950; arrivée étape 15 du Tour 1952; arrivée étape 14 du Tour 1957; arrivée étape 14 du Tour 1961; arrivée étape 12 du Tour 1964; arrivée étape 12 du Tour 1965; arrivée étape 14 du Tour 1993; arrivée étape 11 du Tour 1997; arrivée étape 5 du Tour 2009"
+Perros-Guirec;France;2;0;2;1995;2021;1995 2021;"départ étape 2 du Tour 1995; départ étape 2 du Tour 2021"
+Peyragudes;France;0;4;4;2012;2025;2012 2017 2022 2025;"arrivée étape 17 du Tour 2012; arrivée étape 12 du Tour 2017; arrivée étape 17 du Tour 2022; arrivée étape 13 du Tour 2025"
+Peyrehorade;France;1;0;1;1964;1964;1964;départ étape 17 du Tour 1964
+Pforzheim;Allemagne;2;1;3;1987;2005;1987 2005;"départ étape 5 du Tour 1987; départ étape 8 du Tour 2005; arrivée étape 4 du Tour 1987"
+Piau-Engaly;France;0;1;1;1999;1999;1999;arrivée étape 15 du Tour 1999
+Pinerolo;Italie;2;1;3;2011;2024;2011 2024;"départ étape 18 du Tour 2011; départ étape 4 du Tour 2024; arrivée étape 17 du Tour 2011"
+Plaisance;France;1;0;1;2024;2024;2024;départ étape 3 du Tour 2024
+Plateau de Beille;France;0;1;1;2024;2024;2024;arrivée étape 15 du Tour 2024
+Plateau de Solaison;France;0;1;1;2026;2026;2026;arrivée étape 15 du Tour 2026
+Plouay;France;1;1;2;1998;2002;1998 2002;"départ étape 4 du Tour 1998; arrivée étape 8 du Tour 2002"
+Plumelec;France;3;5;8;1982;2015;1982 1985 1997 2008 2015;"départ étape 9.2 du Tour 1982; départ étape 0 du Tour 1985; départ étape 4 du Tour 1997; arrivée étape 9.1 du Tour 1982; arrivée étape 0 du Tour 1985; arrivée étape 3 du Tour 1997; arrivée étape 1 du Tour 2008; arrivée étape 9 du Tour 2015"
+Plymouth;Royaume-Uni;1;1;2;1974;1974;1974;"départ étape 2 du Tour 1974; arrivée étape 2 du Tour 1974"
+Poitiers;France;4;4;8;1955;2020;1955 1971 1978 1987 1990 1994 2020;"départ étape 7 du Tour 1978; départ étape 11 du Tour 1987; départ étape 3 du Tour 1990; départ étape 8 du Tour 1994; arrivée étape 20 du Tour 1955; arrivée étape 18 du Tour 1971; arrivée étape 6 du Tour 1978; arrivée étape 11 du Tour 2020"
+Poligny;France;0;1;1;2023;2023;2023;arrivée étape 19 du Tour 2023
+Pont du Gard;France;1;0;1;2019;2019;2019;départ étape 17 du Tour 2019
+Pont l'Evêque;France;1;0;1;1962;1962;1962;départ étape 5 du Tour 1962
+Pont-Audemer;France;0;1;1;1985;1985;1985;arrivée étape 4 du Tour 1985
+Pontarlier;France;5;4;9;1960;2025;1960 1972 1985 2001 2009 2025;"départ étape 19 du Tour 1960; départ étape 17 du Tour 1972; départ étape 11 du Tour 1985; départ étape 9 du Tour 2001; départ étape 15 du Tour 2009; arrivée étape 16 du Tour 1972; arrivée étape 10 du Tour 1985; arrivée étape 8 du Tour 2001; arrivée étape 20 du Tour 2025"
+Pontchateau;France;1;0;1;1988;1988;1988;départ étape 1 du Tour 1988
+Pontivy;France;0;1;1;2021;2021;2021;arrivée étape 3 du Tour 2021
+Pontoise;France;1;0;1;1961;1961;1961;départ étape 2 du Tour 1961
+Pornic;France;1;0;1;2003;2003;2003;départ étape 19 du Tour 2003
+Pornichet;France;1;0;1;1972;1972;1972;départ étape 3.1 du Tour 1972
+Porrentruy;Suisse;0;1;1;2012;2012;2012;arrivée étape 8 du Tour 2012
+Port Barcarès;France;1;0;1;1976;1976;1976;départ étape 12 du Tour 1976
+Portsmouth;Royaume-Uni;1;1;2;1994;1994;1994;"départ étape 5 du Tour 1994; arrivée étape 5 du Tour 1994"
+Pouilly-en-Auxois;France;1;0;1;1975;1975;1975;départ étape 20 du Tour 1975
+Pra Loup;France;0;3;3;1975;2015;1975 1980 2015;"arrivée étape 15 du Tour 1975; arrivée étape 16 du Tour 1980; arrivée étape 17 du Tour 2015"
+Prapoutel;France;0;1;1;1980;1980;1980;arrivée étape 18 du Tour 1980
+Prato Nevoso;Italie;0;1;1;2008;2008;2008;arrivée étape 15 du Tour 2008
+Privas;France;1;1;2;1966;2020;1966 2020;"départ étape 15 du Tour 1966; arrivée étape 5 du Tour 2020"
+Puy Mary Cantal;France;0;1;1;2020;2020;2020;arrivée étape 13 du Tour 2020
+Puy de Dôme;France;1;14;15;1952;2023;1952 1959 1964 1967 1969 1971 1973 1975 1976 1978 1983 1986 1988 2023;"départ étape 22 du Tour 1952; arrivée étape 21 du Tour 1952; arrivée étape 15 du Tour 1959; arrivée étape 20 du Tour 1964; arrivée étape 20 du Tour 1967; arrivée étape 20 du Tour 1969; arrivée étape 8 du Tour 1971; arrivée étape 18 du Tour 1973; arrivée étape 14 du Tour 1975; arrivée étape 20 du Tour 1976; arrivée étape 14 du Tour 1978; arrivée étape 15 du Tour 1983; arrivée étape 21 du Tour 1986; arrivée étape 19 du Tour 1988; arrivée étape 9 du Tour 2023"
+Puy-du-Fou;France;2;3;5;1993;1999;1993 1997 1999;"départ étape 0 du Tour 1993; départ étape 0 du Tour 1999; arrivée étape 0 du Tour 1993; arrivée étape 4 du Tour 1997; arrivée étape 0 du Tour 1999"
+Pyrénées 2000;France;0;2;2;1973;1976;1973 1976;"arrivée étape 12.2 du Tour 1973; arrivée étape 12 du Tour 1976"
+Périgueux;France;4;2;6;1961;2026;1961 1994 2014 2017 2026;"départ étape 20 du Tour 1961; départ étape 9 du Tour 1994; départ étape 10 du Tour 2017; départ étape 8 du Tour 2026; arrivée étape 19 du Tour 1961; arrivée étape 20 du Tour 2014"
+Péronne;France;1;0;1;1993;1993;1993;départ étape 7 du Tour 1993
+Quillan;France;0;1;1;2021;2021;2021;arrivée étape 14 du Tour 2021
+Quimper;France;4;3;7;1958;2018;1958 1962 1965 1991 2004 2018;"départ étape 9 du Tour 1958; départ étape 7 du Tour 1962; départ étape 6 du Tour 1965; départ étape 11 du Tour 1991; arrivée étape 10 du Tour 1991; arrivée étape 8 du Tour 2004; arrivée étape 5 du Tour 2018"
+Rambouillet;France;3;1;4;1966;2019;1966 2012 2019;"départ étape 22.2 du Tour 1966; départ étape 20 du Tour 2012; départ étape 21 du Tour 2019; arrivée étape 22.1 du Tour 1966"
+Redon;France;1;1;2;2011;2021;2011 2021;"départ étape 4 du Tour 2021; arrivée étape 3 du Tour 2011"
+Regnier-Durette;France;1;0;1;2002;2002;2002;départ étape 19 du Tour 2002
+Reims;France;9;9;18;1949;2019;1949 1951 1956 1963 1973 1985 1988 1991 2002 2010 2014 2019;"départ étape 2 du Tour 1949; départ étape 2 du Tour 1951; départ étape 1 du Tour 1956; départ étape 2.1 du Tour 1963; départ étape 4 du Tour 1973; départ étape 7 du Tour 1985; départ étape 8 du Tour 1988; départ étape 5 du Tour 1991; départ étape 4 du Tour 2019; arrivée étape 1 du Tour 1949; arrivée étape 1 du Tour 1951; arrivée étape 3 du Tour 1973; arrivée étape 6 du Tour 1985; arrivée étape 7 du Tour 1988; arrivée étape 4 du Tour 1991; arrivée étape 3 du Tour 2002; arrivée étape 4 du Tour 2010; arrivée étape 6 du Tour 2014"
+Renazé;France;0;1;1;1987;1987;1987;arrivée étape 9 du Tour 1987
+Rennes;France;8;10;18;1951;2015;1951 1952 1959 1963 1964 1970 1977 1989 1991 1994 2006 2015;"départ étape 2 du Tour 1952; départ étape 6.1 du Tour 1963; départ étape 1 du Tour 1964; départ étape 4 du Tour 1970; départ étape 6 du Tour 1989; départ étape 10 du Tour 1991; départ étape 7 du Tour 1994; départ étape 8 du Tour 2015; arrivée étape 6 du Tour 1951; arrivée étape 1 du Tour 1952; arrivée étape 5 du Tour 1959; arrivée étape 5 du Tour 1963; arrivée étape 3.2 du Tour 1970; arrivée étape 9 du Tour 1977; arrivée étape 5 du Tour 1989; arrivée étape 9 du Tour 1991; arrivée étape 6 du Tour 1994; arrivée étape 7 du Tour 2006"
+Revel;France;4;9;13;1966;2016;1966 1969 1971 1990 1995 2000 2005 2010 2016;"départ étape 13 du Tour 1966; départ étape 15 du Tour 1969; départ étape 14 du Tour 1971; départ étape 14 du Tour 2010; arrivée étape 12 du Tour 1966; arrivée étape 14 du Tour 1969; arrivée étape 15 du Tour 1969; arrivée étape 15 du Tour 1990; arrivée étape 13 du Tour 1995; arrivée étape 11 du Tour 2000; arrivée étape 17 du Tour 2005; arrivée étape 13 du Tour 2010; arrivée étape 10 du Tour 2016"
+Rimini;Italie;0;1;1;2024;2024;2024;arrivée étape 1 du Tour 2024
+Risoul;France;0;1;1;2014;2014;2014;arrivée étape 14 du Tour 2014
+Roanne;France;2;0;2;2008;2023;2008 2023;"départ étape 19 du Tour 2008; départ étape 12 du Tour 2023"
+Rocamadour;France;0;1;1;2022;2022;2022;arrivée étape 20 du Tour 2022
+Rochefort;France;3;0;3;1979;1981;1979 1980 1981;"départ étape 12 du Tour 1979; départ étape 10 du Tour 1980; départ étape 8 du Tour 1981"
+Rodez;France;4;3;7;1984;2022;1984 2010 2015 2017 2022;"départ étape 14 du Tour 1984; départ étape 13 du Tour 2010; départ étape 14 du Tour 2015; départ étape 15 du Tour 2022; arrivée étape 13 du Tour 1984; arrivée étape 13 du Tour 2015; arrivée étape 14 du Tour 2017"
+Romans-sur-Isère;France;0;1;1;2017;2017;2017;arrivée étape 16 du Tour 2017
+Roquefort;France;1;1;2;1983;1983;1983;"départ étape 13 du Tour 1983; arrivée étape 12 du Tour 1983"
+Roscoff;France;1;0;1;1998;1998;1998;départ étape 3 du Tour 1998
+Roskilde;Danemark;1;0;1;2022;2022;2022;départ étape 2 du Tour 2022
+Rotterdam;Pays-Bas;3;2;5;1973;2010;1973 2010;"départ étape 1.2 du Tour 1973; départ étape 0 du Tour 2010; départ étape 1 du Tour 2010; arrivée étape 1.1 du Tour 1973; arrivée étape 0 du Tour 2010"
+Roubaix;France;22;20;42;1948;2018;1948 1952 1955 1957 1959 1961 1963 1965 1967 1968 1969 1971 1973 1975 1977 1979 1981 1983 1985 1992 1994 2018;"départ étape 21 du Tour 1948; départ étape 5 du Tour 1952; départ étape 3 du Tour 1955; départ étape 5 du Tour 1957; départ étape 4 du Tour 1959; départ étape 3 du Tour 1961; départ étape 4 du Tour 1963; départ étape 3 du Tour 1965; départ étape 5.1 du Tour 1967; départ étape 4 du Tour 1968; départ étape 0 du Tour 1969; départ étape 1.1 du Tour 1969; départ étape 6.1 du Tour 1971; départ étape 3 du Tour 1973; départ étape 2 du Tour 1975; départ étape 12 du Tour 1977; départ étape 10 du Tour 1979; départ étape 12.1 du Tour 1981; départ étape 4 du Tour 1983; départ étape 6 du Tour 1985; départ étape 6 du Tour 1992; départ étape 2 du Tour 1994; arrivée étape 20 du Tour 1948; arrivée étape 4 du Tour 1952; arrivée étape 2 du Tour 1955; arrivée étape 4 du Tour 1957; arrivée étape 3 du Tour 1959; arrivée étape 2 du Tour 1961; arrivée étape 3 du Tour 1963; arrivée étape 2 du Tour 1965; arrivée étape 4 du Tour 1967; arrivée étape 3.2 du Tour 1968; arrivée étape 0 du Tour 1969; arrivée étape 5 du Tour 1971; arrivée étape 2.2 du Tour 1973; arrivée étape 1.2 du Tour 1975; arrivée étape 11 du Tour 1977; arrivée étape 9 du Tour 1979; arrivée étape 11 du Tour 1981; arrivée étape 3 du Tour 1983; arrivée étape 5 du Tour 1985; arrivée étape 9 du Tour 2018"
+Rouen;France;15;18;33;1949;2025;1949 1950 1952 1954 1956 1957 1959 1961 1963 1965 1968 1970 1977 1980 1990 1997 2002 2012 2025;"départ étape 5 du Tour 1949; départ étape 5 du Tour 1950; départ étape 4 du Tour 1952; départ étape 4.1 du Tour 1954; départ étape 4 du Tour 1956; départ étape 4 du Tour 1957; départ étape 5 du Tour 1959; départ étape 1.1 du Tour 1961; départ étape 5 du Tour 1963; départ étape 5.1 du Tour 1968; départ étape 5.2 du Tour 1970; départ étape 11 du Tour 1977; départ étape 0 du Tour 1997; départ étape 1 du Tour 1997; départ étape 5 du Tour 2012; arrivée étape 4 du Tour 1949; arrivée étape 4 du Tour 1950; arrivée étape 3 du Tour 1952; arrivée étape 3 du Tour 1954; arrivée étape 3.1 du Tour 1956; arrivée étape 3.2 du Tour 1957; arrivée étape 4 du Tour 1959; arrivée étape 4 du Tour 1963; arrivée étape 3 du Tour 1965; arrivée étape 4 du Tour 1968; arrivée étape 5.1 du Tour 1970; arrivée étape 10 du Tour 1977; arrivée étape 7.2 du Tour 1980; arrivée étape 5 du Tour 1990; arrivée étape 0 du Tour 1997; arrivée étape 5 du Tour 2002; arrivée étape 4 du Tour 2012; arrivée étape 4 du Tour 2025"
+Royan;France;4;4;8;1958;1972;1958 1966 1968 1972;"départ étape 11 du Tour 1958; départ étape 8 du Tour 1966; départ étape 9 du Tour 1968; départ étape 5.1 du Tour 1972; arrivée étape 10 du Tour 1958; arrivée étape 7 du Tour 1966; arrivée étape 8 du Tour 1968; arrivée étape 4 du Tour 1972"
+Ruelle;France;1;0;1;1988;1988;1988;départ étape 18 du Tour 1988
+Ruffec;France;1;0;1;1970;1970;1970;départ étape 21 du Tour 1970
+Rungis;France;1;0;1;1971;1971;1971;départ étape 7 du Tour 1971
+Sablé;France;1;0;1;1975;1975;1975;départ étape 5 du Tour 1975
+Saint Julien en Genevois;France;1;0;1;1987;1987;1987;départ étape 23 du Tour 1987
+Saint Nazaire;France;2;4;6;1958;2000;1958 1962 1999 2000;"départ étape 10 du Tour 1958; départ étape 8.1 du Tour 1962; arrivée étape 9 du Tour 1958; arrivée étape 7 du Tour 1962; arrivée étape 2 du Tour 1999; arrivée étape 4 du Tour 2000"
+Saint Orens de G.;France;1;0;1;1995;1995;1995;départ étape 14 du Tour 1995
+Saint-Amand-Montrond;France;0;4;4;2001;2024;2001 2008 2013 2024;"arrivée étape 18 du Tour 2001; arrivée étape 20 du Tour 2008; arrivée étape 13 du Tour 2013; arrivée étape 10 du Tour 2024"
+Saint-Amand-les-Eaux;France;1;1;2;1978;1978;1978;"départ étape 3 du Tour 1978; arrivée étape 2 du Tour 1978"
+Saint-Brieuc;France;7;10;17;1947;2008;1947 1950 1954 1958 1965 1972 1979 1995 2004 2008;"départ étape 20 du Tour 1947; départ étape 7 du Tour 1950; départ étape 6 du Tour 1954; départ étape 7 du Tour 1958; départ étape 5.1 du Tour 1965; départ étape 2 du Tour 1972; départ étape 0 du Tour 1995; arrivée étape 19 du Tour 1947; arrivée étape 6 du Tour 1950; arrivée étape 5 du Tour 1954; arrivée étape 6 du Tour 1958; arrivée étape 4 du Tour 1965; arrivée étape 1 du Tour 1972; arrivée étape 6 du Tour 1979; arrivée étape 0 du Tour 1995; arrivée étape 7 du Tour 2004; arrivée étape 2 du Tour 2008"
+Saint-Denis;France;0;1;1;1984;1984;1984;arrivée étape 1 du Tour 1984
+Saint-Dier-d'Auvergne;France;1;0;1;1978;1978;1978;départ étape 15 du Tour 1978
+Saint-Dizier;France;0;2;2;2003;2003;2003;"arrivée étape 3 du Tour 2003; arrivée étape 4 du Tour 2003"
+Saint-Dié-des-Vosges;France;1;0;1;2019;2019;2019;départ étape 5 du Tour 2019
+Saint-Emilion;France;1;2;3;1978;2021;1978 1996 2021;"départ étape 8 du Tour 1978; arrivée étape 20 du Tour 1996; arrivée étape 20 du Tour 2021"
+Saint-Etienne;France;22;27;49;1950;2022;1950 1953 1956 1959 1961 1963 1966 1968 1971 1977 1978 1980 1983 1985 1986 1990 1992 1995 1997 1999 2005 2008 2014 2019 2022;"départ étape 20 du Tour 1950; départ étape 21 du Tour 1953; départ étape 20 du Tour 1956; départ étape 17 du Tour 1959; départ étape 9 du Tour 1961; départ étape 15 du Tour 1963; départ étape 20 du Tour 1966; départ étape 18 du Tour 1968; départ étape 10 du Tour 1971; départ étape 16 du Tour 1978; départ étape 20 du Tour 1980; départ étape 15 du Tour 1985; départ étape 20 du Tour 1986; départ étape 21 du Tour 1986; départ étape 16 du Tour 1992; départ étape 12 du Tour 1995; départ étape 12 du Tour 1997; départ étape 13 du Tour 1997; départ étape 20 du Tour 2005; départ étape 13 du Tour 2014; départ étape 9 du Tour 2019; départ étape 14 du Tour 2022; arrivée étape 19 du Tour 1950; arrivée étape 20 du Tour 1953; arrivée étape 19 du Tour 1956; arrivée étape 16 du Tour 1959; arrivée étape 8 du Tour 1961; arrivée étape 14 du Tour 1963; arrivée étape 19 du Tour 1966; arrivée étape 17 du Tour 1968; arrivée étape 9 du Tour 1971; arrivée étape 18 du Tour 1977; arrivée étape 15 du Tour 1978; arrivée étape 19 du Tour 1980; arrivée étape 20 du Tour 1980; arrivée étape 16 du Tour 1983; arrivée étape 14 du Tour 1985; arrivée étape 19 du Tour 1986; arrivée étape 20 du Tour 1986; arrivée étape 13 du Tour 1990; arrivée étape 15 du Tour 1992; arrivée étape 11 du Tour 1995; arrivée étape 12 du Tour 1997; arrivée étape 11 du Tour 1999; arrivée étape 20 du Tour 2005; arrivée étape 18 du Tour 2008; arrivée étape 12 du Tour 2014; arrivée étape 8 du Tour 2019; arrivée étape 13 du Tour 2022"
+Saint-Fargeau;France;0;1;1;2009;2009;2009;arrivée étape 11 du Tour 2009
+Saint-Flour;France;3;3;6;1999;2019;1999 2004 2011 2019;"départ étape 13 du Tour 1999; départ étape 11 du Tour 2004; départ étape 10 du Tour 2019; arrivée étape 12 du Tour 1999; arrivée étape 10 du Tour 2004; arrivée étape 9 du Tour 2011"
+Saint-Galmier;France;1;0;1;1999;1999;1999;départ étape 12 du Tour 1999
+Saint-Gaudens;France;14;10;24;1950;2022;1950 1955 1957 1959 1962 1968 1970 1976 1981 1991 1999 2009 2011 2014 2021 2022;"départ étape 12 du Tour 1950; départ étape 18 du Tour 1955; départ étape 18 du Tour 1957; départ étape 12 du Tour 1959; départ étape 13 du Tour 1968; départ étape 18 du Tour 1970; départ étape 14 du Tour 1976; départ étape 5 du Tour 1981; départ étape 14 du Tour 1991; départ étape 15 du Tour 1999; départ étape 9 du Tour 2009; départ étape 14 du Tour 2011; départ étape 17 du Tour 2014; départ étape 17 du Tour 2022; arrivée étape 11 du Tour 1950; arrivée étape 17 du Tour 1955; arrivée étape 17 du Tour 1957; arrivée étape 11 du Tour 1959; arrivée étape 12 du Tour 1962; arrivée étape 12 du Tour 1968; arrivée étape 17 du Tour 1970; arrivée étape 13 du Tour 1976; arrivée étape 14 du Tour 1999; arrivée étape 16 du Tour 2021"
+Saint-Germain-en-Laye;France;1;1;2;1978;1978;1978;"départ étape 22 du Tour 1978; arrivée étape 3 du Tour 1978"
+Saint-Gervais;France;2;2;4;1990;1992;1990 1992;"départ étape 11 du Tour 1990; départ étape 13 du Tour 1992; arrivée étape 10 du Tour 1990; arrivée étape 12 du Tour 1992"
+Saint-Gervais Mont-Blanc;France;1;2;3;2016;2023;2016 2023;"départ étape 17 du Tour 2023; arrivée étape 19 du Tour 2016; arrivée étape 15 du Tour 2023"
+Saint-Gildas-des-Bois;France;1;0;1;2013;2013;2013;départ étape 10 du Tour 2013
+Saint-Gilles-Croix-de-Vie;France;2;0;2;1974;1975;1974 1975;"départ étape 20 du Tour 1974; départ étape 7 du Tour 1975"
+Saint-Girons;France;6;1;7;1984;2017;1984 1988 1995 2003 2009 2013 2017;"départ étape 12 du Tour 1984; départ étape 15 du Tour 1988; départ étape 15 du Tour 1995; départ étape 14 du Tour 2003; départ étape 9 du Tour 2013; départ étape 13 du Tour 2017; arrivée étape 8 du Tour 2009"
+Saint-Grégoire;France;1;0;1;2006;2006;2006;départ étape 7 du Tour 2006
+Saint-Herblain;France;0;1;1;1991;1991;1991;arrivée étape 11 du Tour 1991
+Saint-Hilaire du Harcouët;France;2;1;3;1979;1986;1979 1986;"départ étape 7 du Tour 1979; départ étape 8 du Tour 1986; arrivée étape 7 du Tour 1986"
+Saint-Jean-de-Maurienne;France;5;2;7;2006;2024;2006 2010 2012 2015 2019 2024;"départ étape 17 du Tour 2006; départ étape 12 du Tour 2012; départ étape 19 du Tour 2015; départ étape 19 du Tour 2019; départ étape 5 du Tour 2024; arrivée étape 9 du Tour 2010; arrivée étape 18 du Tour 2015"
+Saint-Jean-de-Monts;France;0;2;2;1972;1976;1972 1976;"arrivée étape 3.1 du Tour 1972; arrivée étape 0 du Tour 1976"
+Saint-Lary-Soulan Col du Portet;France;2;12;14;1974;2021;1974 1975 1976 1978 1981 1982 1993 2001 2005 2014 2018 2021;"départ étape 17 du Tour 1974; départ étape 15 du Tour 1976; arrivée étape 16 du Tour 1974; arrivée étape 11 du Tour 1975; arrivée étape 14 du Tour 1976; arrivée étape 11 du Tour 1978; arrivée étape 5 du Tour 1981; arrivée étape 13 du Tour 1982; arrivée étape 16 du Tour 1993; arrivée étape 13 du Tour 2001; arrivée étape 15 du Tour 2005; arrivée étape 17 du Tour 2014; arrivée étape 17 du Tour 2018; arrivée étape 17 du Tour 2021"
+Saint-Lary-Soulan Pla d'Adet;France;0;1;1;2024;2024;2024;arrivée étape 14 du Tour 2024
+Saint-Léonard-de-Noblat;France;2;0;2;2004;2023;2004 2023;"départ étape 9 du Tour 2004; départ étape 9 du Tour 2023"
+Saint-Lô;France;1;0;1;2016;2016;2016;départ étape 2 du Tour 2016
+Saint-Maixent-L'Ecole;France;0;1;1;2003;2003;2003;arrivée étape 18 du Tour 2003
+Saint-Malo;France;8;8;16;1949;2025;1949 1956 1960 1962 1967 1974 1980 2008 2013 2025;"départ étape 6 du Tour 1949; départ étape 6 du Tour 1956; départ étape 6 du Tour 1960; départ étape 2 du Tour 1967; départ étape 4 du Tour 1974; départ étape 9 du Tour 1980; départ étape 3 du Tour 2008; départ étape 7 du Tour 2025; arrivée étape 5 du Tour 1949; arrivée étape 5 du Tour 1956; arrivée étape 5 du Tour 1960; arrivée étape 5 du Tour 1962; arrivée étape 1 du Tour 1967; arrivée étape 3 du Tour 1974; arrivée étape 8 du Tour 1980; arrivée étape 10 du Tour 2013"
+Saint-Martin-de-Landelles;France;1;0;1;2002;2002;2002;départ étape 8 du Tour 2002
+Saint-Meen-le-Grand;France;1;0;1;2006;2006;2006;départ étape 8 du Tour 2006
+Saint-Méen-le-Grand;France;1;0;1;2025;2025;2025;départ étape 8 du Tour 2025
+Saint-Nicolas;France;2;2;4;1973;1973;1973;"départ étape 2.1 du Tour 1973; départ étape 2.2 du Tour 1973; arrivée étape 1.2 du Tour 1973; arrivée étape 2.1 du Tour 1973"
+Saint-Omer;France;1;0;1;2001;2001;2001;départ étape 1 du Tour 2001
+Saint-Paul-Trois-Châteaux;France;5;0;5;2011;2024;2011 2012 2018 2021 2024;"départ étape 16 du Tour 2011; départ étape 13 du Tour 2012; départ étape 14 du Tour 2018; départ étape 12 du Tour 2021; départ étape 17 du Tour 2024"
+Saint-Pol de Léon;France;0;1;1;1974;1974;1974;arrivée étape 1 du Tour 1974
+Saint-Pourçain-sur-Sioule;France;1;0;1;2013;2013;2013;départ étape 14 du Tour 2013
+Saint-Priest;France;3;5;8;1979;1982;1979 1981 1982;"départ étape 20 du Tour 1979; départ étape 20 du Tour 1981; départ étape 19 du Tour 1982; arrivée étape 19 du Tour 1979; arrivée étape 19 du Tour 1981; arrivée étape 20 du Tour 1981; arrivée étape 18 du Tour 1982; arrivée étape 19 du Tour 1982"
+Saint-Pée-sur-Nivelle;France;1;0;1;2018;2018;2018;départ étape 20 du Tour 2018
+Saint-Quentin;France;0;1;1;2006;2006;2006;arrivée étape 4 du Tour 2006
+Saint-Quentin-en-Yvelines;France;1;1;2;1986;2023;1986 2023;"départ étape 21 du Tour 2023; arrivée étape 2 du Tour 1986"
+Saint-Sébastien;France;4;4;8;1949;2023;1949 1992 2023;"départ étape 10 du Tour 1949; départ étape 0 du Tour 1992; départ étape 1 du Tour 1992; départ étape 2 du Tour 1992; arrivée étape 9 du Tour 1949; arrivée étape 0 du Tour 1992; arrivée étape 1 du Tour 1992; arrivée étape 2 du Tour 2023"
+Saint-Trivier;France;1;0;1;1977;1977;1977;départ étape 19 du Tour 1977
+Saint-Vincent d'Aoste;France;1;1;2;1959;1959;1959;"départ étape 19 du Tour 1959; arrivée étape 18 du Tour 1959"
+Saint-Vulbas;France;0;1;1;2024;2024;2024;arrivée étape 5 du Tour 2024
+Saint-Willebrord;Pays-Bas;1;1;2;1978;1978;1978;"départ étape 1.2 du Tour 1978; arrivée étape 1.1 du Tour 1978"
+Sainte Geneviève des Bois;France;1;0;1;1995;1995;1995;départ étape 20 du Tour 1995
+Sainte-Foy-la-Grande;France;2;1;3;1973;1978;1973 1976 1978;"départ étape 17 du Tour 1973; départ étape 19 du Tour 1976; arrivée étape 8 du Tour 1978"
+Saintes;France;1;0;1;1982;1982;1982;départ étape 10 du Tour 1982
+Salies-de-Béarn;France;1;0;1;2010;2010;2010;départ étape 18 du Tour 2010
+Sallanches;France;3;1;4;1968;2016;1968 2003 2016;"départ étape 20 du Tour 1968; départ étape 8 du Tour 2003; départ étape 18 du Tour 2016; arrivée étape 19 du Tour 1968"
+Salon-de-Provence;France;0;1;1;2017;2017;2017;arrivée étape 19 du Tour 2017
+Samatan;France;1;0;1;2012;2012;2012;départ étape 15 du Tour 2012
+San Remo;Italie;1;1;2;1948;1948;1948;"départ étape 12 du Tour 1948; arrivée étape 11 du Tour 1948"
+Santenay;France;1;1;2;1988;1988;1988;"départ étape 21 du Tour 1988; arrivée étape 21 du Tour 1988"
+Sarran;France;0;1;1;2001;2001;2001;arrivée étape 16 du Tour 2001
+Sarran Corrèze;France;0;1;1;2020;2020;2020;arrivée étape 12 du Tour 2020
+Sarrebourg;France;2;0;2;1985;1990;1985 1990;"départ étape 8 du Tour 1985; départ étape 6 du Tour 1990"
+Sarrebruck;Allemagne;0;1;1;2002;2002;2002;arrivée étape 2 du Tour 2002
+Sarrelouis;Allemagne;1;0;1;1970;1970;1970;départ étape 9 du Tour 1970
+Sarzeau;France;0;1;1;2018;2018;2018;arrivée étape 4 du Tour 2018
+Saumur;France;2;0;2;1987;2016;1987 2016;"départ étape 10 du Tour 1987; départ étape 4 du Tour 2016"
+Sauternes;France;1;0;1;1997;1997;1997;départ étape 8 du Tour 1997
+Savines;France;1;0;1;1974;1974;1974;départ étape 12 du Tour 1974
+Sceaux;France;1;1;2;1986;2006;1986 2006;"départ étape 20 du Tour 2006; arrivée étape 1 du Tour 1986"
+Scheveningen;Pays-Bas;2;1;3;1973;1973;1973;"départ étape 0 du Tour 1973; départ étape 1.1 du Tour 1973; arrivée étape 0 du Tour 1973"
+Sedan;France;0;1;1;2003;2003;2003;arrivée étape 2 du Tour 2003
+Seignosse;France;0;1;1;1977;1977;1977;arrivée étape 4 du Tour 1977
+Semur-en-Auxois;France;1;0;1;2024;2024;2024;départ étape 8 du Tour 2024
+Senlis;France;0;2;2;1975;1978;1975 1978;"arrivée étape 21 du Tour 1975; arrivée étape 21 du Tour 1978"
+Sens;France;1;0;1;1982;1982;1982;départ étape 20 du Tour 1982
+Seo de Urgel;Espagne;2;2;4;1968;1974;1968 1974;"départ étape 14 du Tour 1968; départ étape 16 du Tour 1974; arrivée étape 13 du Tour 1968; arrivée étape 15 du Tour 1974"
+Seraing;Belgique;1;3;4;1995;2015;1995 2001 2012 2015;"départ étape 4 du Tour 2015; arrivée étape 8 du Tour 1995; arrivée étape 3 du Tour 2001; arrivée étape 1 du Tour 2012"
+Serre-Chevalier;France;2;5;7;1974;2017;1974 1975 1980 1986 1993 2017;"départ étape 17 du Tour 1980; départ étape 11 du Tour 1993; arrivée étape 11 du Tour 1974; arrivée étape 16 du Tour 1975; arrivée étape 17 du Tour 1986; arrivée étape 10 du Tour 1993; arrivée étape 17 du Tour 2017"
+Sestrières;Italie;3;4;7;1952;1999;1952 1992 1996 1999;"départ étape 12 du Tour 1952; départ étape 14 du Tour 1992; départ étape 10 du Tour 1999; arrivée étape 11 du Tour 1952; arrivée étape 13 du Tour 1992; arrivée étape 9 du Tour 1996; arrivée étape 9 du Tour 1999"
+Seurre;France;1;0;1;1959;1959;1959;départ étape 21 du Tour 1959
+Sheffield;Royaume-Uni;0;1;1;2014;2014;2014;arrivée étape 2 du Tour 2014
+Sisteron;France;2;1;3;2010;2020;2010 2020;"départ étape 11 du Tour 2010; départ étape 4 du Tour 2020; arrivée étape 3 du Tour 2020"
+Soissons;France;3;0;3;1983;2002;1983 1996 2002;"départ étape 2 du Tour 1983; départ étape 4 du Tour 1996; départ étape 5 du Tour 2002"
+Sonderborg;Danemark;0;1;1;2022;2022;2022;arrivée étape 3 du Tour 2022
+Sorgues;France;1;0;1;2021;2021;2021;départ étape 11 du Tour 2021
+Spa;Belgique;1;4;5;1962;2010;1962 1980 1989 2010;"départ étape 2.1 du Tour 1962; arrivée étape 1 du Tour 1962; arrivée étape 4 du Tour 1980; arrivée étape 3 du Tour 1989; arrivée étape 2 du Tour 2010"
+St Valery-en-Caux;France;1;0;1;1997;1997;1997;départ étape 2 du Tour 1997
+St-Quentin;France;0;1;1;2012;2012;2012;arrivée étape 5 du Tour 2012
+Station des Rousses;Suisse;1;2;3;2010;2017;2010 2017;"départ étape 8 du Tour 2010; arrivée étape 7 du Tour 2010; arrivée étape 8 du Tour 2017"
+Strasbourg;France;12;12;24;1947;2006;1947 1948 1953 1961 1967 1971 1985 1987 1988 1992 2001 2006;"départ étape 5 du Tour 1947; départ étape 18 du Tour 1948; départ étape 1 du Tour 1953; départ étape 6 du Tour 1961; départ étape 8 du Tour 1967; départ étape 3 du Tour 1971; départ étape 9 du Tour 1985; départ étape 6 du Tour 1987; départ étape 11 du Tour 1992; départ étape 7 du Tour 2001; départ étape 0 du Tour 2006; départ étape 1 du Tour 2006; arrivée étape 4 du Tour 1947; arrivée étape 17 du Tour 1948; arrivée étape 5 du Tour 1961; arrivée étape 7 du Tour 1967; arrivée étape 2 du Tour 1971; arrivée étape 8 du Tour 1985; arrivée étape 5 du Tour 1987; arrivée étape 9 du Tour 1988; arrivée étape 10 du Tour 1992; arrivée étape 6 du Tour 2001; arrivée étape 0 du Tour 2006; arrivée étape 1 du Tour 2006"
+Stuttgart;Allemagne;1;1;2;1987;1987;1987;"départ étape 4 du Tour 1987; arrivée étape 3 du Tour 1987"
+Super-Besse Sancy;France;0;1;1;2011;2011;2011;arrivée étape 8 du Tour 2011
+Super-Lioran;France;0;1;1;1975;1975;1975;arrivée étape 13 du Tour 1975
+Superbagnères;France;1;6;7;1961;1989;1961 1962 1971 1979 1986 1989;"départ étape 14 du Tour 1986; arrivée étape 16 du Tour 1961; arrivée étape 13 du Tour 1962; arrivée étape 15 du Tour 1971; arrivée étape 2 du Tour 1979; arrivée étape 13 du Tour 1986; arrivée étape 10 du Tour 1989"
+Superbesse;France;0;3;3;1978;2008;1978 1996 2008;"arrivée étape 13 du Tour 1978; arrivée étape 13 du Tour 1996; arrivée étape 6 du Tour 2008"
+Superdévoluy;France;0;1;1;2024;2024;2024;arrivée étape 17 du Tour 2024
+Sète;France;1;2;3;1966;1967;1966 1967;"départ étape 15 du Tour 1967; arrivée étape 13 du Tour 1966; arrivée étape 14 du Tour 1967"
+Sèvres-Grand Paris Seine Ouest;France;1;0;1;2015;2015;2015;départ étape 21 du Tour 2015
+Tallard;France;2;0;2;2007;2014;2007 2014;"départ étape 10 du Tour 2007; départ étape 15 du Tour 2014"
+Tarascon-sur-Ariège;France;1;0;1;1998;1998;1998;départ étape 12 du Tour 1998
+Tarbes;France;12;2;14;1951;2023;1951 1975 1978 1987 1988 1993 1995 2001 2006 2009 2015 2019 2023;"départ étape 14 du Tour 1951; départ étape 12 du Tour 1975; départ étape 12.1 du Tour 1978; départ étape 15 du Tour 1987; départ étape 16 du Tour 1988; départ étape 17 du Tour 1993; départ étape 16 du Tour 1995; départ étape 14 du Tour 2001; départ étape 11 du Tour 2006; départ étape 10 du Tour 2015; départ étape 14 du Tour 2019; départ étape 6 du Tour 2023; arrivée étape 13 du Tour 1951; arrivée étape 9 du Tour 2009"
+Tarragone;Espagne;1;0;1;2026;2026;2026;départ étape 2 du Tour 2026
+Thionville;France;0;1;1;1999;1999;1999;arrivée étape 7 du Tour 1999
+Thoiry;France;1;0;1;2026;2026;2026;départ étape 21 du Tour 2026
+Thonon;France;8;8;16;1955;1981;1955 1957 1960 1964 1969 1970 1975 1977 1981;"départ étape 8 du Tour 1955; départ étape 10 du Tour 1957; départ étape 8 du Tour 1964; départ étape 9 du Tour 1969; départ étape 12 du Tour 1970; départ étape 19 du Tour 1975; départ étape 15.1 du Tour 1977; départ étape 16 du Tour 1981; arrivée étape 7 du Tour 1955; arrivée étape 9 du Tour 1957; arrivée étape 18 du Tour 1960; arrivée étape 7 du Tour 1964; arrivée étape 8.2 du Tour 1969; arrivée étape 11.2 du Tour 1970; arrivée étape 14 du Tour 1977; arrivée étape 15 du Tour 1981"
+Thonon-les-Bains;France;0;1;1;2026;2026;2026;arrivée étape 16 du Tour 2026
+Thuir;France;1;1;2;1973;1973;1973;"départ étape 12.2 du Tour 1973; arrivée étape 12.1 du Tour 1973"
+Tignes;France;0;3;3;2007;2021;2007 2019 2021;"arrivée étape 8 du Tour 2007; arrivée étape 19 du Tour 2019; arrivée étape 9 du Tour 2021"
+Tomblaine;France;3;0;3;2012;2022;2012 2014 2022;"départ étape 7 du Tour 2012; départ étape 8 du Tour 2014; départ étape 7 du Tour 2022"
+Tonnerre;France;1;0;1;2009;2009;2009;départ étape 12 du Tour 2009
+Toulon;France;2;2;4;1950;1964;1950 1964;"départ étape 15 du Tour 1950; départ étape 11 du Tour 1964; arrivée étape 14 du Tour 1950; arrivée étape 10.2 du Tour 1964"
+Toulouse;France;19;19;38;1948;2025;1948 1949 1952 1954 1955 1956 1958 1960 1961 1963 1964 1967 1970 1978 1985 1989 2003 2008 2019 2025;"départ étape 9 du Tour 1948; départ étape 13 du Tour 1949; départ étape 17 du Tour 1952; départ étape 14 du Tour 1954; départ étape 17 du Tour 1955; départ étape 14 du Tour 1956; départ étape 16 du Tour 1958; départ étape 13 du Tour 1960; départ étape 16 du Tour 1961; départ étape 13 du Tour 1963; départ étape 15 du Tour 1964; départ étape 16 du Tour 1967; départ étape 17 du Tour 1970; départ étape 17 du Tour 1985; départ étape 12 du Tour 1989; départ étape 13 du Tour 2003; départ étape 9 du Tour 2008; départ étape 12 du Tour 2019; départ étape 11 du Tour 2025; arrivée étape 8 du Tour 1948; arrivée étape 12 du Tour 1949; arrivée étape 16 du Tour 1952; arrivée étape 13 du Tour 1954; arrivée étape 16 du Tour 1955; arrivée étape 13 du Tour 1956; arrivée étape 15 du Tour 1958; arrivée étape 12 du Tour 1960; arrivée étape 15 du Tour 1961; arrivée étape 12 du Tour 1963; arrivée étape 14 du Tour 1964; arrivée étape 15 du Tour 1967; arrivée étape 16 du Tour 1970; arrivée étape 12.2 du Tour 1978; arrivée étape 16 du Tour 1985; arrivée étape 11 du Tour 2003; arrivée étape 8 du Tour 2008; arrivée étape 11 du Tour 2019; arrivée étape 11 du Tour 2025"
+Tourmalet Barèges;France;0;1;1;2019;2019;2019;arrivée étape 14 du Tour 2019
+Tournai;France;2;3;5;1966;2012;1966 2012;"départ étape 3.1 du Tour 1966; départ étape 3.2 du Tour 1966; arrivée étape 2 du Tour 1966; arrivée étape 3.1 du Tour 1966; arrivée étape 2 du Tour 2012"
+Tournus;France;1;0;1;2010;2010;2010;départ étape 7 du Tour 2010
+Tours;France;9;8;17;1955;2021;1955 1957 1961 1970 1992 2000 2005 2013 2021;"départ étape 22 du Tour 1955; départ étape 22 du Tour 1957; départ étape 21 du Tour 1961; départ étape 22 du Tour 1970; départ étape 19 du Tour 1992; départ étape 7 du Tour 2000; départ étape 4 du Tour 2005; départ étape 13 du Tour 2013; départ étape 6 du Tour 2021; arrivée étape 21 du Tour 1955; arrivée étape 21 du Tour 1957; arrivée étape 20 du Tour 1961; arrivée étape 21 du Tour 1970; arrivée étape 18 du Tour 1992; arrivée étape 6 du Tour 2000; arrivée étape 3 du Tour 2005; arrivée étape 12 du Tour 2013"
+Trelissac;France;0;1;1;1994;1994;1994;arrivée étape 8 du Tour 1994
+Trets;France;1;0;1;1980;1980;1980;départ étape 16 du Tour 1980
+Trie-sur-Baïse;France;1;0;1;2018;2018;2018;départ étape 18 du Tour 2018
+Trouville;France;1;1;2;1948;1948;1948;"départ étape 2 du Tour 1948; arrivée étape 1 du Tour 1948"
+Troyes;France;8;7;15;1954;2024;1954 1960 1963 1987 2000 2003 2005 2017 2024;"départ étape 23 du Tour 1954; départ étape 21 du Tour 1960; départ étape 21 du Tour 1963; départ étape 8 du Tour 1987; départ étape 5 du Tour 2003; départ étape 6 du Tour 2005; départ étape 7 du Tour 2017; départ étape 9 du Tour 2024; arrivée étape 22 du Tour 1954; arrivée étape 20 du Tour 1960; arrivée étape 20 du Tour 1963; arrivée étape 7 du Tour 1987; arrivée étape 20 du Tour 2000; arrivée étape 6 du Tour 2017; arrivée étape 9 du Tour 2024"
+Tulle;France;1;2;3;1976;1996;1976 1996;"départ étape 20 du Tour 1976; arrivée étape 19 du Tour 1976; arrivée étape 14 du Tour 1996"
+Turin;Italie;3;4;7;1956;2024;1956 1961 1966 1996 2024;"départ étape 18 du Tour 1956; départ étape 11 du Tour 1961; départ étape 10 du Tour 1996; arrivée étape 17 du Tour 1956; arrivée étape 10 du Tour 1961; arrivée étape 17 du Tour 1966; arrivée étape 3 du Tour 2024"
+Ussel;France;0;1;1;2026;2026;2026;arrivée étape 9 du Tour 2026
+Utah Beach Sainte-Marie-du-Mont;France;0;1;1;2016;2016;2016;arrivée étape 1 du Tour 2016
+Utrecht;Pays-Bas;2;1;3;2015;2015;2015;"départ étape 1 du Tour 2015; départ étape 2 du Tour 2015; arrivée étape 1 du Tour 2015"
+Vaison-la-Romaine;France;2;0;2;2002;2013;2002 2013;"départ étape 15 du Tour 2002; départ étape 16 du Tour 2013"
+Val Louron;France;0;1;1;1991;1991;1991;arrivée étape 13 du Tour 1991
+Val Thorens;France;0;2;2;1994;2019;1994 2019;"arrivée étape 17 du Tour 1994; arrivée étape 20 du Tour 2019"
+Val d'Aran-Pla-de-Beret;France;0;1;1;2006;2006;2006;arrivée étape 11 du Tour 2006
+Valence;France;1;5;6;1996;2025;1996 2015 2018 2021 2025;"départ étape 12 du Tour 1996; arrivée étape 11 du Tour 1996; arrivée étape 15 du Tour 2015; arrivée étape 13 du Tour 2018; arrivée étape 10 du Tour 2021; arrivée étape 17 du Tour 2025"
+Valence d'Agen;France;1;2;3;1978;1982;1978 1982;"départ étape 12.2 du Tour 1978; arrivée étape 12.1 du Tour 1978; arrivée étape 11 du Tour 1982"
+Valenciennes;France;4;3;7;1970;2025;1970 1983 1984 1991 2025;"départ étape 7.1 du Tour 1970; départ étape 3 du Tour 1983; départ étape 4 du Tour 1984; départ étape 3 du Tour 2025; arrivée étape 6 du Tour 1970; arrivée étape 3 du Tour 1984; arrivée étape 5 du Tour 1991"
+Valkenburg;Pays-Bas;1;2;3;1992;2006;1992 2006;"départ étape 8 du Tour 1992; arrivée étape 7 du Tour 1992; arrivée étape 3 du Tour 2006"
+Valloire;France;2;3;5;1972;2024;1972 1975 2019 2024;"départ étape 14.2 du Tour 1972; départ étape 17 du Tour 1975; arrivée étape 14.1 du Tour 1972; arrivée étape 18 du Tour 2019; arrivée étape 4 du Tour 2024"
+Valréas;France;4;0;4;1987;2004;1987 1994 1998 2004;"départ étape 19 du Tour 1987; départ étape 16 du Tour 1994; départ étape 14 du Tour 1998; départ étape 15 du Tour 2004"
+Vals-les-Bains;France;0;1;1;1966;1966;1966;arrivée étape 14.2 du Tour 1966
+Vannes;France;6;2;8;1947;2015;1947 1954 1985 1993 2000 2015;"départ étape 19 du Tour 1947; départ étape 8 du Tour 1954; départ étape 1 du Tour 1985; départ étape 3 du Tour 1993; départ étape 5 du Tour 2000; départ étape 9 du Tour 2015; arrivée étape 7 du Tour 1954; arrivée étape 2 du Tour 1993"
+Vatan;France;1;0;1;2009;2009;2009;départ étape 11 du Tour 2009
+Vejle;Danemark;1;0;1;2022;2022;2022;départ étape 3 du Tour 2022
+Verbier;Suisse;0;1;1;2009;2009;2009;arrivée étape 15 du Tour 2009
+Verdun;France;1;2;3;1993;2001;1993 2001;"départ étape 5 du Tour 2001; arrivée étape 8 du Tour 1993; arrivée étape 4 du Tour 2001"
+Versailles;France;16;15;31;1958;2013;1958 1961 1964 1965 1967 1970 1971 1972 1973 1975 1976 1977 1989 2013;"départ étape 5 du Tour 1958; départ étape 1.2 du Tour 1961; départ étape 22.2 du Tour 1964; départ étape 22 du Tour 1965; départ étape 22.2 du Tour 1967; départ étape 23 du Tour 1970; départ étape 20 du Tour 1971; départ étape 20.1 du Tour 1972; départ étape 20.2 du Tour 1972; départ étape 20.1 du Tour 1973; départ étape 20.2 du Tour 1973; départ étape 4 du Tour 1975; départ étape 22.1 du Tour 1976; départ étape 22.1 du Tour 1977; départ étape 21 du Tour 1989; départ étape 21 du Tour 2013; arrivée étape 4 du Tour 1958; arrivée étape 1.1 du Tour 1961; arrivée étape 1.2 du Tour 1961; arrivée étape 22.1 du Tour 1964; arrivée étape 21 du Tour 1965; arrivée étape 22.1 du Tour 1967; arrivée étape 22 du Tour 1970; arrivée étape 19 du Tour 1971; arrivée étape 19 du Tour 1972; arrivée étape 20.1 du Tour 1972; arrivée étape 19 du Tour 1973; arrivée étape 20.1 du Tour 1973; arrivée étape 3 du Tour 1975; arrivée étape 21 du Tour 1976; arrivée étape 21 du Tour 1977"
+Verviers;Belgique;1;1;2;1976;2017;1976 2017;"départ étape 3 du Tour 2017; arrivée étape 5.2 du Tour 1976"
+Vesoul;France;2;0;2;1972;2017;1972 2017;"départ étape 18 du Tour 1972; départ étape 6 du Tour 2017"
+Veurey;France;1;0;1;1981;1981;1981;départ étape 19 du Tour 1981
+Vichy;France;2;1;3;1952;2026;1952 2026;"départ étape 23 du Tour 1952; départ étape 11 du Tour 2026; arrivée étape 22 du Tour 1952"
+Vielha Val d'Aran;Espagne;1;0;1;2016;2016;2016;départ étape 9 du Tour 2016
+Vierzon;France;1;0;1;2021;2021;2021;départ étape 7 du Tour 2021
+Vif;France;1;0;1;2025;2025;2025;départ étape 18 du Tour 2025
+Villard-de-Lans;France;5;7;12;1985;2020;1985 1986 1987 1988 1989 1990 1993 2004 2020;"départ étape 19 du Tour 1986; départ étape 20 du Tour 1987; départ étape 19 du Tour 1989; départ étape 13 du Tour 1990; départ étape 10 du Tour 1993; arrivée étape 13 du Tour 1985; arrivée étape 19 du Tour 1987; arrivée étape 13 du Tour 1988; arrivée étape 18 du Tour 1989; arrivée étape 12 du Tour 1990; arrivée étape 15 du Tour 2004; arrivée étape 16 du Tour 2020"
+Villars-les-Dombes Parc des Oiseaux;France;0;1;1;2016;2016;2016;arrivée étape 14 du Tour 2016
+Ville d'Avray;France;1;0;1;2003;2003;2003;départ étape 20 du Tour 2003
+Villefranche-sur-Saône;France;0;2;2;1984;1984;1984;"arrivée étape 21 du Tour 1984; arrivée étape 22 du Tour 1984"
+Villeneuve-sur-Lot;France;0;3;3;1996;2024;1996 2000 2024;"arrivée étape 15 du Tour 1996; arrivée étape 8 du Tour 2000; arrivée étape 12 du Tour 2024"
+Villers-sur-Mer;France;1;1;2;1986;1986;1986;"départ étape 6 du Tour 1986; arrivée étape 5 du Tour 1986"
+Villeurbanne;France;1;0;1;1991;1991;1991;départ étape 3 du Tour 1991
+Villié-Morgon;France;1;0;1;1984;1984;1984;départ étape 22 du Tour 1984
+Vire;France;1;1;2;1997;1997;1997;"départ étape 3 du Tour 1997; arrivée étape 2 du Tour 1997"
+Vire Normandie;France;0;1;1;2025;2025;2025;arrivée étape 6 du Tour 2025
+Viry-Chatillon;France;1;0;1;1993;1993;1993;départ étape 20 du Tour 1993
+Visé;Belgique;1;0;1;2012;2012;2012;départ étape 2 du Tour 2012
+Vitoria;Espagne;1;1;2;1977;1977;1977;"départ étape 4 du Tour 1977; arrivée étape 3 du Tour 1977"
+Vitoria-Gasteiz;Espagne;1;0;1;2023;2023;2023;départ étape 2 du Tour 2023
+Vitré;France;2;4;6;1985;2006;1985 1995 2000 2006;"départ étape 3 du Tour 1985; départ étape 6 du Tour 2000; arrivée étape 2 du Tour 1985; arrivée étape 2 du Tour 1995; arrivée étape 5 du Tour 2000; arrivée étape 6 du Tour 2006"
+Vittel;France;5;4;9;1968;2017;1968 1990 2009 2017;"départ étape 0 du Tour 1968; départ étape 1 du Tour 1968; départ étape 7 du Tour 1990; départ étape 13 du Tour 2009; départ étape 5 du Tour 2017; arrivée étape 0 du Tour 1968; arrivée étape 6 du Tour 1990; arrivée étape 12 du Tour 2009; arrivée étape 4 du Tour 2017"
+Vizille;France;1;0;1;1998;1998;1998;départ étape 16 du Tour 1998
+Voiron;France;2;1;3;1977;2026;1977 2026;"départ étape 18 du Tour 1977; départ étape 18 du Tour 2026; arrivée étape 17 du Tour 2026"
+Voreppe;France;1;0;1;1980;1980;1980;départ étape 19 du Tour 1980
+Vouvray;France;1;0;1;1974;1974;1974;départ étape 21.1 du Tour 1974
+Vulcania;France;1;0;1;2023;2023;2023;départ étape 10 du Tour 2023
+Wanze;Belgique;1;0;1;2010;2010;2010;départ étape 3 du Tour 2010
+Waregem;Belgique;1;0;1;2007;2007;2007;départ étape 3 du Tour 2007
+Wasquehal;France;2;5;7;1988;2004;1988 1989 1992 1996 2004;"départ étape 7 du Tour 1988; départ étape 3 du Tour 1996; arrivée étape 6 du Tour 1988; arrivée étape 4 du Tour 1989; arrivée étape 5 du Tour 1992; arrivée étape 2 du Tour 1996; arrivée étape 3 du Tour 2004"
+Waterloo;Belgique;1;0;1;2004;2004;2004;départ étape 3 du Tour 2004
+Wiesbaden;Allemagne;1;1;2;1980;1980;1980;"départ étape 1.2 du Tour 1980; arrivée étape 1.1 du Tour 1980"
+Woluwé-Saint-Pierre;Belgique;2;2;4;1969;1969;1969;"départ étape 1.2 du Tour 1969; départ étape 2 du Tour 1969; arrivée étape 1.1 du Tour 1969; arrivée étape 1.2 du Tour 1969"
+York;Royaume-Uni;1;0;1;2014;2014;2014;départ étape 2 du Tour 2014
+Ypres;Belgique;1;0;1;2014;2014;2014;départ étape 5 du Tour 2014
+Zolder;Belgique;0;1;1;1981;1981;1981;arrivée étape 12.2 du Tour 1981
+Zurich;Suisse;1;1;2;1955;1955;1955;"départ étape 7 du Tour 1955; arrivée étape 6 du Tour 1955"
+Zélande;Pays-Bas;0;1;1;2015;2015;2015;arrivée étape 2 du Tour 2015
+gourette-col-d-aubisque;France;0;1;1;2007;2007;2007;arrivée étape 16 du Tour 2007
+le-grand-bornand;France;3;4;7;1995;2013;1995 1999 2004 2007 2009 2013;"départ étape 9 du Tour 1995; départ étape 9 du Tour 1999; départ étape 8 du Tour 2007; arrivée étape 17 du Tour 2004; arrivée étape 7 du Tour 2007; arrivée étape 17 du Tour 2009; arrivée étape 19 du Tour 2013"
+loudenvielle-le-louron;France;0;2;2;2003;2007;2003 2007;"arrivée étape 14 du Tour 2003; arrivée étape 15 du Tour 2007"
+plateau-de-beille;France;0;6;6;1998;2015;1998 2002 2004 2007 2011 2015;"arrivée étape 11 du Tour 1998; arrivée étape 12 du Tour 2002; arrivée étape 13 du Tour 2004; arrivée étape 14 du Tour 2007; arrivée étape 14 du Tour 2011; arrivée étape 12 du Tour 2015"
+porto-vecchio;France;1;0;1;2013;2013;2013;départ étape 1 du Tour 2013
+semur-en-auxois;France;1;0;1;2007;2007;2007;départ étape 6 du Tour 2007
+val-d-isere;France;2;2;4;1963;2007;1963 1996 2007;"départ étape 17 du Tour 1963; départ étape 9 du Tour 2007; arrivée étape 16 du Tour 1963; arrivée étape 8 du Tour 1996"
+villers-cotterets;France;1;0;1;2007;2007;2007;départ étape 4 du Tour 2007
+Île d'Oléron Le Château-d'Oléron;France;1;0;1;2020;2020;2020;départ étape 10 du Tour 2020
+Île de Ré Saint-Martin-de-Ré;France;0;1;1;2020;2020;2020;arrivée étape 10 du Tour 2020
